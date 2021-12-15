@@ -1,0 +1,562 @@
+abdomen
+
+Abdominal wall
+
+Amniotic sac
+
+bladder
+
+bladder wall
+
+bone
+Bone (femoral cavity)
+
+Bone (femoral)
+
+Bone (femur)
+
+Bone (hemimandible)
+
+Bone (ipsilateral subarcuate fossa)
+
+bone (mandible)
+
+Bone (matrix)
+
+bone (maxilla)
+
+bone (medulla)
+
+Bone (parietal)
+
+Bone (proximal tibial growth plates)
+
+bone (rib)
+
+Bone (tibia)
+
+buccal
+
+CNS/CSF (central parietal lobe)
+
+CNS/CSF (cortex)
+
+CNS/CSF (lateral ventricle)
+
+CNS/CSF (third ventricle)
+
+CSF/CNS
+
+CSF/CNS (3rd ventricle, 4th ventricle)
+
+CSF/CNS (amygdala)
+
+CSF/CNS (anterior cingulate cortex)
+
+CSF/CNS (arcuate nucleus)
+
+CSF/CNS (area X)
+
+CSF/CNS (auditory cortex)
+
+CSF/CNS (barrel cortex)
+
+CSF/CNS (barrel field cortex); CSF/CNS (visual cortex)
+
+CSF/CNS (basal forebrain)
+
+CSF/CNS (basal ganglia)
+
+CSF/CNS (basal ventromedial hypothalamus)
+
+CSF/CNS (basolateral amygdala)
+
+CSF/CNS (bilateral CA1 region)
+
+CSF/CNS (bilateral paraventricular nuclei)
+
+CSF/CNS (brain stem)
+
+CSF/CNS (caduate putamen)
+
+CSF/CNS (caudal aquaduct)
+
+CSF/CNS (caudal cerebellar peduncle)
+
+CSF/CNS (caudate nucleus)
+
+CSF/CNS (central amygdaloid nucleus)
+
+CSF/CNS (cerebellar vermis)
+
+CSF/CNS (cerebellum)
+
+CSF/CNS (cerebral cortex)
+
+CSF/CNS (cervical sympathetic trunk)
+
+CSF/CNS (cistern magna)
+
+CSF/CNS (cisterna)
+
+CSF/CNS (corpus callosum)
+
+CSF/CNS (corpus striatum); CSF/CNS (hippocampus)
+
+CSF/CNS (cortex)
+
+CSF/CNS (cortical surface)
+
+CSF/CNS (cranium)
+
+CSF/CNS (cuneate nucleus)
+
+CSF/CNS (dentate gyrus)
+
+CSF/CNS (diencephalon)
+
+CSF/CNS (dorsal hilus)
+
+CSF/CNS (dorsal hippocampus)
+
+CSF/CNS (dorsal lateral geniculate nucleus)
+
+CSF/CNS (dorsal raphe nucleus)
+
+CSF/CNS (dorsal raphe)
+
+CSF/CNS (dorsal root ganglia);
+
+CSF/CNS (dorsal striatum)
+
+CSF/CNS (dorsal third ventricle)
+
+CSF/CNS (dorsolateral striatum)
+
+CSF/CNS (dorsomedial hypothalamus)
+
+CSF/CNS (entorhinal cortex)
+
+CSF/CNS (facial nerve)
+
+CSF/CNS (forebrain)
+
+CSF/CNS (fourth ventricle)
+
+CSF/CNS (frontal cortex)
+
+CSF/CNS (frontal lobe)
+
+CSF/CNS (frontal parietal neocortex)
+
+CSF/CNS (frontoparietal cortex)
+
+CSF/CNS (gastocnemius nerve)
+
+CSF/CNS (globus pallidus); CSF/CNS (nucleus ventralis)
+
+CSF/CNS (gray matter)
+
+CSF/CNS (high vocal center)
+
+CSF/CNS (hippocampus)
+
+CSF/CNS (hypothalamic medial preoptic area)
+
+CSF/CNS (Hypothalamic paraventricular nucleus)
+
+CSF/CNS (hypothalamus)
+
+CSF/CNS (infarct border)
+
+CSF/CNS (inferior alveolar nerve)
+
+CSF/CNS (inferior collicus)
+
+CSF/CNS (intracerebral); IV
+
+Csf/cns (intracisternal)
+
+CSF/CNS (intrathecal)
+
+CSF/CNS (intratumoral)
+
+CSF/CNS (ipsilateral septum)
+
+CSF/CNS (ipsilateral striatum)
+
+CSF/CNS (lateral geniculate nucleus)
+
+CSF/CNS (lateral hypothalamic area)
+
+CSF/CNS (lateral septum);
+
+CSF/CNS (lateral striatum)
+
+CSF/CNS (lateral ventricle)
+
+CSF/CNS (left midbrain)
+
+CSF/CNS (left motor cortex)
+
+CSF/CNS (left ventricle)
+
+CSF/CNS (lesion)
+
+CSF/CNS (limbic system)
+
+CSF/CNS (magnocellular medial preoptic nucleus)
+
+CSF/CNS (magnocellularis)
+
+CSF/CNS (medial prefrontal cortex)
+
+CSF/CNS (median eminence)
+
+CSF/CNS (mediobasal hypothalamus)
+
+CSF/CNS (medulla)
+
+CSF/CNS (midbrain periaqueductal gray)
+
+CSF/CNS (motor cortex)
+
+CSF/CNS (musculocutaneous nerve)
+
+CSF/CNS (neocortex)
+
+CSF/CNS (neostriatum)
+
+CSF/CNS (nigrostriatal complex)
+
+CSF/CNS (nucleus accumbens)
+
+CSF/CNS (nucleus basalis magnocellularis)
+
+CSF/CNS (nucleus of solitary tract)
+
+CSF/CNS (occipital cortex)
+
+CSF/CNS (olfactory bulb)
+
+CSF/CNS (optic nerve)
+
+CSF/CNS (orbitofrontal cortex)
+
+CSF/CNS (paraflocculus)
+
+CSF/CNS (paraventricular nuclei)
+
+CSF/CNS (paraventricular nucleus)
+
+CSF/CNS (parenchyma)
+
+CSF/CNS (parietal cortex)
+
+CSF/CNS (periaqueductal gray)
+
+CSF/CNS (peroneal nerve)
+
+CSF/CNS (primary motor cortex)
+
+CSF/CNS (primary visual cortex)
+
+CSF/CNS (PVN of thalamus); CSF/CNS (rostral medial nuclei of thalamus)
+
+CSF/CNS (raphe nucleus); CSF/CNS (locus coeruleus);
+
+CSF/CNS (recurrent laryngeal nerve)
+
+CSF/CNS (right dorsal hippocampus)
+
+CSF/CNS (right hippocampal region)
+
+CSF/CNS (right lateral ventricle)
+
+CSF/CNS (sciatic nerve)
+
+CSF/CNS (sensorimotor cortex);
+
+CSF/CNS (septum)
+
+CSF/CNS (somatomotor region)
+
+CSF/CNS (somatosensory cortex)
+
+CSF/CNS (spinal cord)
+
+CSF/CNS (striate cortex)
+
+CSF/CNS (striatum)
+
+CSF/CNS (subarachnoid space)
+
+CSF/CNS (substantia nigra)
+
+CSF/CNS (suprachiasmatic nucleus)
+
+CSF/CNS (supraoptic nucleus)
+
+CSF/CNS (surface of brain)
+
+CSF/CNS (thalamus)
+
+CSF/CNS (third ventricle)
+
+CSF/CNS (ventral tegmental area)
+
+CSF/CNS (ventral tegmentum)
+
+CSF/CNS (ventricle)
+
+CSF/CNS (ventrobasal complex)
+
+CSF/CNS (ventrolateral striatum)
+
+CSF/CNs (ventromedial nucleus)
+
+CSF/CNS (vermal cortex)
+
+CSF/CNS (vestibular nucleus complex)
+
+CSF/CNS (visual cortex)
+
+Ear
+
+Ear (cochlea perilymphatic space)
+
+Ear (cochlea)
+
+Ear (middle ear space)
+
+Ear (perilymphatic fluid)
+
+Ear (right cochlea)
+
+Ear (round window membrane)
+
+Ear (round window niche)
+
+Ear (round window)
+
+Ear (scala tympani)
+
+Ear (semicircular canal)
+
+ear (tympanic bulla)
+
+Ear (vestibule)
+
+extraluminal (carotid wall)
+
+Eye
+
+Eye (cornea)
+
+Eye (corneal stroma)
+
+Eye (intrasclera)
+
+Eye (lens)
+
+Eye (optic nerve)
+
+Eye (retrobulbar optic nerve)
+
+Eye (vitreous chamber)
+
+gallbladder
+
+IA
+
+IA (abdominal aorta)
+
+IA (aorta)
+
+IA (brachial)
+
+IA (carotid)
+
+IA (celiac)
+
+IA (dorsal aorta)
+
+IA (femoral)
+
+IA (iliac)
+
+IA (innominate); IV
+
+IA (left carotid)
+
+IA (renal artery)
+
+In situ (marine environment)
+
+In Vitro
+
+in vitro (cell culture)
+
+In vitro (cell migration)
+
+in vitro (egg)
+
+injury site
+
+Intestine
+
+Intestine (cecal lumen)
+
+intestine (cecum)
+
+Intestine (colon)
+
+Intestine (duodenum)
+
+intestine (small intestine)
+
+Intra-amniotic
+
+Intracoelomic
+
+intradermal
+
+Intra-esophageal
+
+intragastric
+
+intraluminal (bladder)
+
+intraluminal (ileum)
+
+Intramuscular
+
+Intramuscular (abdominal)
+
+Intramuscular (gastrocnemius)
+
+Intramuscular (hind leg)
+
+Intramuscular (hind limb)
+
+Intramuscular (latissimus dorsi)
+
+Intramuscular (medial gastrocnemius)
+
+Intramuscular (plantaris)
+
+Intramuscular (soleus)
+
+Intramuscular (tibialis anterior)
+
+Intramuscular (triceps surae)
+
+Intramuscular (vastus lateralis)
+
+Intramyocardial
+
+Intraovarian
+
+Intrapenile
+
+Intrapericardial
+
+intrasplenic
+
+Intratesticular
+
+Intratumoral
+
+intrauterine
+
+Intrauterine (uterine horn)
+
+IP
+
+IV
+
+IV (atrium)
+
+IV (carotid)
+
+IV (external jugular)
+
+IV (femoral vein)
+
+IV (femoral)
+
+IV (fetal vena cava)
+
+IV (hepatic portal)
+
+IV (iliac)
+
+IV (inferior mesenteric)
+
+IV (inferior vena cava)
+
+IV (jugalar)
+
+IV (lateral saphenous vein)
+
+IV (lumbar)
+
+IV (portal)
+
+IV (saphenous)
+
+IV (superior vena cava)
+
+IV (vena cava)
+
+Kidney
+
+Kidney (cortex)
+
+Kidney (renal capsule)
+
+Kidney (renal cortex)
+
+Kidney (renal subcapsular space)
+
+Kidney (renal subcapsule)
+
+Knee (articular cavity)
+
+Knee (medullary cavity)
+
+Larynx;
+
+Lung (intratracheal)
+
+mammary gland
+
+Oviductal
+
+penis (corpora cavernosa)
+
+Perivascular
+
+perivascular (carotid artery)
+
+perivascular (cerebral artery adventitia)
+
+PO
+
+PO (intraruminal)
+
+prostate
+
+Rectal
+
+SC
+
+scrotal
+
+Stomach (gastric lumen)
+
+tectal ventricle
+
+Tracheal graft
+
+Wound site

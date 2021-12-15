@@ -1,0 +1,3989 @@
+
+1NMPP1; Q2484; 2013
+2-meSATP; ATP-y-S; Q5378; 2016
+2-methyl-6-(phenylethynyl)pyridine; Q3247; 2013
+3CPI; Q1638; 2012
+3-Deazaadenosine, DZA, DAA; Q2972; 2013
+3-nitropropionic acid; RNA, small interfering ASK1; Q4813; 2016
+
+
+4-27632; P7333; 2005
+4F-benzoyl-TN14003; P6186; 2003
+4PYR; Q0690; 2011
+4SG-29; RO-23-7863; Growth hormone-rel. factor; P1492; 1988
+5-HT; Q2728; 2012
+7-NI; P6962; 2005
+7-OH-DPAT; Q4283; 2015
+8-Br-cAMP; H-89; Q4915; 2016
+8-chloroadenosine-3',5'-monophosphorothioate; P5507; 2002
+8-CL-cAMPS; P6137; 2002
+8CPT; H-89; Q2434; 2012
+8ISO; SQ29,548; Q3775; 2015
+8-MOP; Chromophore; Sorbinil; Liposomes; P1722; 1989
+8-OH-DPAT; Q2418; 2012
+10,17S-docosatriene; P5874; 2003ƒ
+17 B-Estradiol (E2); Q4943; 2013
+17-HDHA; DHA; Q2980; 2007
+20-hydroxyecdysone; Q5584; 2016
+241Americium radionuclide; P2124; 1992
+241Plutonium citrate; P2155; 1992
+606A; P3979; 1998
+1400W; P8466; 2007
+1400W dihydrochloride; Q4294; 2015
+9050; P6687; 2003
+(-)-CGP12177; Q3097; 2013
+[3H]Ficolls, polydisperse; Q4154; 2014
+[Ala11, D-Leu15] Orexin-B;; Q4175; 2014
+[d(CH2)5Tyr(Me)] arginine vasopressin; P2235; 1992
+[D-Ala2, N-Me-Phe4, Gly5-ol]-enkephalin; Q3258; 2013
+
+
+A
+
+A2B agonist; Q4792; 2015
+a48/65(N62K); a48/65; Q4575; 2015
+A779; Q4173; 2014
+A61603; Q1025; 2011
+A71915; Q4979; 2015
+A438079; Q3431; 2014
+A438079 hydrochloride; Q1176; 2011
+A802715; P3741; 1997
+A-515; P3211; 1994
+A-779
+A-75998; P3190; 1994
+A-127722; P6390; 2004
+A-192621; P4988; 2001
+A-357300; P6533; 2003
+A-582941; P9367; 2009
+AA-861; U-75302; SB203580; pranlukast; U0126; P9949; 2010
+AACOCF3; P6438; 2003
+Abciximab; P4299; 1998
+ABG-898; Q4436; 2015
+ABT-089; Nicotine bitartrate; P3910; 1997
+ABT-107; donepezil; Q1573; 2010
+ABT-239; Q0731; 2011
+ABT-418; Nicotine, S-(-)-; P2655; 1994
+ABT-510; Q2664; 2013
+ABT-546; Q5688; 2016
+ABT-888; Q0501; 2007
+AC3174; Q2868; 2013
+AC164204; AC164209; exenatide; davalintide; Q2936; 2013
+AC170222l; AC3174; Q4167; 2014
+AC 187; P6258; 2004
+Acenocoumarol; P1340; 1988
+acetaminophen,; Q5063; 2013
+Acetate, 2-fluoro-; P8214; 2006
+Acetazolamide; P4773; 2001
+Acetic acid, 5, 6-dimethylxanthenone-4-; P6499; 2003
+Acetoacetate; P6699; 2003
+Acetone cyanohydrin; potassium cyanide; Q1946; 2010
+Acetylcholine chloride; P0812; 1986
+Acetylcholine HCl; P0439; 1984
+Acetylcysteine amide, N-; Q5462; 2014
+Acetylcysteine, N-; P5974; 2003
+Acetyl-cysteine, N-, stereoisomer; acetyl-L-carnitine hydrochloride, O-; Q2194; 2012
+Acetylsalicylic acid; P0455; 1984
+Acivicin; P7135; 2005
+ACM-hG93A; Q5884; 2017
+ACP-105; Q0742; 2011
+Acrolein; Q3163; 2013
+Acrosin inhibitors; P0280; 1982
+Ac-SDKP; Q4353; 2015
+ACTH; P3702; 1996
+ACTH (1-24); P9033; 2008
+ACTH analog; ORG-2766; Melanocyte-stimulating hormone, a-; P1284; 1988
+ACTH(1-10)-amide, (D-Phe7)-; Morphine sulfate; P0062; 1980
+ACTH(1-24); P0387; 1983
+ACTH, porcine; P4149; 1998
+Actinomycin D; Cycloheximide; Mitomycin C; Vinblastine; P1379; 1988
+Active A, recombinant; Q5677; 2017
+Activin A; P5086; 2002
+Activin A, recombinant; Q4594; 2015
+Activin A, recombinant human; P2506; 1994
+Acyclovir, sodium; P0379; 1983
+Acylation stimulating protein, recomb; Q2440; 2012
+Acyline; P7031; 2004
+Adamantane, 1-amino-; P3920; 1998
+ADAMTS-4, recomb.; Q2098; 2012
+Adenine, 9-(tetrahydro-2-furyl)-,; Q1038; 2011
+Adeno-associated virus serotype 8 vector, recomb.; P7904; 2006
+Adenosine; P1675; 1989
+Adenosine 5'-monophosphate, b-cyclohexylthio; Q3635; 2013
+Adenosine 5'-O-(2-thiodiphosphate); Q3287; 2014
+Adenosine dialdehyde; P1390; 1988
+Adenosine diphosphate; Q5510; 2016
+Adenosine receptor agonist; P1792; 1989
+Adenosine Triphosphate Gamma S, adenosine triphosphate, FLRF alpha; Q3333; 2007
+Adenosine triphosphate, oxidized; 2-[7-(1H-imidazol-1-yl)-6-nitro-2,3-dioxo-1,2,3,4-tetrahydro quinoxalin-1-yl]acetic acid; Q3322; 2013
+Adenosine triphosphate; PPADS; P6536; 2004
+Adenosine, 2-chloro-N6-cyclopentyl-; xanthine, 8-cyclopentyl-1, 3-dimethyl; P7202; 2005
+Adenosine, 5'-deoxy-5'-(hydroxyethyl)thio-; Adenosine, 5'-deoxy-5'-(methylthio)-;; P4437; 1991
+Adenosine, 5'-N-ethylcarboxamide; Adenosine, R-1-methyl-2-phenylethyl; Deoxycoformycin; P1185; 1988
+Adenosine, N6-cyclopentyl; Q5749; 2016
+Adenovirus vector; virus, adeno-associated; P7117; 2001
+Adenovirus; Gene, beta-galactosidase;; P4821; 2001
+Adenylate cyclase-stim. proteins; P1242; 1988
+Adinazolam; Diazepam; P0433; 1984
+Adipocyte complement-related protein 30, globular head domain; P8469; 2001
+Adipogenic supplement; Q4784; 2014
+Adiponectin; Q4312; 2015
+Adiponectin, recomb.; Q0159; 2010
+Adrenaline; P7157; 2005
+Adrenocorticotrophin, porcine; Q2364; 2012
+Adrenocorticotropic hormone; Q0365; 2009
+Adrenomedulin, recomb. human; P9031; 2008
+Adrenomedullin; P7386; 2005
+Adrenomedullin 2; Q5110; 2016
+Adrenomedullin antagonist, 22-52; P6885; 2004
+Adrenomedullin, human; P3758; 1997
+Adrenomedullin, recomb. human; P8611; 2007
+Advanced glycation end products aptamer; Q3090; 2013
+AEOL 10150; P5554; 2002
+AFDX 116; P7176; 2005
+AFL-4; P9897; 2009
+AG825; Q2502; 2013
+AG1478; Q0908; 2009
+AG-041R; P5044; 2002
+AG-490; P3017; 1996
+AG-1296; PP1; P6010; 2003
+AG-1478; P9197; 2008
+AG 1295; P4916; 2001
+AGE-aptamer; Q5229; 2015
+AGM-1470; P6181; 1995
+AGN205203; P8419; 2007
+Agomir-155; Q5808; 2016
+Agomir-210; Q5759; 2017
+Agonist, adenosine A1 receptor; Q3182; 2014
+Agouti-related peptide (82-131); P9223; 2008
+AH 21-122; Mepyramine; Aminophylline; Dexamethasone; Ketotifen; Salbutamol; P1624; 1990
+AH 6809; cyclic AMP, Rp-; P7938; 2006
+AICAR; Q1070; 2010
+AJ-004; T-98; T-121/B; P2434; 1992
+AK275; Dye, Evans-Blue fluorescent; P2615; 1994
+Alamandine; Q5777; 2017
+Albumin; Q2637; 2013
+Albumin, bovine serum; P3722; 1997
+Albumin, C-14; Q0271; 2009
+Albumin, human serum; radio-isotopes; P6411; 2003
+Albumin, mouse serum (C-14); P7223; 2005
+Albumin, rat serum; albumin, rat serum, AGE-modified; angiotensin II; P8190; 2005
+Albumin, urinary C-14; Q5523; 2002
+Albumin; Thimerisol;; P4558; 1999
+Albuterol; P5511; 2002
+Albuterol, R-; Albuterol, S-; Albuterol, RS-; P5445; 2002
+Alda-1; Q3892; 2015
+Alda-89; Q3126; 2013
+Aldosterone; P6122; 2003
+Aldosterone acetate; Deoxycorticosterone acetate; P0194; 1982
+Aldosterone, 18-; Hydroxy-19-norcorticosterone; Hydroxycortisone, 18-; P1429; 1988
+Aldosterone, 19-NOR; Aldosterone, 19-OH; P1025; 1985
+Aldosterone, D-; P7841; 2006
+Aldosterone, dehydrocorticosterone, 11-; Q5532; 2013
+Alendronate; P9335; 2009
+Alfentanil; Sufentanil; P1206; 1988
+Alinidine; P7037; 2004
+Aliskiren; Q1756; 2011
+Aliskiren, handle region peptide; Q5467; 2013
+Aliskiren; benazeprilat; valsartan; PD123319; Q2883; 2013
+Aliskiren; candesartan; Q0350; 2010
+Alkaline phosphatase tag; eTEM-AP, recomb.; Q0748; 2009
+Allopregnanolone; Q5468; 2013
+Allyglycine, 1-; Q4331; 2015
+Allylglycine, d-; allylglycine, l-; P9875; 2008
+Allylglycine, L-; Q4990; 2015
+alpha, L1 Fab; Q3707; 2014
+Alpha-melanocyte-stimulating-hormone; Q4074; 2015
+Alprazolam; P1779; 1989
+Alprenolol; Carvedilol; ICI-118,551; P5384; 2002
+ALX5407; ALX1393; Q4702; 2014
+AM1710; Taxol-WIN55,212-2; AM251; AM630; Q3610; 2014
+Amantadine; Q3272; 2014
+Amantadine; memantine; R0187; 1997
+AMD3100; Q4297; 2015
+AMD 3465; P7881; 2006
+Amidephrine mesylate; P2342; 1992
+Amikacin; P9856; 2009
+Amiloride; P1813; 1990
+Aminoacridine, 9-; Q3525; 2014
+Aminobenzamide, 3-; P6698; 2003
+Aminobenzotriazole, 1-; P6521; 2004
+Aminobutyric acid, gamma; Q0603; 2009
+Aminocamptothecin, 9-; P3735; 1997
+Aminoguanidine; P5471; 2002
+Aminohippuric acid, p-; Inulin; P3853; 1997
+Aminoisobutyrate, beta; Q2538; 2013
+Aminolaevulinic acid, delta-; P0569; 1984
+Aminolevulinic acid, 5-; Dye, Methylene blue; P3750; 1997
+Aminophylline; P1879; 1990
+Aminopropionitrile fumarate, B-; P0501; 1984
+Aminopropionitrile, B-; Q4072; 2015
+Aminopyrine; Formate, sodium; radio-isotopes; P3395; 1995
+Aminopyrine; Radio-isotopes; P1268; 1987
+Aminosalicylate, 5-; Radio-isotopes; P1196; 1987
+Aminotetralin, 8-hydroxy-dipropyl; Q0346; 2010
+Aminovaleric acid, 5-; methionine sulfoximine; Q3455; 2014
+Amitriptyline; P0384; 1982
+Amitriptyline HCl; P1513; 1987
+Amitriptyline hydrochloride; P7089; 2004
+Amlexanox
+Azelastine; P1677; 1989
+Amlodipine; verapamil; Q0554; 2009
+Amnion-derived cellular cytokine suspension; Q2298; 2012
+AMPA; P7101; 2004
+Amperozide; Q5404; 1995
+Amphetamine; Q3416; 2014
+Amphetamine sulfate; P9284; 2008
+Amphetamine, D-; Q0431; 2009
+Amprenavir; P7612; 2005
+AMT; 1400W; Ethylisourea, S-; P4279; 1999
+Amylin; P3376; 1996
+Amyloid beta 1-42; Q5983; 2017
+Amyloid protein, beta; P5374; 2002
+Amyloid protein, beta (1-40); P9746; 2009
+Amyloid protein, beta (1-42); Q4304; 2015
+Amyloid protein, beta (25-35); P9622; 2009
+Amyloid protein, beta (40); Q5220; 2015
+Amyloid protein, beta (42); Q2094; 2012
+Anakinra; P9761; 2008
+Anandamide; Q1016; 2011
+Ancrod; P6274; 2004
+Andrenomedullin, recomb.human; P7342; 2005
+Andrographolide; Q0875; 2011
+Androst-5-ene-3B,17B-diol; Androstenedione; P1507; 1989
+Androstenedione; Dehydroepiandrosterone; Dehydroepiandrosterone sulfate; P1922; 1991
+Ang (1-7); Q5215; 2015
+Anginex; P7139; 2004
+Angiontensin II; Q5708; 2016
+Angiopeptin; P6329; 1997
+Angiopoietin like -2; Q3039; 2013
+Angiostatin; P4657; 2000
+Angiotensin (1-7); A-71915; Q5112; 2016
+Angiotensin (1-9); Q1272; 2010
+Angiotensin converting enzyme 2, recomb. human; Q2596; 2013
+Angiotensin I; Angiotensin II; P1539; 1988
+Angiotensin II; Q6034; 2017
+Angiotensin II (Val5); Q5260; 2015
+Angiotensin II acetate; P9060; 2008
+Angiotensin II amide; P0699; 1985
+Angiotensin II antagonist; P0756; 1986
+Angiotensin II antagonist; Radio-isotopes; P0086; 1980
+Angiotensin II subpressor; Angiotensin II pressor;; P4490; 1999
+Angiotensin II type 1 receptor; Q1262; 2011
+Angiotensin II, [Val5]; Q4411; 2015
+Angiotensin II, human; Q1139; 2010
+Angiotensin II, I6-5; docosahexaenoic acid; P6189; 2002
+Angiotensin II, I6 5-; P7597; 2005
+Angiotensin II, Ile5-; P8185; 2005
+Angiotensin III acetate; P0698; 1985
+Angiotensin III, Ile-7; Bestatin; P3703; 1996
+Angiotensin IV; angiotensin II; Q3989; 2014
+Angiotensin-(1-7); P3371; 1995
+Angiotensin-converting enzyme 2, recomb. human; Q1150; 2011
+Angiotensinogen; P1047; 1986
+Anisole, butylated hydroxy-; P1909; 1989
+Anisomycin; P9738; 2009
+Annonacin; P6287; 2004
+AntagomiR-7b; RNA, small interfering GABBR1; angiotensin II; Q4900; 2016
+AntagomiR-21; Q5058; 2013
+Antagomir-145; antagomir, control; P9549; 2009
+Antagomir, miR-21, inhibitor; interleukin, beta; Q3160; 2013
+Antagomir, miR-23a; Q0360; 2010
+Antagomir, miR-155; Q3347; 2013
+Antagonist, C5a receptor; Q3868; 2014
+Antagonist, CCR2; Q4984; 2015
+Antagonist, vasopressin V1A receptor; Q5900; 2017
+Antibodies, anti-tau; Q4955; 2013
+Antibody, AC133xCD3 bispecific; Q4570; 2015
+Antibody, anti-1.25D3-MARRS; Q2933; 2013
+Antibody, anti- acylation stimulating protein; acylation stimulating protein, recomb. human; immunoglobulin G; Q0027; 2010
+Antibody, anti CD41/integrin alpha 2b; albumin, human serum; Q0853; 2010
+Antibody, anti clusterin; Q2873; 2013
+Antibody, anti CX3CRI; Fractalkine; Antibody, anti interleukin-beta; Q3095; 2013
+Antibody, anti Gal-3, normal, mouse; Q0488; 2009
+Antibody, anti insulin-like growth factor-1; Q1087; 2010
+Antibody, anti interleukin-10; Q3343; 2013
+Antibody, anti Nogo-A monoclonal 11C7; P7367; 2005
+Antibody, anti VEGFR-3; Q0989; 2011
+Antibody, anti, LINGO-1; P8638; 2007
+Antibody, anti-A-beta 1-16; Q1354; 2011
+Antibody, anti-activin A; activin A; P6384; 2004
+Antibody, anti-activin IgY; P4005; 1998
+Antibody, anti-aminoprocalcitonin; Q4135; 2014
+Antibody, anti-amyloid peptide beta; P9696; 2009
+Antibody, anti-amyloid protein beta (10D5); antibody, anti-human tau (16B5); P8409; 2007
+Antibody, anti-APE/Ref-1, rabbit; RNA, small interfering; Q0426; 2010
+Antibody, anti-Ask1; Q0814; 2009
+Antibody, anti-beta1-integrin, monoclonal; Q0150; 2009
+Antibody, anti-CB11 monoclonal; P5452; 2002
+Antibody, anti-CD28 Fab/Folate; gadolinium; P6775; 2004
+Antibody, anti-CD81; immunoglobulin, G; P8029; 2006
+Antibody, anti-CHL1, goat poly-clonal;; Q1413; 2011
+Antibody, anti-c-Met, OA5D5; P8208; 2006
+Antibody, anti-EGF receptor monoclonal; P3414; 1996
+Antibody, antiependymin IgG; P1777; 1988
+Antibody, anti-epidermal growth factor; Epidermal growth factor; P2526; 1993
+Antibody, anti-fibroblast growth factor; P1890; 1991
+Antibody, anti-galectin-1, recomb. human; immunoglobulin G, rabbit; P6502; 2003
+Antibody, anti-GDNF, monoclonal; immunoglobulin, G, mouse; P9765; 2009
+Antibody, anti-hepatocyte growth factor monoclonal; P4002; 1998
+Antibody, anti-HNK-1; Antibody, C183 monoclonal; Oligomannoside glycopeptide; P4001; 1998
+Antibody, anti-IGF1; Q0160; 2010
+Antibody, anti-IL-6; Q3185; 2014
+Antibody, anti-MAG mAb; P8045; 2006
+Antibody, anti-MCP-1/MIA-1a; antibody, anti-IL-1B; immunoglobulin G; P7201; 2005
+Antibody, anti-MK; Q4942; 2015
+Antibody, anti-Mullerian hormone; Q5497; 2016
+Antibody, anti-nerve growth factor; P4715; 2000
+Antibody, anti-Nogo-A; P9706; 2009
+Antibody, anti-notch-1; antibody, anti-Fc; Q1429; 2009
+Antibody, anti-OPN, mouse; Antibody, normal, mouse; Q0760; 2009
+Antibody, antiouabain; P9935; 2009
+Antibody, anti-RgMa; Immunoglobulin G, rabbit; P8826; 2007
+Antibody, anti-SEMA 4D, monoclonal; Q3737; 2015
+Antibody, anti-somatostatin;; P2367; 1993
+Antibody, anti-tau; MC-1; Tau 5; TOMA; R0341; 2016
+Antibody, anti-TGF beta-1; Q0744; 2009
+Antibody, anti-thyrotropin releasing hormone; P1617; 1989
+Antibody, anti-transthyretin; immunoglobulin G, goat; P6786; 2004
+Antibody, anti-tumor necrosis factor-a;; P4463; 2000
+Antibody, anti-vascular endothelial growth factor; P6908; 2005
+Antibody, anti-VEGF; P8933; 2008
+Antibody, anti-vegf, rabbit, anti-human; Q0405; 2010
+Antibody, ascitic fluid; P0730; 1985
+Antibody, beta-2-glycoprotein, hydroxychloroquine; Q5750; 2016
+Antibody, brain-derived neurotrophic factor; Q3598; 2014
+Antibody, CTA 157-2; Q4463; 2015
+Antibody, CX3CR1; Q5275; 2016
+Antibody, Fab fragments; Gamma globulin; P3521; 1996
+Antibody, Fibroblast growth factor-2, mouse, monoclonal; Q2687; 2012
+Antibody, GoH3; P9120; 2008
+Antibody, HJ9.4; antibody, HJ8.5; antibody, HJ9.3; Q3861; 2015
+Antibody, human IgG; Q3055; 2013
+Antibody, Immunoglobulin G; Antibody, anti-metabotropic glutamate receptor I; P5836; 2003
+Antibody, interleukin-6; Q2966; 2013
+Antibody, Interleukin-10 receptor; Q4830; 2016
+Antibody, KHRI-3 monoclonal;; P4552; 1999
+Antibody, leptin neutralizing; leptin, recombinant mouse; Q5828; 2017
+Antibody, Ly6G; immunoglobulin G2a, rat; Q4647; 2015
+Antibody, mAB9.2.27; Q3167; 2013
+Antibody, monoclonal; P2511; 1993
+Antibody, monoclonal IgG2a/k; Q0567; 2009
+Antibody, monoclonal IN-1 Fab fragment; P5162; 2002
+Antibody, monoclonal mouse; anti-rat Nogo-A (623-640); antibody, monoclonal mouse; anti-Nogo-A (1-979); 
+Antibody, monoclonal, hE16; P8071; 2006
+Antibody, neuromyelitis optica; Q4229; 2014
+Antibody, neuropeptide Y; P3087; 1993
+Antibody, P3 mouse myeloma; Antibody, ascitic fluid; Antibody, monoclonal carcinoma; P0046; 1980
+Antibody, polyclonal, anti-HP20c; immunoglobulin G, rabbit; P8225; 2006
+Antibody, Protein S PS-IgG; Q3834; 2015
+Antibody, rAb-53; complement, human; Q3180; 2014
+Antibody, rabbit anti-pan laminin; serum, rabbit; P7332; 2005
+Antibody, rabbit anti-rat ANG (1-12); immunoglobulin G, rabbit; P9416; 2009
+Antibody, rabbit, anti-neuropeptide Y; P8515; 2007
+Antibody, rat anti-mouse IgG macrophage colony-stimulating factor; Q3623; 2013
+Antibody, Rat monoclonal antagonistic anti-IFNy; Antibody, irrelevant rat IgG1 monoclonal; Q5465; 2014
+Antibody, salusin-beta; Q5499; 2016
+Antibody, somatostatin; P1029; 1987
+Antibody, Sydenham's chorea; Q2424; 2012
+Antibody, TGF beta 1; Q3731; 2014
+Antibody, TN-R polyclonal; Q2427; 2012
+Antibody, VCAM1, rat anti-mouse; Q2330; 2012
+Antidepressants; Q5663; 2010
+Antigen, cystatin; P5129; 2002
+Antigen, hen egg white lysozyme; Antigen, ovalbumin; P3892; 1997
+Antigen, moth cytochrome C peptide; P4031; 1998
+Antigen, Ovalbumin; Antigen, hen egg-white lysozyme; Q5403; 2001
+Antigen, pigeon cytochrome c; Q3681; 2013
+Antigen, staphylococcal enterotoxin A; Antigen, Staphylococcal enterotoxin B; P5309; 2002
+Antigen, TNP-Ficoll;; P4377; 1997
+Antigen, toxocara canis; P0526; 1984
+Antigens, parasite; P4000; 1995
+Antigens, soluble egg; P1216; 1984
+Antigonadotropic decapeptide, bovine; P3506; 1996
+Anti-inflammatory peptide 2; P3591; 1997
+Anti-interleukin 22, anti-interleukin 17, Lymphotoxin βR-Ig; Q5252; 2015
+Antileukinate; P8696; 2007
+Antimicrobial peptide, cathelicidin-related; Q5141; 2015
+Antiplasmin, alpha 2-; P4237; 1997
+Antipsychotic; Q0056; 2010
+Antipyrine; Dopamine HCl; Methotrexate, sodium; Radio-isotopes; P0592; 1985
+Antisense, NOX-B11-2; RNA, spiegelmer L-; MT-II; P7503; 2006
+Antiserum, rabbit anti-rat neutrophil; serum, rabbit; P5683; 2003
+anti-SOD1 monoclonal antibodies (mAbs); Q4777; 2013
+Antitrypsin, human, alpha-1; Q0475; 2010
+Antiviral; Q5569; 2013
+AP5; R0081; 1989
+AP5, D-; Q3056; 2013
+AP5, DL-; P5795; 2000
+AP6; AP7; AP5; P1611; 1990
+AP20187; Q2226; 2011
+Apamin; Q0720; 2011
+Apelin; Q5341; 2016
+Apelin-13; Q5770; 2016
+Apelin-13, pyroglutamated; P9967; 2010
+Apigenin, FIPI, NOPT; Q5054; 2013
+APO866; Q1059; 2011
+Apocynin; P8461; 2007
+Apolipoprotein E; apolipoprotein E3, recomb human; apolipoprotein E4, recomb human; P8078; 2006
+Apomorphine; P5291; 2002
+Apoptotic protein cytochrome c nanoparticles; Q5579; 2016
+Aprotinin; P1964; 1991
+APV; P3889; 1997
+Apyrase; NF279; Q5477; 2016
+AR209;; P4401; 1999
+Ara-AMP; P0004; 1977
+Arabinofuranoside, cytosine-beta; smoothened agonist; cyclopamine; antibody, 5E1; Q1739; 2011
+AraC; Q5323; 2016
+Arachidonyl fluorophosphonate, methyl; Q1940; 2011
+Arachidonyl trifluoromethyl ketone; Q2319; 2012
+Arecoline; P3771; 1997
+Arecoline HCl; P3362; 1996
+Argatroban; Q2300; 2012
+Arginal, H-D-Phe-Pro-; EP-453; Leupeptin; P0884; 1986
+Arginine vasopressin; Q1022; 2010
+Arginine, asymmetric dimethyl; Q1808; 2012
+Arginine, dimethyl, asymmetrical; Q1682; 2011
+Arginine, L-; P7631; 2005
+arginine, N(omega)-hydroxy-nor-l; Q4902; 2016
+Arginine, NG-monomethyl-L-; P7112; 1999
+Arginine,L-; L-NAME; P3787; 1998
+Aripiprazole; Q0411; 2010
+Aristolochic acid; Q4949; 2015
+ARL 15896AR;; P4405; 1997
+Arotinolol; Q0298; 2009
+Arsenate, sodium; P0673; 1985
+Arsenic trioxide; P8641; 2007
+Artemin, recomb.; P9958; 2010
+Artmenin, recomb. human; P7974; 2006
+Arylsulfatase A, recomb. human; Q1326; 2011
+ASARM; Q0448; 2009
+Ascorbate; glutathione; tocopherol, alpha-; P9636; 2009
+Ascorbic acid; Naltrexone; P2797; 1995
+Asenapine; Q4691; 2015
+ASK1-siRNA; Q6011; 2017
+ASP2151; Q2525; 2013
+ASP-440; Q0834; 2011
+Aspartic acid, dl-threo-B-hydroxy; Glutamate, l-; P3908; 1997
+ASS234; Q5742; 2017
+Astressin-2B; stresscopin; oxytocin, symthetic; receptor antagonist, oxytocin;; Q4789; 2016
+Atenolol; P4913; 2001
+Atipamezole; P6736; 2004
+Atipamezole HCl; P2810; 1992
+ATL146c; R0254; 2008
+ATL146e; P7682; 2005
+ATL313; ATL146e; Q3016; 2008
+Atorvastatin; Q1170; 2010
+Atosiban; Q4314; 2015
+Atrial natriuretic factor; Q2145; 2012
+Atrial natriuretic factor, synthetic; P1521; 1989
+Atrial natriuretic peptide; P7693; 2005
+Atrial natriuretic peptide; 8-Bromo-cGMP; P4661; 2003
+Atriopeptin III; P0990; 1987
+Atropine; Q4399; 2014
+Atropine methyl nitrate; Hexamethonium bromide; Carbachol; P0423; 1984
+Atropine sulfate; P5328; 2002
+Atropine; ICI-118,551; Q4725; 2014
+AUDA; AUDA-PEG; AEPU; P9384; 2008
+Auraptene; Q5242; 2015
+Aurintricarboxylic acid; P4211; 1998
+AVE0991; Q5013; 2015
+Axokine; AraC; Q3816; 2014
+AY9944; P8476; 2007
+Azacytidine, 5,6-dihydro-5-; P0604; 1985
+Azagly-NaFarelin; P6227; 2003
+Azaline B; P8506; 2007
+AZD1152; P7964; 2007
+AZD2820; Q3658; 2014
+AZD8797; Q3692; 2014
+Azepexole; P0177; 1981
+Azide, sodium; P2022; 1992
+Azidothymidine; P1928; 1990
+AZT; P9533; 2003
+
+
+B
+
+B6V10; decavanadate; P7969; 2007
+B9858; CP-0597; B9430; P5847; 2003
+B10721325; estrone; P8140; 2006
+B-428; P3535; 1997
+BA321; Q5092; 2016
+BACE1 inhibitor IV; WAY 258131; Q0652; 2011
+Baclofen; Q3054; 2013
+Bacteria, porphyromonas gingivalis; P9147; 2008
+Bacteria, staphylococcus aureus; P6831; 2004
+Bacteria, staphylococcus epidermis; Antibody, anti-polysaccharide/adhesin; Heparin; P3999; 1990
+Bacteria, vibrio cholerae; P1380; 1987
+Bafilomycin A1; P3359; 1995
+Bantag-1; Q1102; 2010
+Barbital, sodium; P0010; 1978
+Basic fibroblast growth factor, recominant human; Q4499; 2015
+Bay11-7082; Q3847; 2015
+BAY-55-9837; P5037; 2002
+BAY 60-2770;  BAY 41-8543; Q5016; 2015
+Bay K 8644; Nimodipine; P2195; 1990
+Bay x 3702; P4019; 1998
+BB-3644; P7054; 2004
+BD1047; P4014; 1997
+BE360; estradiol, 17b-; P9493; 2009
+BE3333; P3436; 1995
+BE16627B; P4811; 2001
+Beacon fragment, synthetic; P4861; 2001
+BEC S-(2-boronoethyl)-L-cysteine; Q4957; 2013
+Befloxatone; Nisoxetine; Paroxetine; P2843; 1994
+Benazepril; candesartan; P6612; 2003
+Benazeprilat; P2181; 1993
+Bendroflumethiazide; Furosemide; P2385; 1994
+Benzamil; Q0318; 2010
+Benzamil HCl;; P4371; 1999
+Benzenesulfonyl fluoride, aminoethyl-; Q0188; 2010
+Benzoic acid, dihydroxy 2,3-; Desferrioxamine; P1239; 1988
+Benzomorphans ethylketazocine; MRZ-2549; Morphine; P0249; 1982
+Benzylamine; P4873; 2001
+Benzylamine hydrochloride; P5688; 2003
+Benzylguanine, 06-; P7702; 2002
+Beraprost sodium; Q0334; 2009
+Berberine; P7772; 2006
+Beta-35; Q1208; 2011
+Betacellulin; Q1834; 2012
+Betacellulin recomb. rat; P6548; 2003
+Beta-hydroxybutyrate; Q5655; 2017
+Betamethasone, phosphate 21-; benzalkonium chloride; P7650; 2005
+Betaprost sodium; Q4241; 2015
+Betulinic Acid; leptin; Q5953; 2013
+Bevacizumab; Q4537; 2015
+Bexarotene; Q3242; 2013
+Bezafibrate; P4280; 1999
+BF-168; P8137; 2006
+BG505 SOSIP/664 trimer; Q5406; 2015
+BgK-F6A; P7912; 2006
+BHP; HPOP; NNDM, cis-; P1623; 1989
+BIB-03304TF; P5004; 2000
+BIBO3304; Q2726; 2012
+BIBP 3226; BIIE 0246; Q2858; 2013
+Bicuculline methiodide; P1368; 1988
+Bicuculline; AP5, D-; Q4996; 2015
+Bile; P7629; 2005
+Bile, bovine; P8986; 2006
+BIM-22493; Q2568; 2013
+BIM-28131; BIM-28125; ghrelin; P8949; 2008
+BIM-28163; P8152; 2006
+BIM-46174; P8332; 2006
+Binaltorphimine, nor-; P5808; 2003
+BIO5192; P9168; 2008
+Bisindolylmaleimide; Q3444; 2014
+Bisphenol; R0321; 2014
+Bisphenol A; Q2865; 2013
+Bleomycin; Q3807; 2014
+Bleomycin sulfate; Q2641; 2013
+BMS-200261; P8644; 2007
+BMS-386914; P7396; 2005
+BMS-561392; P9529; 2008
+BNP, lyophized recombinant human; Q5129; 2015
+BNTX; Naltriben; P3432; 1996
+Bombesin; P2242; 1993
+Bone marrow conditioned medium; Q5369; 2012
+Bone morphogenetic protein-7; Q5582; 2016
+Bone morphogenic protein-2; Q1765; 2011
+Bone morphogenic protein-4, recomb. human; noggin, mouse; Q0656; 2011
+Bone morphogenic protein-7, recomb. human; Q2849; 2013
+Bone morphogenic protein-9, human, recomb.; Q2742; 2013
+Bone morphogenic protein 4 recombinant human; noggin, mouse; Q3909; 2015
+Bone sialoprotein, recomb., rat, -DNP; bone sialoprotein, recomb., rat, -DNP, mutated; P9142; 2007
+Boron-10 containing sodium borocaptate, ACBC-BSH (Boron-10 derivative); Q5327; 2017
+Bortezomib; cyclic AMP; H89; P9278; 2008
+Bovine testicular Hyaluronidase; Q2907; 2013
+BPA; Q4763; 2013
+BPP; P5979; 2003
+BpV(phen); P9205; 2008
+BQ123; P2498; 1994
+BQ485; P4410; 1998
+BQ788; Q3084; 2013
+BQ-610; Q2166; 2012
+BQ-788; Q5029; 2015
+Bradykinin; Q1188; 2011
+Bradykinin, des-Arg 9 Leu6-; P8181; 2006
+Bradykinin, Lys-Leu8-des-Arg9; HOE 140;; P5013; 2001
+Brain fibroblast growth factor, epidermal growth factor, brain-derived growth factor; Q5802; 2016
+Brain natriuretic peptide; Q4049; 2014
+Brain sigma-1 receptor agonist, PRE084; Q2969; 2013
+Brain-derived neurotrophic factor; Q0453; 2009
+Brain-derived neurotrophic factor, anti-, sheep; immunoglobulin G, sheep; Q0074; 2010
+Brain-derived neurotrophic factor, human; Q1195; 2011
+Brain-derived neurotrophic factor, human recomb.; P6652; 2003
+Brain-derived neurotrophic factor, human recomb.; NT-3, human recomb.; P6311; 2001
+Brain-derived neurotrophic factor, recomb. human; P7494; 2005
+Bremazocine; Buprenorphine; P1787; 1989
+Bretazenil; Q2342; 2012
+Brevetoxin-3; P8272; 2006
+Brimonidine; Q1763; 2011
+Brivaracetam; Q4688; 2015
+BRL37344; Q5358; 2016
+Bromocriptine; P7133; 2005
+Bromouracil deoxyriboside; P2893; 1992
+Bryostatin; P1934; 1992
+Bryostatin-1; P3652; 1993
+BS-1417; P7398; 2005
+BSA; albumin, rat serum; radio-isotopes; P6376; 2003
+BSP; P9666; 2008
+B-type natriuretic peptide (1-45); Q2066; 2012
+Budesonide; P1454; 1988
+Budipine; P7411; 2005
+Bumetanide; P2000; 1992
+Bungarotoxin, a-; P1645; 1989
+Bupivacaine; clonidine; dexamethasone; Q4646; 2015
+Buprenorphine; P5702; 2002
+Bupropion; P0919; 1986
+Bupropion, HCL; haloperidol; P7421; 2005
+Buserelin; P0428; 1983
+Buserelin acetate; Q2176; 2012
+Busiprone hydrochloride; Q0829; 2010
+Buspirone-HCl; Haloperidol; P0813; 1985
+Butenoic acid, 4-phenyl-3-; P8326; 2007
+Butorphanol; P4310; 1999
+Butorphanol; P5743; 2002
+Butorphanol tartrate; P6207; 2002
+Butylated hydroxyanisole; P4251; 1995
+Butylscopolamine; Q4293; 2015
+Butyrate, beta hydroxy beta methyl; Q1571; 2010
+Butyrate, B-hydroxy; P3820; 1997
+Butyrate, hyroxy, beta-; Q1265; 2011
+Butyrate, sodium;; P4825; 2001
+Butyrate, sodium-B-hydroxy-; propionate; nitropropionic acid, 3-; P9266; 2008
+BVT.2733; P5736; 2002
+BW373U86; Naltrindole; P2720; 1993
+BW2258U89; P3381; 1995
+BWA868C; PGD2, 11-deoxy-11-methylene; Q4485; 2015
+BzATP; Q1995; 2012
+
+
+C
+
+C3; P8718; 2007
+C3 Transferase; Glutathione S-transferase; Y-27632; P5597; 2003
+C3aRa; Q0161; 2010
+C5a, recombinant; C4a, recombinant; Q3638; 2014
+c8; c16; Q4284; 2015
+C21/M24; Q3397; 2014
+C225; Q2110; 2011
+CA074Me; E64d; R0293; 2010
+CA074Me; E64d; R0262; 2008
+Cadiotrophin-1, recomb. human; Q3217; 2013
+Cadmium; P2792; 1995
+Cadmium acetate; P5804; 2003
+Cadmium chloride; P3562; 1996
+Cadmium metallothionein; P3026; 1994
+CaDTPA; 3,4,3-LI (1,2-HOPO); P4240; 1998
+Caerulein; P0563; 1984
+Caffeine; Q4325; 2015
+Caffeine, 8-(3-chlorostyryl); Q3472; 2014
+Ca-ionophore A23187; Insulin; P0081; 1979
+Calcitonin; Q1449; 2011
+Calcitonin analog; Calcitonin, synthetic salmon; P1714; 1990
+Calcitonin gene related peptide (8-37); Q4065; 2014
+Calcitonin gene-related peptide (1-8), alpha-Rat
+Calcitonin gene-related peptide (1-13), alpha-Rat
+Calcitonin gene-related peptide (1-14), alpha-Rat; P5794; 2003
+Calcitonin gene-related peptide (8-37); P4895; 2001
+Calcitonin, human; P2283; 1993
+Calcitonin, salmon; P9799; 2009
+Calcitriol; Q5540; 2013
+Calcium chloride; P2898; 1993
+Calcium hydroxide; Barium hydroxide; Tetracycline; P2384; 1994
+Calpain inhibitor I; P6494; 2003
+Calpastatin, synthetic; P5873; 2002
+Calpeptin; Q1334; 2010
+Calphostin C; P7899; 2006
+cAMP, BPY-DCA; DFo; Q5458; 2015
+cAMP, Rp-adenosine; Q1507; 2011
+cAMP; rolipram; Q1580; 2010
+cAMPS, Rp-; Q2030; 2012
+Candesartan; Q2119; 2012
+Cangrelor; Q2539; 2013
+Cannabichromene; Cannabinol, delta-9-tetrahydro-; P0466; 1984
+Cannabidiol; Marihuana extract; Cannabinol, delta-9-tetrahydro-; P0652; 1984
+Cannabigerol; Cannabinol; P0577; 1984
+Cannabinol; Q5966; 2016
+Cannabinol, delta-9-tetrahydro-; Cannabigerol; P2491; 1990
+Cannabinol, tetrahydro-; Nantradol, 1-; P1511; 1985
+Canrenoate, potassium; P4239; 1998
+CAO74Me; E64d; P8951; 2007
+Capsaicin; Q5300; 2014
+Captan; P3023; 1990
+Captopril; P1123; 1987
+Caramiphen; P8480; 2007
+Carbachol; P0056; 1980
+Carbachol chloride; Echothiophate iodide; Histamine dihydrochloride; P0199; 1982
+Carbamazepine; Q0269; 2009
+Carbaprostacyclin, cPGI2;; Q2982; 2013
+Carbazole, 6-formylindolo[3,2-b]; Q3690; 2014
+Carbenoxolone; Q3103; 2013
+Carboline, tetrahydro-B-; P3245; 1994
+Carboplatin; Q2351; 2012
+Carboxamidotryptamine, 5-; P2188; 1993
+Carboxyfullerene, C3; Q0041; 1997
+carboxyphenylglycine, (S)-4-; Q5525; 2008
+Cardiotrophin 1, human; Isoproterenol; Phenylephrine; Q4772; 2017
+Carmustine; P6374; 2004
+Carnitine, acetyl-L-; Q4823; 2016
+Carnitine, l-; P4256; 1995
+Caroverine; P9015; 2006
+Carperitide; P8789; 2008
+CART; P9192; 2008
+CART (42-89);; P4764; 2000
+CART (55-102); P5040; 2002
+CART (55-102); leptin, recomb. rat; P7017; 2004
+Carvedilol; Q3496; 2014
+Caspase inhibitor; Q2536; 2013
+Castanospermine; P3293; 1993
+Catalase, PEG-; P1099; 1986
+Catecholestrogens; P0169; 1981
+Catestatin; muscimol; Q3410; 2014
+Cathepsin B; Q3797; 2014
+Cathepsin S; fractalkine; Q2259; 2012
+Cav-1 peptide; Q5027; 2015
+Caveolin-1 scaffolding domain; Q4101; 2014
+CAY10441; Q3625; 2014
+CAY10580; Q3179; 2013
+CBO-p11; Q1180; 2010
+CCL2, rodent; Q3344; 2013
+CCL5, recomb. rat; Q2106; 2012
+CCL5/RANTES; Q5636; 2016
+CCX662; Q3365; 2014
+cD3r; Q5119; 2016
+CD14, recomb. human soluble; Q1064; 2011
+CD2019; Q0396; 2010
+CDDP; fluorouracil, 5-; P6470; 2003
+CDPPB; Q3738; 2015
+C-Dps; Q1281; 2010
+Cediranib; Q1928; 2012
+Cefixime; Radio-isotopes; P1209; 1988
+Celecoxib; Q0379; 2009
+Celery extract; Butylphthalide, 3-n-; P3625; 1996
+Celiprolol; P5294; 1999
+Cell culture supernatant factor; Antibody, anti-human interleukin 8; P4004; 1998
+Cell cultures, supernatant fraction of PBM; P3296; 1995
+Cells, MB-effLuc; Q5768; 2016
+Cells, pancreatic polypeptide; peptide YY (3-36); Q2130; 2012
+Cenderitide; Q2642; 2012
+CEP11004; P7666; 2006
+CEP-2563; P5947; 2003
+Cerebrospinal fluid, artificial; Mannitol; P2798; 1995
+Cerulein; L-365,260; P4120; 1999
+Cetrorelix; P6666; 2003
+Cetuximab; P9680; 2008
+CGEN25009; Q1574; 2010
+cGMP; Q5757; 2016
+CGP20712A; ICI-118,551; angiotensin II; P7327; 2005
+CGP42112A; Q0000; 2010
+CGP-18137A; CGP-22979A; P1198; 1986
+CGP-29287; P1622; 1989
+CGP-37157; Q3420; 2014
+CGP-40215A; P3645; 1996
+CGP-42112A; Q5853; 2016
+CGS21680; Q4561; 2015
+CGS-14831; CGP-29287; P1114; 1987
+CGS-15855A; Apomorphine; Dopamine, antagonists; P1291; 1988
+CGS-21680C; CGS-22989; CGS-22492; Benazeprilat; P2830; 1993
+CGS-22652; P2678; 1993
+CGS-24592; CGS-26303; temocapril; P7315; 2005
+CGS-26303; P3435; 1996
+CGS 21680; Q0605; 2009
+CGS 27023A; P4285; 1999
+CGX-1007; P6635; 2004
+Chaconine, a-; P2313; 1992
+Chelerythrine; Q1252; 2011
+CHF-1024; P7942; 2006
+Chitosan; starch; Q4129; 2014
+Chloramphenicol; P3308; 1995
+Chlordiazepoxide; P7318; 2005
+Chlorgyline hydrochloride; Moclobemide hydrochloride;; P4729; 2000
+Chlorgyline; Deprenyl; P5438; 2002
+Chloroamphetamine, p-; P0018; 1978
+Chlorohexidine gluconate; P9785; 2008
+Chloroisocaprioc acid; P9840; 2009
+Chloroquine; P5131; 2002
+Chlorotoxin; P8565; 2007
+Chlorpromazine HCl; P1348; 1987
+Chlorpyrifos oxon; Q3249; 2007
+Cholecystokinin; P0039; 1979
+Cholecystokinin-8; P3671; 1995
+Cholecystokinin-8S;; P4827; 2001
+Cholecystokinin-33; P0324; 1983
+Cholecystokinin 8-sulfate; P0310; 1983
+Cholecystokinin antagonist; P1686; 1990
+Cholecystokinin octapeptide; P0849; 1986
+Cholecystokinin, glutaryl-; Cholecystokinin, pyroglutamyl-; Cholecystokinin octapeptide; P0916; 1986
+Cholesterol-MBCD; cholesterol; Q3701; 2014
+Choline; Q0840; 2010
+Choline chloride; P2123; 1991
+Chondroitinase; Q1566; 2010
+Chondroitinase ABC; Q4940; 2015
+Chondroitinase B; Q2492; 2013
+CHOP-PEG; P7916; 2006
+Chordin; antibody, anti-chordin; Q0542; 2010
+CI-628; Progestins; R-5020; Catecholestrogens; Estradiol, 17B-; Progesterone; P0238; 1982
+CI-959; P3227; 1995
+CI-977;; P4792; 2000
+CI-988; chlordiazepoxide; Acetylsalicylic acid; Q0421; 2010
+Cicaprost; Q4045; 2014
+Ciclopirox; Q5930; 2017
+CiCr(51)C13; P1633; 1990
+Cigarette smoke condensate; P1414; 1988
+Ciglitazone; P7161; 2005
+Ciliary neurotrophic factor; P7558; 2006
+Cilostamide, Rolipram, Sildenafil citrate; Q5781; 2017
+Cimaterol; P3000; 1993
+Cimetidine HCl; P1499; 1989
+CIMP; P6575; 2004
+Ciprofloxacin; Q4316; 2015
+Cisplatin; P0979; 1987
+Citalopram; Q5814; 2016
+Citalopram HBr; Q4628; 2015
+Citalopram hydrobromide; Q0732; 2010
+Citalopram; BI-2A7; BI-11A7; L447951; Q2402; 2012
+Cizolirtine; paroxetine hydrochloride; P7088; 2004
+C-kit ligand; P6382; 2004
+CL316,243; Q5833; 2017
+Cladribine; Q5607; 2013
+Clazosentan; Q0997; 2011
+Clenbuterol; P7892; 2006
+Clindamycin HCl; Penicillin G; P1074; 1987
+Clindamycin; Methylprednisolone; Gentamicin; Naloxone; P0953; 1986
+Clodronate; Q4234; 2014
+Clomethiazole; P5916; 2003
+Clomipramine; P1781; 1989
+Clomipramine HCl; P1312; 1988
+Clonazepam; P3305; 1995
+Clonidine; P0571; 1984
+Clonidine; P3038; 1994
+Clonidine HCl; P4056; 1998
+Cloprostenol, sodium;; P4763; 2000
+Clorgyline; P0360; 1983
+Clorgyline HCl; P0251; 1982
+Clorgyline hydrochloride; P5694; 2003
+Clovoxamine; Desipramine; P1121; 1987
+Clozapine; P8874; 1999
+Clozapine-N-oxide; Q5793; 2017
+CLR01; Q2548; 2012
+CLR01; Q3468; 2014
+CME2; P7949; 1986
+CNQX;; P4389; 1999
+CNTO3649; exendin 4; Q2451; 2012
+COA-Cl; Q3193; 2013
+Cobalamin, hydroxy-; P3816; 1997
+Cobalt; Q2643; 2012
+Cobalt chloride; Nickel chloride; P0163; 1981
+Cobinamide; cyanocobalamin; Q3031; 2013
+Cobinamide; vitamin B12; Q2430; 2012
+Cocaine; Q3428; 2014
+Cocaine HCl; P2672; 1993
+Cocaine hydrochloride; Q4278; 2015
+Cod extract, muscle; P9651; 2008
+Colchicine; P1678; 1990
+Colforsin; isoproterenol; P9504; 2006
+Collagenase inhibitor A; Collagenase inhibitor B; Collagenase inhibitor C; tempol; Superoxide dismutase-PEG; Cytochalasin B; Pepstatin; APMSF; TLCK; SBTI; Leupeptin; E-64; Methylamine; P3263; 1995
+Colony stimulating factor, GM, recombinant rat; Q3634; 2014
+Colony-stimulating factor-1; P9519; 2009
+Colony-stimulating factor, G; P0993; 1987
+Colony-stimulating factor, GM; P0853; 1986
+Colony-stimulating factor, M; Q0623; 2009
+Combretastatin A4P; P5798; 2001
+Compound 1; Q1701; 2011
+Compound 3; Q4753; 2014
+Compound 5; Q4112; 2014
+Compound 7; Q4032; 2015
+Compound 8, Compound C16; Q6008; 2017
+Compound 17; Q5694; 2017
+Compound 21; Q5305; 2016
+Compound 22; compound 26; compound 27; Q3407; 2014
+Compound 26; Q3049; 2013
+Compound 34; AMG 487; R0278; 2009
+Compound 47; Q3827; 2015
+Compound A; P9943; 2010
+Compound c; Q4610; 2015
+Compound E; Q4667; 2015
+Concanavalin A; Q5542; 2016
+Conceptus secretory proteins, porcine; P8536; 2007
+Conditioned media, embryonic; Conditioned media, adult; Stem cell factor; Stromal-cell-derived factor; Q5427; 2014
+Conivaptan; tolvaptan; Q2845; 2013
+Connecting segment-1 peptide;; P4287; 1999
+Connective tissue growth factor, recomb. human; Q1085; 2010
+Conotoxin, w-; Q0265; 2009
+Contortrostatin; Q0340; 2010
+Copper chloride; Cupric nitrilotriacetate; Nitrilotriacetic acid; P3117; 1994
+Copper sulfate; P0817; 1986
+Corticosterone; Q0842; 2010
+Corticotrophin-releasing factor, d-phe; CP-154526; astressin-2b; P9948; 2009
+Corticotropin releasing hormone; Q3356; 2013
+Corticotropin-rel. factor; P1460; 1989
+Corticotropin-rel. factor, 7-14; Corticotropin-rel. factor; Corticotropin-rel. factor, ovine; P0427; 1984
+Corticotropin-rel. factor, human; Corticotropin-rel. factor, rat; P1731; 1989
+Corticotropin-rel. factor, ovine; P3927; 1997
+Corticotropin-rel. factor, rat; P0975; 1987
+Corticotropin-rel. hormone; P3744; 1997
+Corticotropin-rel. hormone antagonist; P4165; 1998
+Cortisol; P2594; 1991
+Cortisol 21-phosphate; P2682; 1991
+Cortisol, 21-hemisuccinate; P2997; 1994
+Cortistatin-14; Q1520; 2011
+Cosyntropin; Corticosterone; Dexamethasone; P0656; 1985
+Cotinine; Nicotine; P1230; 1987
+Coumpound 5C; Q5638; 2016
+CP2; P9543; 2009
+CP154526; naltrexone; Q4836; 2016
+CP-55,940; P7588; 2005
+CP-93,129; P7164; 2005
+CP-96,345; CP-96,344; P4941; 2001
+CP-98,113; P4388; 1998
+CP-101; 606-27; P5604; 2003
+CP-154,526; P4658; 2000
+CP-0298; CP-0597; P6057; 2003
+CP-0597; P3812; 1997
+CP-94253 hydrochloride; Q2062; 2012
+CP-96345; CP-96344; P4301; 1999
+CP-690550; Q3421; 2014
+CP 154526; Q0472; 2010
+C-peptide; Q4190; 2015
+C-peptide, human; insulin, human recombinant; Q5627; 2016
+CpGB DNA; Q4242; 2015
+cPM; PM1; Q5485; 2016
+CPP; NBQX; GYKI 52466; P3679; 1993
+CPPG; P9338; 2008
+CPT; Q2602; 2013
+CR4; P6530; 2003
+CRA-0450; P7280; 2005
+C-reactive protein, human; P9632; 2009
+Creatine; P5544; 2002
+CREG, recombinant; Q5987; 2017
+Cromoglycate; P8497; 2007
+Cromolyn sodium; P5551; 2002
+CSF, artificial; P7856; 2006
+CT99021; Q3980; 2014
+CTGF, recombinant human; FITC-inulin; Q4427; 2015
+CTOP; Naltrindole HCl; P2809; 1995
+C-type natriuretic peptide; Q1002; 2011
+CU201; P5048; 2002
+Culture media; P3948; 1989
+Curcumin; R0252; 2009
+CWHM 12; Q3083; 2013
+CX3CL1; Q5794; 2017
+CX3CR1, alpha-; Q2092; 2012
+CXCL1; Q5760; 2016
+CXCL12; Q4362; 2015
+CY-208-243; Fenoldopam; N-0437; SKF-75670; Quinpirole; SKF-38393; P1466; 1989
+Cyano-4-hydroxycinnamate, alpha; Q1015; 2011
+Cyclazocine; P0715; 1985
+Cyclic AMP, 8-Cl-; P4212; 1995
+Cyclodextrin, 2-hydroxypropyl beta (agent); Q1818; 2012
+Cyclodextrin-beta tetradecasulfate; Cortisol, tetrahydro-; P2025; 1992
+Cycloheximide; P8353; 2007
+Cyclopamine; P7478; 2005
+Cyclopentenyl cytosine; P3523; 1995
+Cyclophosphamide; P9990; 2010
+Cycloserine, L-; Q2862; 2013
+Cyclosporin; P1941; 1991
+Cyclosporin A; P1822; 1990
+CYD 6-17; Q5634; 2016
+Cystamine; Q3554; 2014
+Cystamine dihydrochloride; Q4804; 2016
+Cystamine; amlodipine; Q1050; 2011
+Cysteamine; Q2340; 2012
+Cysteamine HCl; P0019; 1978
+Cystein, N-acetyl-L-; P8774; 2008
+Cysteine, n-acetyl; Q0261; 2009
+Cysteine, S-(2-Boronoethyl)-L-; Q1518; 2011
+Cytidine, 5-aza-2'-deoxy-; P1687; 1985
+Cytidine, 5-bromo-2’-deoxy; Q5194; 2016
+Cytidine, bromodeoxy; Q2350; 2012
+Cytidine, fluorodeoxy-; Q5174; 2016
+Cytochrome C, pidgeon; Q00358; 2010
+
+
+D
+
+D23; 3xD23; E2_5; Q3911; 2014
+d(CH2)5Tyr(Me)AVP; Q3896; 2014
+Dabis maleate; Cyclophosphamide; P1969; 1992
+DAG, human; AZP531; Q2597; 2013
+Daidzein; Q0250; 2010
+Dalteparin sodium; albumin; P5861; 2002
+DAMGO; Q5469; 2016
+Dantrolene; Q1998; 2012
+Darifenacin; P8489; 2007
+Darylropionitrile; Q5192; 2016
+Dasatinib; Q4317; 2015
+Davalintide; amylin; Q2242; 2011
+DDMS; 6,15-20-HEDGE; Q5311; 2016
+Decanoic acid, 5-hydroxy; Q0993; 2011
+Decorin; Q5055; 2013
+Decorin, recomb. human; P6629; 2004
+Defb14 peptide; Q5864; 2016
+Deferoxamine; Q4808; 2013
+Defibrotide; Cyclosporin A; P2982; 1993
+Dehydroepiandrosterone; P5073; 2002
+Dehydroestrone, delta 8,9; Q1611; 2010
+Deltamethrin; P1570; 1989
+Deltorphin II; P4912; 2001
+DENSPM; P3102; 1995
+Deoxycoformycin, 2'-; P0397; 1983
+Deoxycorticosterone acetate; Deoxycorticosterone acetate, 11-; Deoxycorticosterone, 5a-dihydro-; Deoxycorticosterone, 5a-dihydro-11-; P0140; 1981
+Deoxycorticosterone, 18-OH-; Deoxycorticosterone acetate, 11-; P0182; 1981
+Deoxynivalenol; P3782; 1997
+Deoxyspergualin; R0346; 1993
+Deprenyl; P3400; 1993
+Deprenyl HCl; Clonidine HCl; Clorgyline HCl; P1096; 1987
+Deprenyl, 1-; Clorgyline; P0211; 1982
+Deprenyl, L-; P4227; 1998
+Dermorphin; P0677; 1985
+Desferrioxamine; P3302; 1995
+Desipramine; P0553; 1985
+Desipramine HCl; Clomipramine HCl; Phenelzine sulfate; Clorgyline HCl; P2800; 1995
+Desipramine hydrochloride; Q4096; 2014
+Desmopressin; Q4318; 2015
+Desmopressin acetate; Q3937; 2015
+Desmopressin arginine vasopressin; Q1121; 2010
+Devazepide; P4034; 1993
+Dexamethasone; P6267; 2003
+Dexamethasone base; P9292; 2008
+Dexamethasone phosphate; P2557; 1994
+Dexamethasone sodium phosphate; P0614; 1985
+Dexefaroxan; P5272; 2002
+Dexefaroxan HCL; P6478; 2004
+Dexfenfluramine; Q0904; 2011
+Dexfenfluramine HCl; P1672; 1989
+Dexmedetomidine; P9045; 2008
+Dextrose, C21, PD-123319, Angiotensin II; Q5654; 2016
+DGAVP; R0036; 1980
+DHED; Q5440; 2015
+Diaminopropionic acid, derivative; R0205; 2001
+Diarylpropiolnitrile; P8814; 2007
+Diarylpropiolnitrile; pyrazole triol, propyl-; P6817; 2004
+Diazepam; P8816; 2008
+Dibutyryl cAMP; cAMP, 8-bromo; P9802; 2009
+Diclofenac; P3383; 1995
+DIDS; Q1964; 2011
+Dieldrin; P8732; 2007
+Diethlydithiocarbamate, N, N-; P7996; 2007
+Diethyldithiocarbamic acid; Q3197; 2014
+Diethylenetriamine NONOate; Q1366; 2010
+Diethylstilbestrol; P8808; 2007
+Digibind; Q1389; 2011
+Digoxin; Q5344; 2016
+Dihydrocapsaicin; Q4707; 2014
+Dihydrokainic acid; Q5733; 2016
+Dihydrotestosterone; P0189; 1981
+Dihydroxycholecalciferol, 1,25-; hydroxycholecalciferol, 25-,; Q4073; 2015
+Dihydroxytryptamine, 5,7-; Methysergide; Ketanserin; P4222; 1995
+Dimethoxyphenylethylamine; Tetrahydropapaverine; MPP+; P3733; 1997
+Dimethylarginine, assymetric; Q5024; 2015
+Dimethyloxalylglycine; Q1947; 2010
+Diminazene aceturate; A-779; Q5088; 2016
+Dinapsoline; P4791; 2001
+Dionocophylline C; dioncopeltine A; P9531; 1997
+Diphenylene iodinium; Q1008; 2011
+Diphenyleneiodonium; Q4635; 2015
+Diphenylpyrazole, 3, 5-; Q1644; 2011
+Diprenorphine; Naloxone; Naltrexone; P0742; 1986
+Dipyridamole; Q3952; 2014
+Dirofilaria immitis polyproteins, recomb.; Q1782; 2011
+Diruthenium gamma-linolenic acid; Q4003; 2014
+Diruthenium-ibuprofen; Q4703; 2014
+Disaccharide, AcGnG-NM; P8052; 2006
+Diselenobis (1H-indoles), 2,2'-, N- and 3-; P3743; 1997
+Dizocilpine; Q3331; 2014
+D-JNK-1; SP 600125; Q0146; 2010
+DLAM-iPR, DLAM-4P,; Q3087; 2013
+D-luciferin; Q5236; 2015
+DMAG, 17-; P8635; 2007
+DMH1; Q3142; 2013
+DMPO, 2-Ph-; P2827; 1995
+DMPPO; P4231; 1998
+DMXBA; Q0839; 2010
+DNA, cytosine-guanine; Q0376; 2009
+DNA, naked; vascular endothelial growth factor, DNA; P5966; 2003
+DNA, plasmid; P6539; 2004
+DNA, siRNA; Q4773; 2014
+DNAXT-1as; Q4843; 2016
+DNAXTas; P9079; 2008
+DNAzyme DT912; Q5501; 2016
+DNAzyme oligonucleotide; Q4752; 2014
+DNAzymes, Scrambled or TXNIP; Q5375; 2016
+Dobesilate; Q0773; 2011
+Docosahexaenoic acid, deuterium labeled; neuroprotectin D1; Q1249; 2011
+Dominatene acetirete; Q5473; 2016
+Donepezil; P8363; 2006
+Dopamine; P1135; 1987
+Dopamine HBr, 6-hydroxy-; P0495; 1984
+Dopamine HCl; P4216; 1997
+Dopamine, 6-hydroxy-; P2584; 1991
+Dopamine, agonists; P6218; 2003
+Dopamine, hydroxy-6; R0223; 1997
+Dopamine, N-octanoyl; Q3720; 2014
+Dopexamine; dopamine; P6552; 2004
+Dorzolamide; timolol; Q5012; 2015
+Doxazosin; P7070; 2004
+Doxorubicin; P9568; 2009
+Doxorubicin HCl; Mitoxantrone; Tolmetin sodium; Bleomycin; Cisplatin; Methotrexate; P2007; 1992
+Doxorubicin hydrochloride; Q6018; 2017
+Doxycycline; Q1540; 2011
+DPAT, 7-hydroxy-; P7535; 2005
+DPAT, 7-hydroxy-U-99194A maleate; P7137; 2005
+DPAT, 8-OH-; WAY-100,635; P7611; 2005
+DPC-IDR1; P6153; 2003
+DPCPX; Q4136; 2014
+D-peptide D3, tritium labelled; Q4467; 2015
+DPSPX; P2726; 1994
+DsThr; Enkephalin agonist DADL; Fentanyl; FK-33824; MR-2034; MRZ; Normorphine; P0170; 1981
+DT3; Q4779; 2013
+DT310; DT320; Q4456; 2015
+DTAT; P8276; 2006
+D-Tat-beclin1; Q5945; 2017
+DTATEGF, immunotoxin; Q5407; 2015
+DU51; antibody, anti-MHC-1; antibody, anti-CD8; Q3599; 2014
+Duloxetine; P4238; 1998
+Dutasteride; Q5848; 2016
+Dye; R0304; 2013
+Dye, Congo Red; P5599; 2003
+Dye, Coomassie blue; Leucine; Methionine; Proline; Radio-isotopes; P0650; 1984
+Dye, Evans Blue; P4940; 2001
+Dye, Evans-Blue fluorescent; P0180; 1981
+Dye, Fast Green FCF; Muscimol; Radio-isotopes; P0490; 1984
+Dye, FD&C Red No. 40; Pyridostigmine; P1109; 1987
+Dye, Lucifer yellow; P2137; 1992
+Dye, Methylene blue; P1906; 1991
+Dye, toluidine blue; Saline; P3898; 1997
+Dye, Trypan blue; Corticotropin-rel. factor; Vasopressin; P1162; 1987
+Dynorphin; P0887; 1986
+
+
+E
+
+E-64; P4944; 2001
+E-64C; Aprotinin; Chloroquine; Leupeptin; P1987; 1992
+E. coli; Bacteria; P3805; 1997
+EB1089; P9108; 1999
+Ebselen; Q4864; 2016
+Ecdysone, 20-Hydroxy-; P0776; 2016
+Echistatin; P5567; 1998
+ED11; Q4296; 2015
+Edaravone; Q2153; 2012
+Edetic acid; Growth hormone, human; Radio-isotopes; P0090; 1980
+EDL-155; P9768; 2008
+EDTA; P2418; 1991
+EF6265; Q0528; 2009
+Eg5 inhibitor; Q5318; 2016
+Eicosapentaenoic acid; P0799; 1986
+EIPA, 5-; Q2915; 2013
+EIPA; Hydralazine; DIDS; Nigericin; P3440; 1996
+ELA Peptide, human; Angiotensin II; Q5972; 2017
+Elafin; Q4438; 2015
+Elafin, recomb human; Q0039; 1996
+Elastin-like polypeptide, 
+Kidney-targeting peptide-Elastin-like polypeptide; Q5751; 2017
+ELND006; ELN 481594; Q1936; 2012
+EM-170; Progesterone acetate, medroxy-; P1852; 1991
+EMD121974; P7842; 2006
+EMD270179; SU5416; P8271; 2006
+Enalapril; Q2220; 2011
+Enalapril maleate, Losartan, Tempol; Q5520; 2013
+Enalaprilat; P0841; 1984
+Endocan/S137A, recombinant human; Q4661; 2015
+Endorphin, a-; Endorphin, B-; Enkephalin, leucine-; Enkephalin, methionine-; Morphine sulfate; R0003; 1976
+Endorphin, B-; P6696; 2002
+Endorphin, beta; P6917; 2004
+Endostatin; P5030; 2001
+Endostatin (1-27), human; P8275; 2007
+Endostatin (180-199), human; endostatin (180-199/mut), human; P6791; 2004
+Endostatin, human (1-27); P7564; 2005
+Endostatin, recomb human; P5820; 2002
+Endothelial growth factor, recomb.; gefitnib; Q0420; 2010
+Endothelin; P6541; 2004
+Endothelin-1; P5051; 2002
+Endothelin-3; P3586; 1996
+Endotoxin; P1828; 1990
+Endotoxin, LPS; Q3556; 2014
+Endotoxin, PgLPS ATCC 33277; Q3852; 2014
+Endotoxin, s. enteritidis; P1685; 1990
+Engrailed-1; engrailed-2; RNA, small interfering Ndufs1; Q1069; 2011
+Engrailed-2, recomb. chick; P8432; 2007
+Enkaphalin, Met 5-; P7206; 2005
+Enkephalin; P2513; 1994
+Enkephalin agonist DADL; P0281; 1982
+Enkephalin agonist DADLE; PL 017; P0980; 1987
+Enkephalin analog; P0030; 1978
+Enkephalin analog DADLE; Etorphine; Sufentanil; P0113; 1980
+Enkephalin analog ST-91; Enkephalin analog DADLE; Enkephalin analog DAMGO; Morphine; Sufentanil; P1273; 1989
+Enkephalin, Leu-; dynorphin; dynorphin (3-13); P8160; 1984
+Enprostil; Octreotide; P1679; 1990
+Entecavir; Q3099; 2013
+Enterostatin; P7397; 2005
+Enterotoxin; P1694; 1990
+EP-459; EP-475; Prostaglandin E2, dimethyl-; P1017; 1984
+EphA2-Fc, soluble receptor; EphA3-Fc, soluble receptor; immunoglobulin G; P6609; 2003
+EphB2; EphA5; ephrin-A5; P6442; 2003
+Ephrin B2-Fc, Eph B4-Fc; Q0283; 2009
+Ephrin B3; Q1583; 2010
+Ephrin B3-Fc ligand; P7864; 2006
+Ephrin B3-Fc; serine, D-; Q5178; 2016
+Ephrin-A1-fc; Q2132; 2012
+Ephrin-A2-Fc; Ephrin-B2-Fc; EphA7-Fc; Immunoglobulin G, goat anti-human; Ephrin-B1-Fc; P7190; 2005
+Ephrin-A4-Fc, ligand; Q1546; 2010
+Ephrin-A5-Fc; immunoglobulin G2A; Q4886; 2016
+EphrinB3; Q5282; 2015
+EphrinB3-Fc; Q6061; 2016
+Ephrin-B2, ; Q6057; 2016
+Ephrin-B2-Fc, recombinant murine chimera; Q5711; 2016
+Epibatidine; Fenfluramine; P3051; 1994
+Epidermal growth factor; P3148; 1995
+Epidermal growth factor VIII, milk fat globule, recomb. murine; Q0798; 2009
+Epidermal growth factor, heparin binding; P6377; 2004
+Epidermal growth factor, human recombinant; Q3481; 2014
+Epidermal growth factor, mouse; P8632; 2007
+Epidermal growth factor, recomb. human; Q1335; 2010
+Epigallocatechin-3-O-gallate; Q5503; 2016
+Epinephrine; Q1759; 2011
+Epinephrine bitartrate; P3221; 1994
+Epinephrine HCl, l-; P0651; 1985
+Epinephrine, l-; Norepinephrine, l-; Serotonin; P1064; 1987
+epinephrine, macrophage-activating lipopeptide-2; ICI-118,551; Q4766; 2014
+Epinephrine; antagonist, beta adrenergic receptor; Q3234; 2014
+Epithelial growth factor; Q5568; 2016
+EPL001; antibody, EPL001, mouse, monoclonal; P9866; 2009
+Eplerenone; Q4924; 2013
+Epoxomicin; Q4088; 2014
+Epoxy Decosapentaenoic acid; epoxide hydrolase, soluble;; Q2880; 2013
+Epoxydocosapentaenoic acid, 19,20-; Q5198; 2016
+Epoxyeicosatrienoic acid; Q1650; 2012
+Eprosartan; P5237; 2002
+Eptaloprost; Iloprost; P1919; 1990
+EPZ004777; Q1024; 2011
+Ergonovine, maleate; P2910; 1994
+Erlotinib; Q2576; 2013
+Erythroidine hydrobromide, dihydro-beta; Q1670; 2012
+Erythroidine, dihydro-beta; P5130; 2002
+Erythropoietin; P9369; 2009
+Erythropoietin receptor, soluble; P7614; 2006
+Erythropoietin, asialo-; Q1286; 2010
+Erythropoietin, recombinant human; Q4880; 2016
+Erythropoietin, soluble receptor; P5948; 2003
+ES-62; Q3808; 2015
+ES-1005; Captopril; P2045; 1990
+Escitaloporam; Q1913; 2012
+Escitalopram oxalate; Q4511; 2015
+Esmolol; Q5046; 2014
+Estradiol; Q2817; 2013
+Estradiol-3-sulfate; Q2328; 2012
+Estradiol benzoate; Q0847; 2010
+Estradiol benzoate, 17b-; P9963; 2009
+Estradiol metabolite; Estriol precursor; Estrone, 16 alpha hydroxy; P1872; 1989
+Estradiol, 2-hydroxy-; P5399; 2002
+Estradiol, 2-methoxy; Q0952; 2009
+Estradiol, 4-hydroxy-; P0764; 1986
+Estradiol, 17-; Q2748; 2013
+Estradiol, 17A-; Estrone, 2-hydroxy-; P0763; 1986
+Estradiol, 17-beta-; Q5377; 2016
+Estradiol, beta; Q0892; 2011
+Estradiol, estrogen dendrimer conjugate; Q5763; 2016
+Estradiol, ethinyl; Q4530; 2015
+Estradiol, hydroxy 2-; Q2606; 2013
+Estradiol; dendrimer, empty estradiol; Q2622; 2013
+Estradiol; diarylpropiolnitrile; G1; propylpyrazole triol; Q00118; 2009
+Estradiol; DPN; Q0536; 2009
+Estradiol; Estriol; P0687; 1985
+Estradiol; estrogen receptor selective agonist, alpha; estrogen receptor selective agonist, beta; Q4246; 2015
+Estradiol; estrogen-dendrimer conjugate; Q0109; 2010
+Estramustine phosphate; P2706; 1994
+Estrogen; Q1380; 2011
+Estrogen-17B; Q4842; 2016
+Estrogen receptor agonist; Q4778; 2017
+Estrogen, 16a-; Catecholestrogens; Estradiol, 17B-; Estriol; Estrone; Estrone, 2-methoxy-; P0074; 1980
+Estrogen, conjugated; P6965; 2005
+Estrogens, 2-hydroxy-; Estrogens, 4-hydroxy-; R0052; 1982
+Estrone sulfate; Q2126; 2012
+Estrone sulphate; Q4513; 2015
+Estrone, oleoyl-; P4152; 1998
+Estrone; B10720512; B10721325; B10720440; B10720511; B10715817; P7902; 2006
+ET-1; Q3914; 2015
+Etanercept; P9904; 2010
+Ethanehydroxydiphosphonate; P0635; 1985
+Ethanol; P4176; 1998
+Ethorphine HCl; P1015; 1987
+Ethoxide, glucose; Q6017; 2017
+Ethylamine; Putrescine; P0659; 1985
+Ethyleneglycol tetraacetic acid; P0058; 1980
+Ethylketocyclazocine; Heroin; Meperidine; Oxymorphone; Pentazocine; Propoxyphene; Bremazocine; Buprenorphine; Butorphanol; Methadone; Morphine; Nalbuphine; U-50,488H; P0588; 1985
+Ethylurea, dimethylaminopropyl, 1-3-3; P6017; 2003
+Eticlopride; oxytocin; oxytocin receptor antagonist; P6061; 2003
+Etodolac; Guaiaretic acid, nordihydro-; P4989; 2001
+Etoposide; P5213; 2000
+Etorphine; P7344; 2005
+Etorphine HCl; P4229; 1997
+ETP-508; P9877; 2008
+Etretinate; P2683; 1990
+EUK-27, custom; Q2477; 2013
+EUK-189; P6477; 2004
+EUK-207; Q1535; 2011
+Everolimus; Q6051; 2016
+EVP4593; Q4907; 2016
+EVP6124; Q5452; 2015
+Ex26; Q5526; 2013
+Exenatide; Q5536; 2013
+Exendin-4; Q2815; 2013
+Exendin-9; Q1082; 2011
+Exendin (9-39); Q0887; 2011
+Exentide-4; Q4891; 2016
+Exosome; Q4217; 2015
+Exosome solution, glycosphingolipid-enriched; Q4216; 2014
+
+
+F
+
+F10; Q3338; 2014
+F314; Oxytocin; P4208; 1996
+F13640; P6803; 2004
+Factor VIIa; P6204; 2003
+FAD286; Q0233; 2010
+FAD286 hydrogen tartrate; spironolactone; P9413; 2009
+Fadrozole; P2208; 1992
+Fadrozole HCL; P6710; 2003
+Fadrozole HCl; P3821; 1997
+Fadrozole HCl; Estradiol-3-benzoate; P3385; 1995
+Fadrozole, hydrochloride; P6375; 2004
+Fadrozole, R-; fadrozole, S-; P8812; 2008
+Farnesyl:protein transferase inhibitor-I; P5383; 2002
+Fas Ligand, recomb; P5503; 2002
+Fas ligand; etoposide; dexamethasone; P9777; 2007
+Fas receptor, soluble; Q2178; 2012
+Fasudil; Q0981; 2011
+Fasudil hydrochloride hydrate; P8694; 2007
+Fatty acids; P0816; 1986
+Fc-IgG; ephrineB3, pre-clustered; Q4895; 2016
+fCTRP9; Q2270; 2011
+FE201874; arginine vasopressin; desmopressin; d[Leu4,Lys8]VP; [Thr4,Gly7]OT; Q3118; 2013
+Felodipine; P3960; 1998
+Fenfluramine, D-; P1793; 1989
+Fenofibrate nanosuspension; captopril; methylene blue; Q2112; 2012
+Fenofibrate; Glucose, 2-Deoxy; Q5409; 2016
+Fenoldopam mesylate; P3071; 1992
+Fentanyl; P3490; 1997
+Fentanyl citrate; P4915; 2001
+Fentanyl citrate salt; P8341; 2007
+Fentanyl dihydrogencitrate; P0827; 1986
+Fentanyl HCl; P4328; 2000
+Fentanyl hydrochloride; P9445; 2008
+Fentanyl propionanilide; buprenorphine hydrochloride; Q0846; 2011
+Ferrous amyloid buthionine; R0326; 2013
+Fesoterodine Fumarate; Q5324; 2017
+FeTMPyP; Tempol; Q5333; 2017
+FG-7142; P2620; 1992
+FGLM-NH2; SSSR; Q2425; 2012
+Fibroblast growth factor; P1472; 1988
+Fibroblast growth factor-2; P8658; 2007
+Fibroblast growth factor-2, recomb. human; P8930; 2008
+Fibroblast growth factor-6, recomb. human; P8702; 2007
+Fibroblast growth factor-9; Q1741; 2011
+Fibroblast growth factor-20; Q2417; 2012
+Fibroblast growth factor-21; Q2645; 2012
+Fibroblast growth factor-21, murine, recomb; Q3388; 2014
+Fibroblast growth factor-21, recomb. human; Q2480; 2013
+Fibroblast growth factor 19, c-terminal deleted; Q3887; 2014
+Fibroblast growth factor 21, human recombinant; Q4333; 2015
+Fibroblast growth factor, basic; P5271; 2002
+Fibroblast Growth Factor, basic; Heparin;; P4413; 1996
+Fibroblast growth factor, bovine; P8818; 2008
+Fibronectin mat solution; peptide, fibronectin-derived synthetic; Q0137; 2010
+Fibronectin-derived peptide, synthetic; P7576; 2005
+Ficoll, 3H-carboxymethyl; P6599; 2003
+Fingolimod; Q3351; 2014
+FIPI, VU0155072-2; Q5866; 2016
+Fish oil-based lipid emulsion; Soybean oil-based lipid emulsion; Q4447; 2015
+FITC; Q2714; 2012
+FITC-D1; FITC-D3; P9639; 2009
+FITC-D3; FITC-D1; P9721; 2008
+FITC-Dextran; Fluorescein isothiocyanate; Dextran; P5648; 2003
+FITC-Insulin; P9376; 2008
+FK-506; Q0556; 2009
+FK-633; P3736; 1997
+FK-866; Q4006; 2014
+Flavone, 7,8-dihydroxy; imipramine; Q0978; 2011
+Flavopiridol; P8458; 2007
+Flerobuterol; P2095; 1991
+Flesinoxan hydrochloride; P8647; 2007
+Flesinoxan; BMY-42568; P2722; 1994
+FLT3L, recombinant human; Q5919; 2017
+Flt-1, soluble; P9393; 2009
+Flucytosine; P6175; 1996
+Flufenamic acid; Q4506; 2015
+Flumazenil; P1871; 1989
+Fluorescein isothiocyanate-inulin; Q3588; 2014
+Fluorescein sodium; P0044; 1980
+Fluoride hydrochloride, 4-(2-aminoethyl)-benzenesulfonyl; P7596; 2005
+Fluoride, potassium; P0924; 1986
+Fluoroacetate; Q5003; 2015
+Fluorocitrate; Q00148; 2010
+Fluorocytosine, 5-; P7169; 2005
+Fluoromethylhistidine, 5-a-; Octreotide; P3304; 1993
+Fluoromethylhistidine, a; P2168; 1992
+Fluorouracil, 5-; P9489; 2009
+Fluorouracil, 5-FU; peplomycin; P6394; 2004
+Fluoxetine; P9290; 2008
+Fluoxetine HCl; P9289; 2008
+Fluoxetine hydrochloride; citalopram hydrobromide; Q3430; 2014
+Flupenthixol, cis-; P6863; 2004
+Fluphenazine; Haloperidol; Morphine; Prazosin; P0908; 1985
+Flurbiprofen; Q0222; 2009
+Flurbiprofen analogues; flurbiprofen; P7625; 2005
+Fluromethylhistidine-a; P6030; 2003
+Flutamide; Q1077; 2011
+Fluvoxamine; P2631; 1993
+FMLP; P3056; 1987
+FMPD; olanzapine, HCl; P6911; 2005
+FMRFamide; P6115; 2003
+FMRFamide; Benzamil, HCL; P5753; 2000
+FN-439; Q1963; 2011
+Folate-DTPA-111In; P5709; 2003
+Folic acid; P0888; 1986
+Folinic acid; P4206; 1995
+Follicle stimulating hormone; Q0454; 2009
+Follicle stimulating hormone, ovine; P1519; 1989
+Follicle stimulating hormone, porcine; P3670; 1996
+Follicle stimulating hormone, recomb.; P3133; 1993
+Follicle stimulating hormone, recomb. human; P3259; 1994
+Follistatin; P7924; 2006
+Follitropin, rat; Thyrotropin, rat; Pituitary extract; P0230; 1982
+Foretinib; Q3877; 2015
+Formalin, neutral buffered; Water; Cisplatin; Mitomycin C; Saline; P0422; 1984
+Formoterol fumarate; P5608; 2003
+Forskolin; P0435; 1984
+FP15; Q1714; 2011
+FPL-55712; Guaiaretic acid, nordihydro-; Leukotriene, C4; Prostaglandin E2; P1369; 1988
+FPT III; BMS-191563; PD-98059; P4759; 2000
+FR139317; L-NAME; A-127722; ABT-546; Q1601; 2010
+FR167653; P8260; 2007
+FR-118487; Q0230; 2010
+FR-139317; P4993; 2001
+FR-190997; aprotinin; SBTI; P5676; 2003
+Fractalkine; P8487; 2007
+FSLLRY-NH2; Q4319; 2015
+FTI-1; GGTI-1; DPI-1; P9153; 2001
+FTI-276; FTI-2148; P9152; 1999
+FTY720; NIBR-14; CYM5442; Q3516; 2014
+Fucoidan; Q2614; 2013
+Fulvestrant; Q4474; 2015
+Fumonisin B1; P7182; 2005
+Funaltrexamine, B-; DAMGO; P8183; 2006
+Furegrelate; P9478; 2009
+Furin inhibitor I; P9946; 2010
+Furosemide; P5276; 2001
+Fusarochromanone; P8992; 2007
+Fusion protein;; P4141; 1999
+
+
+G
+
+G120R; Q2646; 2012
+G 4120; P3279; 1994
+GABA, gamma-vinyl-; Aminobutyric acid, Y-; P3309; 1992
+Gabapentin; Q1710; 2011
+Gabapentin-lactam; gabapentin; P7053; 2004
+Galactosylceramide, alpha; P6158; 2003
+Galanin; AR-M1896; AR-M1961;; P5027; 2001
+Galanin-like peptide; Q2374; 2012
+Galectin-1, recomb. human oxidized; P7606; 2005
+Galectin-3. recomb, human; Q3716; 2014
+Galectin-3C; Q1234; 2011
+Gallamine triethiodide; tubocurarine; atropine; suramin; Q0436; 2009
+Gallate; Q3944; 2014
+Gallium nitrate; P5525; 2002
+Galnon; Q3563; 2014
+Gamma globulin, bovine; P0317; 1983
+Gamma linolenic acid; P9661; 2009
+Ganciclovir; Q2223; 2011
+Ganciclovir sodium; Q4509; 2015
+Ganglioside; P5639; 2003
+Ganglioside GM1; Q1833; 2012
+GANT61; Q4933; 2015
+Garcinol; Q5871; 2017
+GAS6, g-carboxylated full-length human; Q3897; 2014
+Gastrin; P6078; 2003
+Gastrin-17; P2056; 1992
+Gastrin-17, synthetic rat; P9001; 2006
+Gastrin I, human synthetic; Tetragastrin; Histamine dihydrochloride; Pentagastrin; P0092; 1981
+Gastrin I, rat; epidermal growth factor, recomb. human; P6493; 2004
+Gastrin, glycine-extended; Q1065; 2010
+Gastrin, rat; P7538; 2006
+Gastrin-releasing peptide; P2206; 1992
+GBR-13069; Desipramine; Zimelidine; P1796; 1989
+GC7; Q0172; 2010
+GdDTPA; P1389; 1988
+GDF-15, recomb.; Q1160; 2011
+Gefitnib; Q0956; 2010
+Geldanamycin; L-NAME; P7204; 2005
+Gemcitabine; Q6015; 2017
+Gene vectors, virus; R0164; 2002
+Gene, Wnt3a, recomb.; P9121; 2008
+Genistein; Q2856; 2013
+Gentamicin; P5108; 1999
+Gepirone; P2645; 1987
+Gepirone dihydrochloride; P2652; 1993
+Gepirone HCl; P0634; 1985
+GERAMT-TAT peptides; Q5729; 2017
+GGTI-2418; P9538; 2009
+Ghrelin; P9951; 2010
+Ghrelin receptor antagonist; Q2580; 2013
+Ghrelin, acyl; Q0992; 2011
+Ghrelin, acylated; ghrelin, non-acylated; ghrelin mimetic growth hormone-releasing peptide-6; Q3886; 2014
+Ghrelin, Dap3-; obestatin; P9771; 2008
+Ghrelin, Des-acyl; Q4097; 2014
+Ghrelin, human; Q0223; 2009
+Ghrelin, n-octanoyl; Q0594; 2009
+Ghrelin, rat; Q1970; 2011
+Ghrelin, des-octanoyl rat; L-163,255; P6549; 2004
+Ghrelin, recomb human; Q0034; 2010
+Ghrelin, recombinant rat; Q4684; 2015
+Ghrelin-C8, tilapia; ghrelin-C10, tilapia; P7303; 2005
+GI168; P3379; 1995
+Ginsenoside; P1124; 1987
+Ginsenoside Rb1; P8064; 2006
+Ginsenoside Rc; Ginsenoside Rg1; P4820; 2001
+Ginsenoside Rg3; Ginsenoside Rg2; compound K; P6743; 2004
+GITR-Fc; Q1715; 2011
+Glafenine; Q1296; 2010
+Gleevec; R0265; 2008
+Glial cell line-derived neurotrophic factor; Q4512; 2015
+Glial conditioned medium; GCM; Q3009; 2013
+Glial-derived neurotrophic factor; R0198; 2002
+Glial-derived neurotrophic factor, recombinant human; P4887; 2001
+Glial-derived neurotrophic factor, recombinant, rat; glial-derived neurotrophic factor, TTC; Q0275; 2009
+Glibenclamide; Q5007; 2015
+Gliquidone; Q3232; 2014
+Glucagon; P1474; 1985
+Glucagon, des-His1-Glu9 (1-29); Angptl4, recombinant human; Angptl4, mouse; Angptl3, human; Q5124; 2015
+Glucagon-like peptide-1; Q4308; 2015
+Glucagon-like peptide-1 (7-36) amide; P4217; 1998
+Glucagon-like peptide-1 (7-36); exendin (9-39); P9652; 2009
+Glucagon-like peptide-1 (7-37); P3172; 1995
+Glucagon-like peptide-1 (9-36), amide; Q2378; 2012
+Glucagon-like peptide-1 (28-36); Q1718; 2011
+Glucagon-like peptide-2; P5545; 2001
+Glucagon-like peptide-2 analog; P4841; 2000
+Glucagon-like peptide-2, rat; glucagon-like peptide-1, human (7-36) amide; oxytomodulin; P9821; 2009
+Gluconate, zinc; P0525; 1984
+Glucose-6, 6-2H; P9570; 2009
+Glucose degradation products; P8841; 2008
+Glucose oxidase; P4235; 1999
+Glucose, 2-deoxy, Fenofibrate; Q5614; 2016
+Glucose, 14C; Glucose, 3H; P2210; 1993
+Glucose, [U13C6]-; Q4148; 2014
+Glucose, C13 labeled; Q0429; 2010
+Glucose, l-; Leucine, l-; Proline, l-; Glucose, d-; Radio-isotopes; P0193; 1981
+Glucose, U-13C; Q1373; 2010
+Glucose, U-13C6; Q2051; 2012
+Glucose-dependent insulinotropic polypeptide; P8734; 2007
+Glutamate; P6954; 2005
+Glutamate, L-monosodium; P0426; 1984
+Glutamatergic agonist; glutamatergic antagonist; Q2895; 2013
+Glutamic acid; Insulin; P2193; 1991
+Glutamine, glycyl-l-; P1480; 1989
+Glutamyldiethyl ester; P1235; 1988
+Glutathione; Q0441; 2009
+Glutathione monoethyl ester; P6280; 2004
+Glutathione peroxidase; Catalase; tempol; P1931; 1991
+Glutathione S-transferase; glutathione S-transferase-Nogo-66; P8810; 2007
+Glutathione, monoethyl ester; MPP+; P8406; 2007
+Glutathione, S-(N-p-chlorophenyl-N-hydroxycarbamoyl); P5249; 2000
+Glu-xip; Xip; CB-DMB; KB-R7943; FeCl3; P6286; 2004
+Gly-9; Q3702; 2014
+Glyburide; dexamethasone; Q3136; 2013
+Glycerol; P8362; 2006
+Glycerol, 2-13C6; Q2023; 2012
+Glycerol, 2-13C; glucose, U-13C6; Q0474; 2010
+Glyceryl trinitrate; Q1063; 2011
+Glycine, L-allyl; glycine, D-allyl; Q0792; 2011
+Glycine-proline, cyclic; Q3492; 2014
+Glycoprotein I, beta 2; Q1604; 2010
+Glycyrrhizin; Q3831; 2014
+GM1; P1764; 1990
+GM6001; P9225; 2008
+GMX1777; Q0602; 2009
+GN8; P8646; 2007
+GNE-317; GDC-0980; Q4786; 2015
+GO6976; Q4171; 2014
+GO-6976; P6503; 2004
+Gonadotrophin, chorionic; Q5660; 2006
+Gonadotrophin, human chorionic; P9110; 2000
+Gonadotrophin, pregnant mare serum; P0520; 1984
+Gonadotrophin, recomb. human chorionic; P4163; 1999
+Gonadotrophin-inhibitory hormone; P7523; 2006
+Gonadotrophin-releasing hormone; P4142; 1990
+Gonadotrophin-releasing hormone agonist; P5607; 2003
+Gonadotrophin-releasing hormone antagonist; P5283; 2002
+Gonadotrophin-releasing hormone II, analog; P6755; 2004
+Gonadotrophin-releasing hormone, synthetic; P0014; 1978
+Gonadotropin, pregnant mare serum; P8154; 2002
+Gonadotropin-inhibitory hormone; Q3170; 2013
+Gonadotropin-inhibitory hormone 3; Q2191; 2012
+Goralatide; P3984; 1998
+Goserelin; cetrorelix; P5680; 2003
+GP1a; Q0191; 2009
+GP120; P2602; 1994
+Gp130-Fc; Q3315; 2013
+GPR120 III; Q5611; 2016
+GR103691; RNA, small interfering; Q3405; 2014
+GR144053; P4016; 1998
+GR 205171; P7664; 2005
+Gremlin; Q2551; 2013
+GRK2-inhibitor; Q1967; 2011
+GRL-8234; Q0861; 2011
+GRN163; P5944; 2003
+Growth arrest-specfic protein 6, recomb. human; Q0769; 2010
+Growth hormone; Q2871; 2013
+Growth hormone releasing peptide-6; P8102; 2006
+Growth hormone releasing peptide, D-Lys3; SUB-P; Q3936; 2014
+Growth hormone, bovine; P2633; 1995
+Growth hormone, chicken; P1528; 1990
+Growth hormone, human; P1027; 1987
+Growth hormone, human recomb.; Q5334; 2016
+Growth hormone, human recombinant; Q5699; 2016
+Growth hormone, ovine; P1177; 1987
+Growth hormone, porcine; Q3456; 2014
+Growth hormone, rat; P6509; 2004
+Growth hormone, recomb, rat; P9628; 2009
+Growth hormone, recomb. human; P6684; 2004
+Growth hormone, recomb. mouse; P7820; 2006
+Growth hormone-rel. factor; P2214; 1993
+Growth hormone-rel. factor-2; P3546; 1996
+Growth hormone-rel. factor (1-44) -NH2, human; P2946; 1993
+Growth hormone-rel. factor analog; P1742; 1990
+Growth hormone-rel. peptide-6; P6600; 2003
+Growth hormone-releasing peptide-2; Q0371; 2009
+Growth hormone-releasing peptide-6; P7613; 2005
+Growth medium; P4504; 1990
+GS4898; Q0183; 2010
+GSAO; Q3612; 2014
+GSK2126458; trametinib, dabrafenib; Q4893; 2016
+GSK-7975A; Q4641; 2015
+GU40C4; Q1491; 2008
+GU81; Q0584; 2010
+Guaiaretic acid, nordihydro-; P7783; 2006
+Guanabenz acetate; Q4951; 2015
+Guanabenz; Clonidine; Rilmenidine; P2311; 1992
+Guanethidine; P6513; 2004
+Guanethidine sulfate; P1102; 1987
+Guanethidine, 6-hydroxydopamine hydrochloride; Q6038; 2017
+Guanidinopropionic acid, beta-; P9378; 2007
+Guanosine; P9942; 2009
+GW0742; Q3350; 2013
+GW9662; Q1303; 2011
+GW9662; Q4948; 2015
+GW501516; Q5075; 2016
+GW771806; P8520; 2007
+GYY4137; Q5400; 2016
+
+
+H
+
+H2-Relaxin, human recombinant; Q5043; 2014
+H7; P2981; 1994
+H89; Q0627; 2009
+H409/22; P7490; 2005
+H1152; MRS2395; MRS2211; 2Me-SADP; Q4134; 2015
+HA22- PE24 recombinant immunotoxin; Q5357; 2017
+HA-1004; P8249; 2007
+HA-1077; Q2285; 2012
+HA 1152; diltiazem; fasudil; Q1920; 2011
+hADM22-52; calcitonin gene-related peptide (8-37); Q2170; 2012
+Haloperidol; Q0902; 2011
+Haloperidol-Hcl; Q5738; 2017
+Handle region peptide; Q3882; 2014
+Handle region peptide, mouse; Q4822; 2016
+Harman; P2598; 1994
+HEBP;; P4281; 1999
+HEDP; P3066; 1994
+Hemicholinium-3; P1618; 1989
+Hemisuccinate, B; P7119; 2002
+Heparin; P4645; 1995
+Heparin glycosaminoglycan; P6681; 2003
+Heparin sodium, unfractionated; Q2175; 2012
+Heparin, calcium; P0938; 1986
+Heparin, low molecular weight; P8075; 2006
+Heparin, porcine; P5297; 1999
+Hepatic growth factor, human; nerve growth factor; Q0544; 2008
+Hepatocyte growth factor; P6414; 2003
+Hepatocyte growth factor, human; P8815; 2008
+Hepatocyte growth factor, recomb. human; P6779; 2004
+HEPES buffer; P4786; 2001
+Hepoxilin A3; P6355; 2004
+Heptamethoxyflavone, 3,5,6,7,8,3,4-; Q2426; 2012
+Herceptin; antibody, anti-Her2 monoclonal; radio-isotopes; P6540; 2003
+Heregulin, B1, PE38KDEL; P3717; 1998
+Heroin; P6278; 2004
+Heroin hydrochloride; morphine sulfate; P9748; 2009
+HETE, 15-; P1453; 1989
+Hexamethonium; P0351; 1983
+Hexamethonium bromide; T0012; 2012
+Hexamethylphosphoramide; P3737; 1997
+Hexane,1,6-bis (phospocholine)-; P7908; 2006
+Hexanedione, 2,5-; P1711; 1990
+HG-829; Q2322; 2012
+High density lipoprotein; Q4998; 2015
+Hippuran, 125J; Radio-isotopes; P0840; 1986
+Hippuric acid; R0084; 1991
+Hirudin; P7249; 2005
+Hirudin, r-;; P4419; 1996
+Histamine; P2564; 1994
+Histamine dihydrochloride; P1043; 1987
+Histidine, a-Fluoromethyl; P7130; 2005
+Histidyl-proline-diketopiperazine (CHP); P2326; 1993
+HIV-1 accessory protein viral protein R, synthetic; Q2876; 2013
+HIV-1 viral protein R, synthetic; Q4111; 2017
+HM01; Q5628; 2016
+HMF; Q1914; 2012
+HMGB1; Box A; OxPAPC; Q5713; 2016
+HMGB-1, anti; Q0147; 2010
+HOE-140; Q5131; 2015
+Homocysteine; P5063; 2002
+Homocysteine, D,L-; P6876; 2005
+Hormone; estradiol, 17B-; R0331; 2007
+Horseradish peroxidase; P0389; 1983
+HP5b; Interleukin-1; Colony-stimulating factor, GM; P3434; 1997
+HPMPA, (S)-; P4209; 1996
+HPOP; P3617; 1990
+HQP09; Q1472; 2011
+HS014; P4359; 1999
+HS024; P6559; 2003
+HS028; HS014; P4319; 1999
+HS-142-1; P2965; 1995
+HSD17B1; Q1308; 2010
+Hsp70; Q4098; 2014
+HSP70, human recomb.; Q5861; 2016
+HU-210; endotoxin, E. coli; Q0417; 2010
+Human placental lactogen; P2220; 1993
+human recombinant decorin; Q4762; 2013
+Human urine fraction; P4197; 1995
+Huperzine A; P5187; 2002
+Hyaluronan oligosaccharides; P5573; 2002
+Hyaluronan tetrasaccharide; Q4632; 2015
+Hyaluronic acid; R0270; 2009
+Hyaluronidase, active; hyaluronidase, inactive; Q1101; 2009
+Hyaluronidase, testicular; Q0770; 2010
+Hydralazine; P6861; 2004
+Hydralazine HCl; Timolol maleate; Phentolamine HCl; P0995; 1987
+Hydralazine hydrochloride; candesartan cilexetil; Q0818; 2009
+Hydrazine, monomethyl-; P2771; 1993
+Hydrazine, phenyl; Q1687; 2010
+Hydrobromide, 2-ethyl-2-thiopseudourea; P7246; 2005
+Hydrobromide, R(+)-6-bromo-APB-SKF-38393; Nafadotride, (5)-bromocriptine; Cocaine HCl; P3446; 1996
+Hydrochlorothiazide; P9509; 2009
+Hydrocortisone; P1084; 1987
+Hydrocortisone 21-phosphate; P3707; 1993
+Hydrocortisone phosphate; P3847; 1997
+Hydrogen Peroxide; Prostaglandin F2 alpha, 8-Iso-; CGS12970; U-46619; Urotensin II; P6225; 2003
+Hydrogen sulfide, sodium; Q1987; 2012
+Hydromorphone; P0770; 1985
+Hydroxamate, butyryl; P7493; 2005
+Hydroxamic acid, suberoylanilide; P9491; 2009
+Hydroxyandrostenedione, 19; P0834; 1986
+Hydroxybutryic acid, B-; Q3905; 2015
+Hydroxybutyrate, B-; Q3609; 2014
+Hydroxybutyrate, D-B-; R0332; 2013
+Hydroxybutyrate, dl-3-; Insulin, human; P1537; 1988
+Hydroxybutyrate, dl-B-; Glucose, d-; Glycerol; P0115; 1981
+Hydroxybutyrate, gamma-; P6690; 2004
+Hydroxycholecalciferol, 25-; P4154; 1998
+Hydroxyeicosatetraenoic acid, 12(S)-; Q5100; 2016
+Hydroxyeicosatetraenoic acid, 20-; Q0343; 2010
+Hydroxyestrone, 16a-; Q4812; 2016
+Hydroxynaphthoxacine, 4-propyl-9-; P1884; 1991
+Hydroxyphenylglycine, (RS)-2-chloro-5; Q0266; 2009
+Hydroxytryptamine antagonist; P1735; 1991
+Hydroxytryptamine, 5-; Q5800; 2016
+Hydroxytryptamine, 5,7-di; P1482; 1988
+Hydroxyurea; P9929; 2010
+Hydroxyvitamin D3, 1a-; Q3925; 2014
+HY-Peptide; Q5657; 2011
+Hypotaurine; Q4023; 2014
+
+
+I
+
+Ibotenic acid; P1682; 1987
+Ibuprofen; Q3526; 2014
+Icatibant; Q2894; 2013
+ICG-001; Q4354; 2015
+ICI-118,551; P7701; 2003
+ICI-154,129; P0253; 1982
+ICI-182,780; Q4740; 2014
+Idazoxan; P2100; 1991
+IDN-1965; P6457; 2003
+IDN-6556; Nec-1; Q2453; 2012
+IDN-8050; P7425; 2005
+IDN 1965; P6808; 2004
+Iduronate-2-sulfatase; , recomb. human; Q2847; 2013
+Ifenpradil; memantine; MK-801; P9835; 2009
+IFN-inducible protein-10; P5014; 2001
+IFNT; PGE2 251; PGF2a 409; PGI2; Q2962; 2013
+Igmesine; P5188; 2002
+IL-1 receptor antagonist; Q3337; 2014
+Iloprost; P2234; 1993
+Imatinib; Q3443; 2014
+Imatinib mesylate; Q5735; 2017
+IMC-A12; Q4673; 2015
+IMD-0354; Q4686; 2015
+Imidapril; P4062; 1996
+Imidapril hydrochloride; Q1882; 2012
+Imipenem; protegrin-1; P5816; 2003
+Imipramine; P1773; 1989
+Imipramine HCl; P3656; 1990
+Deprenyl HCl; P3067; 1993
+Imipramine hydrochloride; Q1848; 2012
+Imipramine; CI-988; P9288; 2008
+Immunoglobin G;; P4584; 1997
+Immunoglobin, L1-Fc chimera; antibody, monoclonal, mouse IgM; P6598; 2003
+Immunoglobulin G1, Fc-GITR; Immunoglobulin G1, Fc Fusion protein; P8423; 2007
+Immunoglobulin G2, CD4; Q2009; 2012
+Immunoglobulin G, antirat trkA; Immunoglobulin G, antip75NTR-;; P4344; 1999
+Immunoglobulin G, rabbit; antibody, anti Ryk; P9602; 2009
+Immunoglobulin G, TrkA; P4802; 2001
+Immunoglobulin G, TrkB; P5382; 2002
+Immunoglobulin growth factor-1, recomb. human; P9828; 2009
+Immunoglobulin, MCP-1-neutralizing; P3649; 1996
+Immunotoxin, D2C7-(scdsFv)-PE38KDEL; Q3059; 2013
+Immunotoxin, NZ-1; immunotoxin, P588; Q2463; 2013
+Impromidine; P2960; 1995
+INCB3619; P8991; 2006
+Indomethacin; P3614; 1996
+Infliximab; immunoglobulin G, human; P8965; 2007
+Influenza HA (107-119); uridine, bromodeoxy-; P6366; 2004
+Inhibin A; Q1777; 2012
+Inhibin A, recomb. human; P3693; 1996
+Inhibitor kapa beta kinase; Q2181; 2012
+Inhibitor, C-Kit; inhibitor, ErbB2; Q5188; 2016
+INO-1001; P8947; 2006
+Inogatran; P6474; 2004
+Inosine; P5036; 2002
+Inosine monophosphate; P8529; 2007
+Inosine;; P4459; 1999
+Inositol, D-chiro; inositol, myo-; P5530; 2002
+Inositol, myo-[2H6]; P8177; 2006
+Insulin; P0695; 1985
+Insulin2, murine peptide; Q4939; 2015
+Insulin, anti-porcine; Antibody; Insulin, porcine; P1442; 1988
+Insulin, bovine; P1795; 1989
+Insulin, human; P6949; 2005
+Insulin, Humulin R U500; P8758; 2008
+Insulin, Insulin Detemir; Q5601; 2016
+Insulin, methylene blue; P7985; 2006
+Insulin, porcine; P1118; 1987
+Insulin, pork NPH; P2909; 1993
+Insulin, pork zinc; P2232; 1993
+Insulin, recomb. human; P8957; 2007
+Insulin-like growth factor; P5543; 2002
+Insulin-like growth factor-1; Q2623; 2012
+Insulin-like growth factor-1, recomb. rat; Q0153; 2010
+Insulin-like growth factor-1, synthetic long R3; Q0120; 2010
+Insulin-like growth factor 2, Leu27; Q4807; 2016
+Insulin-like growth factor analog; P4997; 2001
+Insulin-like growth factor binding protein-6; glutathione S-transferase; P7698; 2002
+Insulin-like growth factor I, recomb. human; P7621; 2005
+Insulin-like growth factor II; P6405; 2003
+Insulin-like growth factor, recomb. human; P6932; 2004
+Interferon, alpha; interferon, gamma; Q1983; 2012
+Interferon, gamma; Q3523; 2014
+Interferon-a1; P1947; 1990
+Interferon-a2, recomb. human; P0504; 1984
+Interferon-a2b; P4551; 1998
+Interferon-a A/D, recomb. human; P7725; 2006
+Interferon-a/B, mouse; P2121; 1992
+Interferon-beta; P1845; 1991
+Interferon-gamma; P3004; 1993
+Interferon-gamma, mouse; P8261; 2006
+Interferon-gamma, murine; P7042; 2004
+Interferon-gamma, recomb. mouse; P7132; 2005
+Interferon-gamma; S-MDP, free; S-MDP, liposome-encapsulated; P2677; 1994
+Interferon-tau, recomb, ovine; P9920; 2010
+interferon-tau, recombinant ovine; Q4759; 2013
+Interleukin-1; P4083; 1996
+Interleukin-1 alpha; P1838; 1989
+Interleukin-1 beta; Q1003; 2011
+Interleukin-1 receptor antagonist; P7752; 2006
+Interleukin-1 receptor antagonist, human recomb.; Q1823; 2012
+Interleukin-1 receptor antagonist, recomb. human; P5184; 2002
+Interleukin-1 receptor antagonist, recombinant mouse; P4984; 2001
+Interleukin-1, alpha; P3646; 1996
+Interleukin-1, beta; P9325; 2008
+Interleukin-1, beta recomb. human; P2639; 1994
+Interleukin-1, beta recomb. rat; Interferon-gamma, recomb. rat; P6764; 2004
+Interleukin-1, receptor antagonist; Q3406; 2014
+Interleukin-2; R0190; 2002
+Interleukin-2 receptor-alpha;; P4572; 1996
+Interleukin-2, human; Q2613; 2013
+Interleukin-2, murine; antibody, anti-interleukin-2; Q4140; 2014
+Interleukin-2, recomb. human; P8528; 2007
+Interleukin-2, recomb. human; P6765; 2004
+Interleukin-2, recomb. human;; P4557; 1998
+Interleukin-2-PEG; Interleukin-2; P2292; 1994
+Interleukin-3; Q0809; 2009
+Interleukin-3, human; colony-stimulating factor, GM, human; P7959; 1988
+Interleukin-3, recomb. mouse; Penicillin; Streptomycin; P1263; 1988
+Interleukin-4; P2803; 1995
+Interleukin-4, mouse recombinant; Q4037; 2015
+Interleukin-4, recomb. mouse; interleukin-13 recomb. mouse; Q0583; 2010
+Interleukin-5; P5279; 2002
+Interleukin-5, recombinant rat; Q3803; 2014
+Interleukin-6; P5733; 2003
+Interleukin-6, human; Q5906; 2017
+Interleukin-6, human soluble receptor; Q2922; 2013
+Interleukin-6, murine recombinant; Q4198; 2014
+Interleukin-6, PE66; P1913; 1991
+Interleukin-6, recomb. human; P6303; 1997
+Interleukin-6, recomb. rat; P7821; 2006
+Interleukin-6R, human soluble; Q5017; 2015
+Interleukin-7; Q5839; 2016
+Interleukin-7, recomb, mouse; P9932; 2010
+Interleukin-7; Interleukin-4; P4119; 1995
+Interleukin-8; P3730; 1997
+Interleukin-10; P7635; 2005
+Interleukin-10, recomb.; Q1657; 2012
+Interleukin-11; P5148; 2002
+Interleukin-11, recombinant human; Q4341; 2015
+Interleukin-12; P6352; 2004
+Interleukin-12, murine; Q3684; 2013
+Interleukin-12, recomb. human; Q3101; 2013
+Interleukin-12; Interleukin-2; Lysozyme, hen egg white; Ovalbumin; Interferon-gamma; P3731; 1998
+Interleukin-12; recomb.; P6460; 2004
+Interleukin-13; Q1342; 2010
+Interleukin-13 endotoxin; P5439; 2002
+Interleukin-13 Pseudomonas exotoxin; Q5433; 2014
+Interleukin-13, PE38; P6923; 2004
+Interleukin-13-PE38; interleukin-13Ra2, pME18S-; P7434; 2005
+Interleukin-13-Pseudomonas exotoxin, recomb.; Q0801; 2011
+Interleukin-15; P6963; 2005
+Interleukin-15, murine; P9700; 2009
+Interleukin-15, recomb. human; P8943; 2008
+Interleukin-15, recomb. human; interleukin-2, recomb. human; P7460; 2005
+Interleukin-17 Receptor C; Q3063; 2013
+Interleukin-18; Q5250; 2015
+Interleukin-20, recomb. human; P9860; 2009
+Interleukin-25, recombinant mouse; Q4522; 2015
+Interleukin-27, recomb. mouse; P8629; 2007
+Interleukin-31, recombinant mouse; Q5345; 2016
+Interleukin 1 receptor antagonist, metHu; Q1944; 2011
+Intermedin; Q1009; 2010
+Intermedin 17-47; Q1728; 2011
+Intermedin (1-53); Q5723; 2016
+Intermedin (1-53), rat; Q3559; 2014
+Intralipid, 10%; Heparin; P5807; 2002
+Inulin; P4899; 2001
+Inulin, FITC; Q1322; 2010
+Iodide, potassium; P1041; 1987
+IPI-269609; P9285; 2008
+Ipsapirone; P3848; 1997isopro
+Irbesartan; P5110; 1999
+Irindalone; P3294; 1991
+Irinotecan; Q4515; 2015
+Irinotecan (CPT-11); P5136; 2002
+IRKB-FC; Hu-FC; P6151; 2003
+ISO-92; Q1984; 2012
+ISO-092, insulin; Q4780; 2013
+Isoleucine; leucine; Q5687; 2016
+Isopimaric acid; Q4633; 2015
+Isoproterenol; Q5752; 2016
+Isoproterenol bitartrate; Q1122; 2011
+Isoproterenol HCl; P2190; 1993
+Isoproterenol hydrochloride; Q6037; 2016
+Isoproterenol, L-; Q2103; 2012
+Isosorbide-5-mononitrate; bosentan; Q3260; 2013
+Isosorbide dinitrate; alda-1; Q1683; 2011
+Isotretinoin; P5973; 2003
+Isoxazolepropionate, Q1592; 2010
+Isradipine; Q1132; 2011
+ITF-1158; SR-80258A; Heparin; Tumor necrosis factor-a; P2192; 1992
+IU-1; Q2918; 2013
+Ivabradine; P5942; 2003
+Ivermectin; P0931; 1986
+
+
+J
+
+JB-1; Q1867; 2012
+JI-36; P3599; 1996
+JL13; P8907; 2007
+JMF1907; Q3981; 2015
+JMV2959; Q1751; 2011
+JNJ7777120; naproxen; Q3710; 2014
+JNJ63955918, Morphine; Q5812; 2017
+JNJ-31020028; Q2631; 2012
+JNJ-42253432; Q5276; 2016
+JPE-1375; Q4257; 2015
+JSH-23; SC-514; P9952; 2010
+JSM5562; P8750; 2007
+JSM6427; Q1035; 2010
+JTE-013; P9420; 2008
+JTE-607; P8295; 2006
+JTV519; P7389; 2005
+JV-1-36; JV-1-38;; P5018; 2001
+JWH-133; Q0072; 2010
+
+
+K
+
+K01-162; K01-182; Q0414; 2010
+K201; P8107; 2006
+K252a; Q3791; 2015
+K-368,899; Q4437; 2015
+Kainate; CNQX;; P4336; 1997
+Kainic acid; Q2060; 2012
+Kallidinogenase; P8080; 2007
+Kallikrein; P3105; 1994
+Kanamycin; Gentamicin; P4869; 2001
+Kanic acid; cyclothiazide; Q4930; 2015
+KB-R8498; P4486; 2000
+KCI; P3456; 1996
+KD3-671; enalaprilat; P4975; 2001
+Keratanase II; chondroitinase ABC; Q1133; 2011
+Ketamine; Q5280; 2015
+Ketanserin; P2173; 1993
+Ketorolac; P8822; 2007
+Ketorolac tromethamine; P5091; 2002
+Kinesin spindle protein inhibitor; P8456; 2007
+Kininogen, bovine; Hoe 140; Aprotinin; P3268; 1993
+Kiss1-15; Kiss2-12, kisspeptin; kiss pentadecapeptide;; Q2920; 2013
+KISS1-305; TAK-448; leuprolide; Q2349; 2012
+Kisspeptin-10; Q3821; 2014
+Kisspeptin-54; P9709; 2009
+Kit-ligand; P8416; 2007
+KMD-3213; P5882; 2003
+KMUP-3 hydrochloride; Q1211; 2011
+KN-92; KN-93; P5307; 2002
+KN-93; P7485; 2005
+KP-10; P234; Q5971; 2017
+KT5823; Oxadiazolo quinoxalin-1-one, 1H-[1,2,4], [4,3-a]; P6277; 2004
+KU-60019; Q3328; 2013
+KYLPYWPVLSSL; Q2404; 2012
+Kynurenic Acid; Q5139; 2015
+Kynurenine; probenecid; P7803; 2006
+Kyotorphin, D-arg-; Morphine; Thiorphan; P0500; 1984
+KYP-2047; Q3622; 2014
+KYP-2047; Q5681; 2016
+
+
+L
+
+L1-10; P9386; 2008
+L364,718; P2276; 1991
+L655,708; Q1490; 2010
+L682.777; Q4950; 2015
+L-364,718; P3669; 1990
+L-733,060; P7880; 2006
+L-744,832; P9102; 2001
+L-745,870; P8844; 2008
+L-754,142; BQ123; P4788; 2001
+L-158809; P3631; 1996
+L-165041; P9668; 2009
+L-362823; Somatostatin; P0430; 1983
+L-363586; P0674; 1985
+L-365260; P4998; 2001
+L-703606 oxalate; P7817; 2006
+L-798106; Q3717; 2014
+Lacosamide, s-; Q4179; 2014
+Lactalbumin, alpha; HAMLET; radio-isotopes; P6535; 2004
+Lactate; glucose; P8034; 2006
+Lactoferrin, human apo-; P6792; 2004
+Lactogen, human placental; P1487; 1988
+L-Allylglycine, L-Glutamate, Baclofen; Q5633; 2016
+Laminin-1; P6053; 2003
+Laminin polypeptide; P5996; 2003
+Laminin, gamma 1-KDI domain; P6788; 2004
+Lamotrigine; Q2681; 2013
+Lanreotide; P5671; 2003
+Latrunculin; Q1304; 2011
+LB1; Q1219; 2011
+LB-100; Q6014; 2017
+LDN-193594; LCN-213828; Q3375; 2013
+LDN 57444; Q5292; 2015
+L-DOPA; P1648; 1989
+L-DOPA, methyl ester; P6820; 2004
+L-DOPA; benserazide; P7751; 2006
+L-DOPA; Carbidopa; P2582; 1992
+Lentivirus, ER beta; Q5940; 2017
+Lentivirus; gene, green fluorescent protein; P4471; 1999
+Lepirudin; P8342; 2006
+Leptin; P5932; 2003
+Leptin antagonist; P8586; 2007
+Leptin receptor antagonist, non-pegylated; Q4692; 2015
+Leptin, 1-33; leptin, 61-90; leptin, 15-32; leptin, 83-108; Q1717; 2011
+Leptin, Hexamethonium; Q6021; 2017
+Leptin, human; P6546; 2004
+Leptin, mouse; P5160; 2002
+Leptin, Mutein; Q5644; 2013
+Leptin, ovine; P7709; 2005
+Leptin, rat; Q0862; 2011
+Leptin, rat recombinant; Q4745; 2014
+Leptin, recomb. chicken; P7710; 2006
+Leptin, recomb. human; Q0447; 2009
+Leptin, recomb. mouse; P3915; 1997
+Leptin, recomb. ovine; Q0043; 2009
+Leptin, recomb. rat; P7045; 2004
+Lergotrile mesylate; P0117; 1981
+Letrizole; estradiol, 17b-; Q4460; 2015
+Letrozole; Q0830; 2010
+Leucine; P2063; 1992
+Leucine-3H; Q1981; 2012
+Leucine, L-; Q0571; 2009
+Leukemia inhibitory factor; P3644; 1996
+Leupeptin; P3822; 1997
+Leuprolide; P2606; 1993
+Leuprolide acetate; P1784; 1989
+Levetiracetam; P9736; 2009
+Levobupivacaine; Q3713; 2014
+Levodopa; Q0983; 2010
+Levodopa, gamma-glutamyl; Q3199; 2013
+Levorphanol tartrate; Naltrexone HCl; U-50,488H; ICI-154,129; P2440; 1991
+LGD-3303; P9522; 2009
+Lidocaine; Q2708; 2013
+Lidocaine HCl; P9465; 2008
+Ligand, CD40; Q1948; 2010
+Ligand, estrogen specific receptor, beta; Q1639; 2011
+LIN1001l; LIN5001; LIN5002; LIN7002; Q5032; 2015
+Linagliptin; sitagliptin; Q4115; 2015
+Linamarase; linamarin; glucose oxidase; Q1468; 2011
+LINGO-1, antibody; Prolactin; R0263; 2009
+LINGO-1, antiserum; Q1226; 2010
+Linolenic acid, gamma; P6148; 2002
+Linotroban; P3713; 1997
+Lipid, omental angiogenic; Lipid, omental nonangiogenic; P1467; 1989
+Lipocalin 13, recomb.; Q1445; 2011
+Lipoprotein, low density-; lipoprotein, oxidized low density-;; P4637; 1997
+Lipoprotein, oxidized low density-; P3980; 1998
+Liposomes, cationic; Gene, beta-galactosidase; P4436; 1999
+Liposomes, fluorescently labeled; coatasome EL-01-C, hydrated; Q2301; 2012
+Liposomes; FITC-dextran-lysine; P7197; 2005
+Lipoxin A4; lipoxin B4; lipoxin B4, 8,9-acetylenic; P8433; 2007
+Liquiritigenin; estradiol; P9728; 2008
+Liraglutide; Q3666; 2014
+Lisinopril; P7400; 2005
+Lisofylline; Q0473; 2010
+Lisuride; P1320; 1988
+Lithium carbonate; P2895; 1994
+Lithium Chloride; P6711; 2003
+Liver growth factor; Q1871; 2012
+Liver growth factor, rat; P9562; 2009
+Liver growth factor, rat; fibroblast growth factor, rat basic; P7799; 2006
+Lixazinone; Rolipram; hydralazine; P3632; 1996
+Lixisenatide; R0282; 2010
+L-lactate, Sodium; Q6016; 2017
+LMK-135, LY2090314; Q5367; 2016
+L-N6-(1-iminoethyl)-Lysine (L-NIL); Q2984; 2013
+LNA anti-miR-142-3p; Q5830; 2017
+L-NAME; Q3026; 2013
+L-NIL; P8698; 2007
+L-NIO; P5799; 2001
+L-NMA; P5591; 1999
+L-NMMA; P6754; 2004
+L-NNA; P4395; 1996
+Loperamide, Prucalopride; Q5780; 2016
+Lopinavir; ritonavir; Q3264; 2013
+Loratadine; P9050; 2008
+Lorazepam; P2080; 1992
+Losartan; P4058; 1999
+Lovastatin; Pravastatin; Liposomes; Simvastatin; P2086; 1992
+Loxiglumide; P3123; 1994
+LPS; Q3172; 2013
+LR3 IGF-I; Insulin-like growth factor I;; P4757; 2000
+LSB-37; E. ictaluri; Bacteria; P4012; 1993
+LSD; P0254; 1982
+LSD-25; P0055; 1980
+LSD-25 tartrate; P1585; 1989
+LSD bitartrate; P0364; 1983
+LU 135252;; P4805; 2001
+Lu AA21004; Q0970; 2011
+Luciferin; Q5363; 2016
+Luciferin K, D-; luciferin Na, D-; Q4277; 2015
+Luciferin, beetle-D-; P7688; 2005
+Luciferin, D-; Q4389; 2015
+Luteinizing hormone; P1858; 1991
+Luteinizing hormone, ovine;; P4407; 1998
+Luteinizing HRH; P1034; 1986
+Luteinizing HRH-13; P1728; 1990
+Luteinizing HRH agonist; P0035; 1979
+Luteinizing HRH analog; P1231; 1982
+Luteinizing HRH antagonist; P0837; 1986
+Luteinizing HRH, D-Trp6-;; P0006; 1977
+Luteinizing HRH, D-Trple; P8066; 2007
+L-VNIO; P8032; 2007
+LXT-101; P8298; 2006
+LY274614; P6076; 2003
+LY293558; P9521; 2009
+LY294002; Q0762; 2009
+LY326325;; P4305; 1999
+LY341495; Q2692; 2013
+LY341495; ethylglutamate, alpha-25; P7388; 2005
+LY354740 monohydrate; P4386; 1998
+LY379268; Q0961; 2010
+LY2405319; Q5791; 2016
+LY-215840; Heparin; P2336; 1993
+LY-274614; P2697; 1994
+LY-364947; Q0886; 2011
+Lymphotoxin, recomb. human; P3016; 1987
+Lysine; P3307; 1995
+Lysine chloromethyl ketone, N-a-tosyl-L-; P4854; 2001
+Lysine HCl; Glutamine; Arginine; P3196; 1994
+Lysine, L-N6-(1-imino-ethyl)-; P4855; 2000
+Lysine, N6-(iminoethyl)-L-; P8613; 1998
+Lysine; Radio-isotopes; P0315; 1983
+Lysolecithin; Q1570; 2010
+Lysophosphatidic acid; P8018; 2006
+
+
+M
+
+M274773; P7652; 2005
+M-35; P2125; 1993
+mAb TF9-10H10; monoclonal antibody anti tissue factor;; Q5645; 2013
+Macrophage inflammatory protein; P8031; 2006
+Macrophage inhibitory cytokine, recombinant human; Q3673; 2014
+Macrophage/microglial inhibitory factor; P6052; 2003
+Macrophage/Microglial inhibitory factor, biotin; Q1991; 2012
+Mactinin; glutathione 5-transferase; P8211; 2006
+MAFP; Q4757; 2015
+Magnesium chloride; Q3310; 2013
+Magnesium sulfate; Q0444; 2009
+Magnolol; P6119; 2003
+Major urinary protein-1, recomb.; P9607; 2009
+Manganese; Q5566; 2011
+Manganese chloride; Q4400; 2015
+Mangostin, alpha-; Q1340; 2011
+Mannitol; Cerebrospinal fluid, artificial; P0854; 1984
+Maprotiline; Nomifensine; Amitriptyline; Citalopram; P0694; 1985
+MARCKS peptide; Q3736; 2015
+Marimastat; P5454; 2002
+Marinobufagenin; P7519; 2006
+Marinobufotoxin; P8404; 2007
+Mazindol; Q5593; 2016
+MB07344; GC-1; triiodothyroacetic acid, 3,5,3'; triiodothyronine; P9559; 2009
+MC-2; P5542; 2002
+MCC-257; Q4418; 2015
+McN-A-343; Q4010; 2014
+McN-A-343; MTT; Q3520; 2014
+MCP-1, recomb. mouse; Q0100; 2010
+MCP-1, recomb. rat; P9857; 2009
+MCPG; AIDA; LY341495; Q1011; 2011
+MCPP; P3009; 1993
+mdivi-1; Q5701; 2017
+MDL-28170; Q1370; 2010
+MDL 28842; P2493; 1993
+MDL 72175; P0533; 1984
+MDL 73811; P2171; 1992
+MDL 100240; R0185; 2003
+MDL 100453; P2568; 1994
+Mecamylamine; R0276; 2008
+Mechano growth factor 24; JB1; Q0384; 2009
+Meclofenamate, sodium; P1305; 1988
+meclofenamic acid; Q5942; 2017
+MEDAM; Methotrexate; P2622; 1993
+Medetomidine; Q2615; 2013
+Medium, astrocyte conditioned-; P3217; 1993
+Megakaryocyte growth development factor, colongy-stimulating factor, GM, recomb. mouse; P9500; 1996
+Meglumine iothalamate; Uridine, bromodeoxy-; P5165; 2002
+Melagatran; P6645; 2004
+Melanin-concentrating hormone; P0985; 1986
+Melanin-concentrating hormone 1 receptor antagonist; P7245; 2005
+Melanocortin-stimulating hormone,a;; P4306; 1999
+Melanocyte stimulating hormone, alpha; P5506; 2002
+Melanocyte-stimulating hormone analogue, a-; P5708; 2003
+Melanocyte-stimulating hormone, a-; P6245; 2002
+Melanocyte-stimulating hormone, b-; Melanocyte-stimulating hormone, a-; P0519; 1984
+Melanocyte-stimulating hormone, NDP-g; P8544; 2007
+Melanotan II; P6874; 2004
+Melanotransferrin, soluble, truncated recomb. human; P8226; 2007
+Melatonin; Q5391; 2013
+Meloxicam; P6811; 2004
+Meloxicam sodium; P7528; 2005
+Memantine; Q2903; 2013
+Memantine HCl; P4234; 1998
+Mercaptopropionic acid, 3-; Q1804; 2012
+Mercaptopurine, 6-; Q4805; 2015
+Mesencephalic astrocyte-derived nerotrophic factor; Q2116; 2012
+Mesulergine; P3794; 1997
+Metacept 1; P9572; 2009		 	 	 		
+			
+				
+					
+Methionine 
+				
+			
+		
+
+Metallothionein-I/II; Q4589; 2015
+Metaprolol; hydralazine; Q0389; 2009
+Metastin, human; P8594; 2001
+Metavanadate; P2774; 1993
+Metergoline; Ritanserin; P3916; 1997
+Metformin; P3879; 1997
+Methadol, N-desmethyl-1-acetyl; Methadone; Radio-isotopes; P1301; 1988
+Methadone; P2198; 1991
+Methadone HCl; P2031; 1992
+Methadone, hydrochloride; P6729; 2004
+Methamphetamine; Q3814; 2014
+methamphetamine (MAP); Q5002; 2013
+Methamphetamine hydrochloride; Q1707; 2011
+Methanocarba monophosphate derivatives; carbocyclic nucleotide analogues, uncharged; Q2488; 2013
+Methanocarba phosphonate analogues; Q1185; 2010
+Methazolamide; P1552; 1989
+Methimazole; P1699; 1990
+Methionine; P3061; 1986
+Methionine sulfoximine; Q5730; 2017
+Methionine, D-; thiosulfate, sodium petahydrate; brain-derived neurotrophic factor; P7209; 2004
+Methionine, L-; P6333; 2000
+Methionine; Radio-isotopes; P0441; 1984
+Methotrexate; P6105; 2003
+Methoxyacetic acid, 2-;; P3441; 1996
+Methoxyestradiol, 2-; P9812; 2008
+Methoxyethanol, 2-; P2057; 1992
+Methoxypsoralen, 8-; Radio-isotopes; Sorbinil; P1112; 1987
+Methylatropine; Oxotremorine; P0683; 1985
+Methylcarboxamide, Cl-IB-; Q0116; 2010
+Methylcobalamin; Q0070; 2010
+Methyldeoxyspergualin; P3365; 1993
+Methyldopa; P0336; 1983
+Methylene blue; Q0794; 2010
+Methylesculetin, 4-; Q4982; 2015
+Methylglyoxal; Q0998; 2011
+Methylisothiourea, S-; adenovirus vector; gene, mouse iNOS cDNA sequence; P4781; 2001
+Methylphenidate; Q1642; 2010
+Methylphenidate (Ritalin); Q5042; 2013
+Methylphenidate HCl; Q3890; 2014
+Methylphenidate hydrochloride; Q3483; 2013
+Methylprednisolone; P8668; 2007
+Methylprednisolone sodium succinate; P7897; 2006
+Methysergide; P2985; 1993
+Metoclopramide; P0124; 1981
+Metolazone; P7252; 2005
+Metoprolol; P0159; 1981
+Metroleptin; Q5640; 2016
+Metyrapone; Q0228; 2010
+Mevalonate; Q1856; 2012
+Mevastatin; P7050; 2004
+Mevinolin; P0708; 1985
+Mexiletine HCl; riluzole; P5482; 2002
+MG-132; P6056; 2003
+mGlu5 NAM CTEP; Q5819; 2017
+MI-1; MI-2; P4025; 1995
+Mianserin; P1756; 1989
+Mibefradil; P9175; 2008
+MIC-1/GDF15; Q2668; 2013
+Miconazole; octadecynoic acid, 17-; P9206; 2008
+Microcystin-LR; Q5114; 2016
+Midazolam; P9306; 2008
+Midkine; P9535; 2009
+Midkine, recomb. human; P9450; 2009
+Mifepristone; Q0737; 2011
+Miglustat; P8343; 2007
+Milacemide; P3643; 1997
+Milk fat globule-EGF factor 8, recombinant human; Q4372; 2015
+Millipore; Brain-derived neurotrophic factor, human recombinant; K252a; Q6044; 2016
+Milnacipran; P9846; 2009
+Minocycline; P8720; 2007
+Minocycline HCl; Sodium fluorocitrate; Q3988; 2014
+Minoxidil HCl; Captopril; Enalaprilat; P1899; 1991
+miR17-5p; Q4334; 2015
+miR-16 mimic; Q5248; 2015
+miR-21 inhibitor; miR-24 inhibitor; scramble RNA, miR-21 inhibitor negative control; scramble RNA, miR-24 inhibitor negative control; Q5410; 2016
+miR-33 ASO; Q4465; 2015
+miR-103; miR-26b-FAM; Q4152; 2014
+miR-126; Q4457; 2015
+miR-132 mimics; Q5272; 2015
+miR-181b mimics, miR-181b inhibitor; Q5782; 2016
+miR-200a phosphorotiate, anti-; Q3293; 2014
+miR-204 inhibitor; miR scrambled nucleotide; Q5328; 2017
+miR-210 antagomir; Q4469; 2015
+miR-378; Q5509; 2016
+Mirtazapine; P3445; 1997
+Misoprostol; Q5604; 2016
+Mitomycin C; P1993; 1991
+Mitoquinone; P9330; 2008
+MitoTEMPO; Q3076; 2013
+MITU; P3442; 1996
+MK-329; P4033; 1995
+MK-421; P0210; 1982
+MK-571; P8050; 2006
+MK-0677; P6289; 1998
+MK-0731; Q1020; 2010
+MK-771; Thyroxine; P0638; 1985
+MK-801; Q4029; 2014
+MK-886; P8444; 2007
+MKT-077; P4032; 1998
+ML-7; P9137; 2008
+MLA; P7098; 2004
+MLN-4760; P9973; 2010
+MM218 Inhibitor; Q5882; 2017
+MMI270; P9117; 2008
+MMP-3i; P9577; 2009
+MMP-13 inhibitor; Q3387; 2014
+MnL4; Q3116; 2013
+MnTE-2-PyP5+; Q1602; 2010
+Molinate; P6570; 2004
+Monochloroacetic acid; monochloroacetic acid; P7572; 2005
+Monocyte chemoattractant protein-1; P6961; 2005
+Monocyte chemotactic protein-1; R0188; 2002
+Monoitrate, isosorbide-5-; glyceryl trinitrate; P5534; 2001
+Montelukast; Q0758; 2011
+Montelukast sodium; dexamethasone; P7771; 2006
+Morphiceptin; PL 017; Morphine; P1626; 1990
+Morphine; P7686; 2005
+Morphine-6 beta-glucuronide; MK-801; Q0272; 2009
+Morphine acetate; P2718; 1994
+Morphine base; P2673; 1994
+Morphine chloride; nalbuphine HCl; P8971; 2006
+Morphine HCl; P2692; 1994
+Morphine sulfate; P1602; 1990
+Morphine tartrate; Codeine phosphate; P4917; 2001
+Morpholinos; Q3601; 2013
+Morphone; naloxone; Q3440; 2013
+Mouse leptin antagonist, pegylated; Q1522; 2011
+Moxonidine; P7027; 2004
+Moxonidine free base; P3982; 1996
+MPEP; Q2736; 2012
+MPP+; P1421; 1988
+MPTP HCl; P2786; 1995
+MR1-1; Gadolinium-DTPA; Q0113; 2010
+MR-2266; MR-2267; P2066; 1991
+MRS2339; Q1426; 2010
+MRS2395; Q5212; 2016
+MRS2500; Q3334; 2013
+MRS2578; MRS2211; SB203580; U0126; Q2983; 2012
+MRS-2339; P8318; 2007
+MRS 1523; P6739; 2004
+MRS 2179; Q2549; 2013
+MRZ 2/570; P6276; 1998
+MRZ 2/579; P4710; 2000
+MS275; MGCD0103; Q4921; 2013
+MS-153; P6292; 1996
+MS-275; Q1019; 2011
+MS-2758; Q4383; 2015
+MSH, alpha; Q1433; 2011
+MS-PPOH; P7845; 2006
+MSX-3; ANR; Q4962; 2015
+MTEP; P9231; 2008
+MT-II; P7501; 2005
+Mullerian inhibiting substance; P2024; 1992
+Muramyl dipeptide; P0040; 1979
+Muscimol; P9557; 2009
+Musclin; Q5278; 2015
+Muzolimine; P0657; 1985
+MWReg30; Q4724; 2014
+Mycophenolate sodium; P6167; 2002
+Myelin oligodendrocyte glycoprotein (35-55); Q4303; 2015
+MZ-4-71; P4215; 1995
+MZ-4-71; R0162; 1999
+
+
+N
+
+N5-2OH; P9389; 2008
+NA-398; SC-560; indomethacin; Q4542; 2015
+N-acetyl-cysteine ; acetyl-l-carnitine hydrochloride; Q3529; 2014
+NaCl, rich, aCSF; antibody Fab fragments; Q2202; 2011
+Nadolol; isoproterenol; P6593; 2003
+Nadroparin; sr-80258a; P8051; 2005
+Nafamostat mesilate; P9795; 2008
+Nafarelin acetate; P0752; 1985
+NaHCO3; Glucose; HEPES; DMEM; Serum, fetal calf; Gentamicin; P3604; 1993
+Nal-Glu; P6691; 2003
+Nalmefene; P4221; 1997
+Naloxone; P1405; 1993
+Naloxone HCl; P0349; 1983
+Naloxone methiodide; naloxone; Q3949; 2015
+Naltrexone; P2036; 1992
+Naltrexone HCl; P1665; 1990
+Naltrexone, methyl; Q0697; 2011
+Naltrindole; SNC-80; P6906; 2005
+Nandrolone decanoate; P4162; 1995
+Nandrolone; testosterone; Q1459; 2011
+Nanocurcumin; Q4356; 2015
+Nanoparticles, Cytochrome C-based; Q5420; 2016
+Nanoparticles; RNAi; R0348; 2015
+Nanosuspension formulations, Lutrol F108 with 7.5% HPMC; Q2874; 2013
+Naphthalenemonosulfonate, 1-; P4900; 2001
+Naproxen; Q4700; 2014
+Naproxen, sodium; P1504; 1988
+Natriuretic peptide, B-type; Q1631; 2012
+Natriuretic peptide, C-type; P6747; 2004
+NBI30775; Q1568; 2010
+NBI-27914; Q0850; 2011
+NBI-31772; P8486; 2007
+NBI 30775; P7484; 2005
+NBQX; MK-801; P3471; 1996
+NE-100; P7097; 2004
+Nebivolol; Q0067; 2010
+Necrostatin-1; Q0821; 2011
+Neogenin; Q4132; 2014
+Neomycin; P5489; 2002
+NEP (1-40); P9966; 2010
+Nepicastat; Q4826; 2016
+Neramexane mesylate; memantine; gabapentin; Q0464; 2009
+Nerve growth actor, human painless; Q5761; 2017
+Nerve growth factor; Q0129; 2010
+Nerve growth factor, beta; Q2571; 2013
+Nerve growth factor, beta, murine; P6679; 2003
+Nerve growth factor, beta, recomb.; GM6001; Q0682; 2011
+Nerve growth factor, human recombinant; Q4739; 2014
+Nerve growth factor, mouse; P4134; 1998
+Nerve growth factor, precursor;; Q2953; 2013
+Nerve growth factor, recomb. human; Q0468; 2009
+Nerve growth factor, recomb. rat; P7365; 2005
+Nesfatin-1; Q1489; 2011
+Nestorone; Q3873; 2015
+Netrin-1; Q6039; 2016
+Netrin-1, recomb. mouse; P9552; 2009
+Netrin-4; Q6048; 2016
+Netrin, recomb. mouse; P9550; 2009
+Nettle powder; Q5040; 2014
+Neural endopeptidase; SR140333; BSA;; P4667; 1999
+Neuregulin-1, beta; Q5588; 2016
+Neuregulin-1, beta; Q1531; 2011
+Neuregulin-1, human recombinant; Q5891; 2017
+Neuregulin 1, GST-; Neuregulin 2, GST-; GST; P7547; 2006
+Neuritin; Q3804; 2014
+Neurokinin 1 receptor antagonist; P6829; 2004
+Neurokinin B; P8674; 2007
+Neuromedin U; P9898; 2009
+Neuromedin U-23, rat; leptin, human; P8807; 2007
+Neuromedin U, human; P9624; 2009
+Neuron survival factor, cortically derived; P2248; 1992
+Neuropeptide W; P6156; 2003
+Neuropeptide Y; P1983; 1992
+Neuropeptide Y (3-36); Q1605; 2010
+Neuropeptide Y Y5 agonist; Q2311; 2012
+Neuropeptide Y, c-terminal fragments amidated; Neuropeptide Y, c-terminal fragments non-amidated; P9660; 2009
+Neuropeptide Y, D-Trp34; P7706; 2003
+Neuropeptide Y, porcine; P2158; 1993
+Neuropeptide Y, synthetic porcine; P2731; 1993
+Neuropeptide Y, synthetic rat; BIBP3226; P7215; 2005
+Neuropeptide-EI; Q1246; 2011
+Neuroprotectin D1; R0240; 2007
+Neurosecretory protein GL; Q4144; 2014
+Neuroserpin; GM6001; P8053; 2006
+Neurotensin; P7131; 2005
+Neurotensin, (D-Trp11)-; P2713; 1994
+Neurotrophic factors; R0345; 2015
+Neurotrophin-3; P9409; 2008
+Neurotrophin-3, human recombinant; Q5210; 2016
+Neurotrophin-3, recomb. human; P8606; 2005
+Neurotrophin-4/5; P7844; 2006
+Ng219; P9939; 2010
+NGMMA; P6718; 1999
+NgR1(310)-Fc, human; Q4164; 2014
+NgR (310) Ecto-Fc; immunoglobulin G, rat; P6821; 2004
+NHE-3I4167; P9436; 2008
+NIBR2130; Q2238; 2011
+Nicardipine; Q0062; 2010
+Nicardipine HCl; P4055; 1998
+Nickel chloride; P0805; 1986
+Nicontine free-base; Q5960; 2013
+Nicorandfil; glibenclamide; Q2147; 2012
+Nicorandil; P6419; 2004
+Nicotinamide; Q3805; 2013
+Nicotine; P6094; 2003
+Nicotine base; P8415; 2007
+Nicotine bitartrate; P7238; 2005
+Nicotine dihydrochloride; P2621; 1994
+Nicotine ditaetrate, pyrilamine; Q5551; 2016
+Nicotine ditartrate; Q0467; 2009
+Nicotine ditartrate salt; P6335; 2002
+Nicotine free base; P2739; 1995
+Nicotine HCl; P0134; 1979
+Nicotine hydrochloride tartrate; Q1740; 2011
+Nicotine hydrogen bitartrate; Q5379; 2014
+Nicotine Hydrogen Tartate; Q5545; 2016
+Nicotine hydrogen tartrate salt; P7286; 2005
+Nicotine hydrogen tartrate, L-; P8373; 2007
+Nicotine salicylate; P0545; 1984
+Nicotine Salt; Q5565; 2012
+Nicotine sulfate; P2738; 1993
+Nicotine tartrate; P5779; 2003
+Nicotine, (-) hydrogen tartrate salt; Q3187; 2013
+Nicotine, di-bitartrate; P2432; 1991
+Nicotine, L-; P3944; 1998
+Nicotine, R-(+)-; Nicotine, S-(-)-; P1494; 1988
+Nicotine, S-(-); Q1595; 2010
+Nicotinic acid; P7778; 2006
+Nifedipine; P0300; 1982
+Nilvadipine; P3418; 1996
+Nimesulide; P9189; 2008
+Nimodipine; P9673; 2009
+Nimodipipne; Artesunate; Q2944; 2013
+Nisoxetine; GBR12783; P8371; 2007
+Nitric oxide solution, saturated; P3438; 1996
+Nitroarginine, L-; P5443; 2002
+Nitroglycerin; P5749; 2003
+Nitroindazole, 7-; P7078; 2004
+Nitro-octadec-9-enoic acid, 10-; angiotensin II; Q4878; 2016
+Nitro-oleic acid; Q4795; 2015
+Nitropropionic acid-3; P9752; 2009
+Nitroprusside, sodium; P6317; 1996
+Nitrosodiethylamine, N-;; P4290; 1999
+NK4, recomb. human; P9103; 2000
+NK4; Hepatocyte factor/scatter factor; P6050; 2003
+NKH477; vidarabine; Q2385; 2012
+NMDA; Glycine; Magnesium sulfate; APV; P3663; 1990
+NMDAR-CSF; Q5224; 2015
+NMMA; Tumor necrosis factor-alpha, recomb; Q5405; 1995
+NN414; Q3051; 2013
+NNC-756; P2489; 1993
+N-nitroso(2-hydroxypropyl)(2-oxopropyl)amine; P2037; 1991
+NNK; P9813; 2009
+Nociceptin/orphanin FQ; P8054; 2006
+Nocistatin; Q1729; 2011
+Noggin; Q4863; 2016
+Noggin, human, recomb.; Q1043; 2011
+Nogo-66 receptor (27-310) ecto-Fc; immunoglobulin G, rat; P7265; 2005
+Nogo-66 receptor (310) ecto-Fc, rat; immunoglobulin G, rat; P8397; 2006
+Nogo Receptor (310) ecto-Fc; Q5319; 2016
+Nogo receptor, soluble fragment; P9513; 2009
+Non-natural amino acids; Nε-((prop-2-yn-1-yloxy)carbonyl)-L-lysine; Q5806; 2016
+Nonylphenal, p-; P6316; 1996
+Noradrenaline; P9169; 2008
+Nor-binaltorphimine; senktide; Q3252; 2013
+Norepinephrine; P0103; 1981
+Norepinephrine bitartrate; P3824; 1997
+Norepinephrine HCl; P2103; 1992
+Norleucine1-AngIV; Angiotensin II(4-8); Divalinal; P4339; 1999
+Normetanephrine; Epinephrine; Norepinephrine; Radio-isotopes; P0376; 1983
+Nortestosterone, 7 a-methyl-19-; P5319; 2002
+Nortriptyline; Amitriptyline; Clomipramine; Alaproclate; Clonazepam; P2654; 1994
+NOX; P4288; 1999
+NPFF; P2923; 1993
+NPQX; AP5, D-;; P4708; 2000
+NPS R-467; NPS S-467; P6486; 2004
+NRP2945; Q6030; 2017
+NSC23766; P9679; 2008
+NSC668036; Q4160; 2015
+NSC-87877; Q3022; 2013
+NSC-303812; P2536; 1994
+NT-3; R0194; 2002
+NT-4/5; P4259; 1998
+NTU281, dansyl labeled; Q0827; 2009
+NUCB2; P7966; 2006
+Nuclear factor of activated T cells, inhibitor; Q3301; 2014
+Nucleoside, synthetic, FIAU; P8240; 1989
+Nucleotidase, 5’-; Q5429; 2014
+Nutlin-3; Q2219; 2011
+NXY-059; P6150; 2003
+NZ-1-(scdsFv)-PE38KDEL; Q5938; 2017
+NZ-1; immunoglobulin G, rat; Q2323; 2012
+
+
+O
+
+OAM 71262; LA-heparin; PM 29989; P2968; 1995
+Obestatin; Q2232; 2011
+Obestatin (1-23); obestatin (1-23), pegylated;; Q1735; 2011
+Obidoxime; PAM; HI-6; P1065; 1987
+Oblimersen; P7965; 2006
+Ochratoxin-A; P8274; 2006
+Octadecaneuropeptide; P4898; 2001
+Octreotide; P5379; 2002
+ODT8-SST; Q1719; 2011
+Oestradiol, 17b-; Q2375; 2012
+Oestradiol, tritium labeled; P9962; 2010
+Oestrone, oleoyl; Liposomes; P3745; 1997
+OGT2115; Q6009; 2017
+Okadaic acid; Q0578; 2008
+OKY-046; P1431; 1989
+Olanzapine; P9396; 2008
+Oleic acid anilide; P2302; 1992
+Oleic acid, nitro; oleic acid; Q00073; 2010
+Oleic acid; nitro-octadec-9-enoic acid, 9-; nitro-octadec-9-enoic acid, 10-; Q3303; 2014
+Oleic acid; oleic acid, nitro-; Q0028; 2010
+Oleic acid; rosiglitazone; oleic acid, nitro-; Q0186; 2010
+Oleylanilide; P2916; 1993
+Oligodeoxynucleotide; Q0338; 2010
+Oligodeoxynucleotide, antisense; P5117; 2002
+Oligodeoxynucleotide, naked; Q0901; 2011
+Oligodeoxynucleotide, phosphoro and hioate antisense; oligodeoxynucleotide, missense; P7211; 2005
+Oligodeoxynucleotide, phosphorothioate; P3809; 1997
+Oligodeoxynucleotide, phosphorothioate antisense; P3989; 1998
+Oligodeoxynucleotide, phosphorothioate; Melanin-concentrating hormone; P3682; 1997
+Oligodeoxynucleotide, phosphorothisate antisense; oligodeoxynucleotide, phosphorothisate sense; oligodeoxynucleotide, phosphorothisate scramble; P7081; 2004
+Oligodeoxynucleotide, phosphorothisate antisense; oligonucleotide, universal control; P7073; 2004
+Oligodeoxynucleotide, S-; P2202; 1993
+Oligomer, Aβ; Q5415; 2016
+Oligomycin; Q3657; 2014
+oligonucleotdies, antisense morpholino; Q4800; 2015
+Oligonucleotide, alpha CD 19; Q2462; 2013
+Oligonucleotide, antisense (333611); Q5598; 2013
+Oligonucleotide, antisense (Nox4); Q5642; 2013
+Oligonucleotide, antisense (Tau-specific); Q5785; 2017
+Oligonucleotide, phosphorothioate sense; oligonucleotide, phosphorothioate antisense; P8665; 2007
+Oligonucleotides, antisense; Q5197; 2016
+Oligosacharide, hyaluronan, high molecular weight; Q1382; 2011
+Olmesartan; Q0958; 2010
+Olpadronate; P9094; 2005
+Olprinone; Q0335; 2009
+Omapatrilat; Q4505; 2015
+Oncostatin; Q5798; 2017
+Oncostatin M; Q1747; 2011
+Ondansetron; P9484; 2009
+ONO-1714; P6069; 2003
+ONO-4819; P6943; 2004
+ONO-AE3-208; angiotensin II; Q4162; 2014
+OP3-4; P6545; 2004
+OP-1, recomb. human; P8020; 2006
+OPC-14523; NE-100; P6818; 2004
+OPC-31260; P6098; 2003
+Orexin A; Q1099; 2011
+Orexin-b; P9791; 2009
+ORG-2766; P2711; 1994
+Ornithine decarboxylase-inducing factor; Interleukin-1, alpha; tumor necrosis factor-µ; Interleukin-6; P5803; 2003
+Ornithine, difluoromethyl-; P5306; 2002
+Orosomucoid, human; Q0169; 2010
+Oseltamivir; Q5845; 2017
+Osmotin; Q1486; 2011
+Ostabolin-C; R0250; 2006
+Osteoblast activating peptide; Q0730; 2010
+Osteocalcin; P8792; 2008
+Osteocalcin, bovine; Q3898; 2014
+Osteocalcin, recomb.; Q0630; 2009
+Osteocalcin; Leptin; Q3015; 2013
+Osteogenic protein-1; P8929; 2008
+Osteopontin, rat dinitrophenol; P6879; 2004
+Otx2, protein; antibody, inhibitory otx2; RNA, small interfering, penetratin coupled; P9150; 2008
+Ouabain; P9878; 2009
+Ouabain octahydrate; P3261; 1994
+Outer surface protein C, recomb; Q2231; 2011
+OVA (327-339); Q1922; 2011
+Ovalbumin; P6357; 2004
+Oxacalcitriol, 22-; Vitamin D3, 1,25-dihydroxy-; P2664; 1993
+Oxalate, 14C-; R0264; 2008
+Oxalic Acid; P2226; 1992
+Oxi4503; P9204; 2008
+Oxidized ATP; Q6033; 2017
+OXM6421; oxyntomodulin; Q1430; 2010
+Oxonic acid; P5486; 2002
+Oxotremorine; Physostigmine sulfate; P0663; 1985
+Oxybutynin; P9737; 2009
+Oxymorphine; Q5165; 2016
+Oxymorphone; P9615; 2009
+Oxymorphone HCl; P4892; 2001
+Oxyntomodulin; OXMQ3E; Q2004; 2012
+Oxytocin; P0653; 1984
+Oxytocin antagonist; P9375; 2009
+Oxytocin receptor antagonist; P4201; 1996
+Oxytocin, [Pen1,Phe(me)2,Thyr4,Orn8]-; P2669; 1993
+Oxytocin, desamino-; Oxytocin; Prostaglandin F2a; P1358; 1988
+Oxytocin, synthetic; antagonist, peptidergic oxytocin; Q3426; 2014
+Oxytocin; carbetocin; TGOT; Q3802; 2014
+Oxytocin; oxytocin receptor antagonist; Q1537; 2011
+Ozagrel natrium; SQ29548; P8880; 2008
+
+
+P
+
+P4; P8; Q4403; 2015
+P7C3; analogue, P7C3; fibroblast growth factor-2; Q0891; 2011
+P7C3-S243; Q3578; 2014
+p21-Cip1/WAF-1, TAT fusion protein, cytoplasmic-; Y-27632; HA-1077; P6768; 2004
+P78-PEDF; Q5600; 2016
+P110-TAT; Q3188; 2013
+P188; Q1821; 2012
+P234; Q0870; 2011
+p300 inhibitor; Q3239; 2013
+PACAP38; P9283; 2008
+Paclitaxel; Q5313; 2016
+PAI2; Cells, MATB rat mammary cancer; P3295; 1995
+Paired immunoglobulin-like receptor B, soluble; Q3815; 2014
+Palbociclib; Q5246; 2015
+Palmitate; Q2408; 2012
+Palmitic acid; Q3261; 2013
+Palmitoylethanolamide; Q3745; 2014
+Pam3CSK4; polyinosinic/polycytidylic acid; Q0688; 2011
+PAM-2; HI-6; P1119; 1987
+Panax ginseng extract; Leucine, l-; P3076; 1991
+PAP-1; Q3841; 2014
+Papaverine; P6543; 2004
+Papaverine HCl; P7579; 2005
+PAR2-AP; Q3086; 2013
+Paraquat; pyridaben; maneb; Q2138; 2012
+Parasitic secretions, T. spiralis; P2299; 1994
+Parathormone (1-84), rat; calcitonin, rat; Q4016; 2014
+Parathyroid hormone; Q5943; 2017
+Parathyroid hormone 1-34; P3677; 1995
+Parathyroid hormone (1-31); P5288; 1999
+Parathyroid hormone (1-34); Q4313; 2015
+Parathyroid Hormone (1-38); P5054; 2002
+Parathyroid hormone (1-84); Q4069; 2014
+Parathyroid hormone antagonist; P2300; 1994
+Parathyroid hormone extract, bovine; Parathyroid hormone-related peptide; P1701; 1990
+Parathyroid hormone related protein (1-34), rat; Q2287; 2012
+Parathyroid hormone, bovine; P2268; 1993
+Parathyroid hormone, bovine 1-34; P0291; 1982
+Parathyroid hormone, bovine 1-84; P0562; 1984
+Parathyroid hormone, bovine; calcitonin; Q5639; 1990
+Parathyroid hormone, human 1-34; P3802; 1997
+Parathyroid hormone, human 1-38; P7274; 2005
+Parathyroid hormone, human 1-84; P7477; 2005
+Parathyroid hormone, rat 1-34; P2595; 1994
+Parathyroid hormone, recomb. human; P6909; 2004
+Parathyroid hormone-like hormone 7-34; P7527; 2005
+Parathyroid hormone-like protein; P2462; 1993
+Parathyroid hormone-related peptide (1-34); Q0709; 2011
+Parathyroid hormone-related peptide; Interleukin-1, alpha; P2542; 1992
+Parecoxib; P9044; 2008
+Pargyline; Q1279; 2011
+Paroxetine; Q2570; 2013
+Paroxetine hydrochloride; P7376; 2005
+Paroxetine hydrochloride; P5724; 2003
+Particle, submicron-sized; R0257; 2008
+Pasireotide acetate; Q1633; 2012
+PBA; P4200; 1997
+PBN; P9699; 2009
+PBN (alpha-phenyl-tert-butyl nitrone); P2207; 1992
+pCPA; Q0415; 2010
+PD123,319; Q3777; 2015
+PD168,077; L745,870; morphine; Q1464; 2011
+PD98059; Q4099; 2014
+PD123319; P9070; 2006
+PD153035; ZD1839; Q2985; 2013
+PD168393; Q0784; 2011
+PD-98059; Q0395; 2010
+PD 123319; Q0553; 2009
+PDC; P8081; 2006
+PDC; P8252; 2007
+PDC; P3985; 1997
+PDC; TBOA; P9810; 2009
+PDD, 4 alpha; Q1319; 2011
+PDD, 4 alpha; ruthenium red; Q00378; 2009
+PDP, hydroxy; Q0619; 2009
+PDTC; PD123319; P6912; 2004
+Pemetrexed; Q2575; 2013
+Penicillamine, D-; Q3008; 2013
+Penicillamine, D-; Q3591; 2014
+Penicillamine, S-nitroso N-acetyl-; Glutathione, S-nitroso N-acetyl;; P3851; 2000
+Pentaerithrityl tetranitrate; nitroglycerin; Q0382; 2009
+Pentaerithrityl tetranitrate; nitroglycerin; Q00382; 2009
+Pentazocine, d-; P1911; 1991
+Pentobarbital; P3422; 1996
+Pentoxifylline; P6526; 2004
+Pep5-cpp; N-pep5-cpp; Q3404; 2014
+PEP-1-C3; Q5385; 2012
+Peplomycin; Bleomycin; P0383; 1983
+Pepstatin, N-acetyl-; P0162; 1981
+Peptide5, mimetic; Q3259; 2013
+Peptide-3, RF amide-related; GJ14; Q5217; 2015
+Peptide 234; Q5869; 2017
+Peptide  1a; peptide YY (3-36), peptide 2a, peptide 5a; Q4478; 2015
+Peptide (18-36); scrambled peptide; Q0757; 2011
+Peptide A1; peptide A1, mutant; P7748; 2006
+Peptide C(92-96); Antibody, anti-NGF monoclonal; P4304; 1999
+Peptide nucleic acid, antisense; peptide nucleic acid, missense; P6601; 2003
+Peptide T; P2074; 1991
+Peptide YY; P7429; 2002
+Peptide YY (3-36); P7687; 2006
+Peptide YY (3-36), rat; peptide YY (1-36), human; peptide YY (1-36), rat; P7952; 2006
+Peptide YY (3-36); peptide YY (3-36), isoform 2; peptide YY (3-36), isoform 3; Q1576; 2010
+Peptide, 5A apoA-I mimetic; Q1434; 2011
+Peptide, Ac-SDKP; P6523; 2004
+Peptide, Apo E; P7741; 2006
+Peptide, C5a receptor antagonist; P7375; 2005
+Peptide, c29; Q4859; 2016
+Peptide, cecropin-melittin; pleurocidin; Q0247; 2000
+Peptide, CRGD; peptide, CRAD; P7497; 2006
+Peptide, C-Type Natriuretic; Q5721; 2017
+Peptide, D-JNK inhibitor 1; P7898; 2006
+Peptide, endostatin mP1; Q3697; 2014
+Peptide, Gp91ds-tat; Q3327; 2007
+Peptide, handle region, mouse; angiotensin II; Q0532; 2009
+Peptide, L-4F; Q0006; 2010
+Peptide, Lewis X mimicking; peptide, Lewis X scrambled; Q1157; 2010
+Peptide, loop 6; Q0871; 2010
+Peptide, MARKS; Q2626; 2013
+Peptide, Nox2ds-tat; polyethylene glycol-conjugated catalase; Q3458; 2014
+Peptide, OP3-4; Q3829; 2015
+Peptide, ova; Q2885; 2012
+Peptide, PAK18; peptide, PAK18-R192A; P7640; 2006
+Peptide, penta-, synthetic; P3727; 1984
+Peptide, PM1; Q5704; 2017
+Peptide, prorenin handle region; P6742; 2004
+Peptide, RFamide QREFP43; P7824; 2006
+Peptide, SPR4; Q4219; 2014
+Peptide, synthetic, E-, SCR-; Q3241; 2013
+Peptide, Szeto-Schiller 20; peptide, Szeto-Schiller 21; Q3451; 2013
+Peptide, TAT; peptide, alpha V5-3; pyrrolidine dithiocarbamate; antibody, anti-CXCR4; Q1165; 2011
+Peptide, TAT-dV1-1; peptide, TAT; P8785; 2008
+Peptide, Vasoactive intestinal; Q5682; 2017
+Peptide, WP9QY; antibody, monoclonal, anti-TNF alpha; P8525; 2007
+Peptide, zeta-inhibitory; chelerythrine; Q3342; 2014
+Peptide; islet amyloid poly-; Q1841; 2012
+Peptides, Arg-Gly-Asp-containing; P4129; 1998
+Peptides, class II MHC-binding-; P2060; 1990
+Peptides, NGF mimics; antibody, anti-NGF monoclonal, NGF30; immunoglobulin G; P7449; 2005
+Peptides, synthetic; P4995; 2001
+Perilymph, artificial; P5579; 2002
+Perindopril;; P4534; 2000
+Peroxisome proliferator-activated receptor, gamma; RNA, small interfering; P9654; 2009
+Peroxovanadium; phenylarsine oxide; P6149; 2002
+PEX, recomb. human; PF-4/CTF; P4-4/DLR; vascular endothelial growth inhibitor, cyclo-; P6774; 2004
+PF4-DLR; RNA, small interfering; Q00341; 2010
+PF4800567; Q4738; 2014
+PF06463922; PF06471402; Q4195; 2015
+PF-543; Q3640; 2014
+PF-592,379; NPA; L-741,626; PG01037; Q5895; 2017
+PF-573228; Q5722; 2017
+PF-956980; P8843; 2008
+PF-3084014; Q1191; 2010
+PF-3758309; P9917; 2010
+PF-03814735; Q1143; 2010
+PF-04217903; Q1796; 2012
+PG-932; [D-Trp8]-gamma-MSH; P8797; 2008
+PG-873637; Q0664; 2010
+PG-873637; Q0921; 2011
+Phaseic acid; Q6045; 2016
+Phenamil; Q1446; 2011
+Phencyclidine; P2225; 1992
+Phencyclidine HCl; P5180; 2001
+Phencyclidine hydrochloride; Q2590; 2012
+Phenelzine sulfate; Acetylphenelzine, N2-; P2832; 1994
+Phenobarbital; P0494; 1984
+Phenobarbital, sodium; P0036; 1979
+Phenobarbital, sodium; Valproate, sodium; P0401; 1983
+Phentermine; dexfenfluramine;; P4569; 1999
+Phentolamine HCl; P0865; 1986
+Phentolamine; Norepinephrine; P0111; 1980
+Phenyl-2-aminopropyl sulfide; P1376; 1988
+Phenylacetate; P5345; 2002
+Phenylacetate, sodium; P2964; 1994
+Phenylarsonous acid; Q0586; 2009
+Phenylbutyrate, 4-; P5835; 2003
+Phenylephrine; P6285; 2004
+Phenylephrine HCL; Q3062; 2013
+Phenylephrine hydrochloride; P9187; 2008
+Phenylethylamine HCl, 2-; Deprenyl HCl; P2496; 1993
+Phenylisopropyladenosine; P0852; 1986
+Phenylphrine; Adenosine, N6-cyclopentyl; Q4873; 2016
+Phenylpropanolamine; P2861; 1994
+Phenylpropanolamine HCl; P2927; 1993
+Phenytoin; Q5590; 2016
+Phloridzin; Q5120; 2015
+Phlorizin; Q1686; 2010
+Phorbol 12, 13-didecanoate; chelerythrine; apamin; iberiotoxin; P9380; 2008
+Phorbol 12-myristate 13-acetate; Q3140; 2013
+Phorbol myristate acetate; P1841; 1990
+Phosphate, mannose-6-; Mannose;; P4543; 1999
+Phosphatidic acid, 3-S-cyclic, racemic; Q2058; 2012
+Phosphatidylcholine; vitamin E; Liposomes; P2013; 1991
+Phosphocitrate; Tricarballylate, N-sulfo-2-amino; P1350; 1988
+Phosphonate, bis-; Phosphonate, bisacyl-; Phosphonate, tetrakis-; Etidronate; P3753; 1997
+Phosphonate, bisacyl-; Phosphonate, bis-; Phosphonate, hydroxyiminopropyl-; Phosphonate, adipoylbis-; Phosphonate, suberoylbis-; P3754; 1992
+Phosphonate, bisacyl-; Phosphonate, bis-; Phosphonate, suberoylbis-; Phosphonate, hexanebis-; P3752; 1995
+Phosphonoacetic acid; roscovitine; Q1299; 2010
+Phosphonopentanoic, D,L-2-amino,; Q1181; 2010
+Phosphonovaleric acid, 2-amino-5-; P1597; 1990
+Phosphopentanoic acid, 2-amino; AP5; P1406; 1988
+Phosphoramidon; Q1111; 2011
+Phosphoramidon; thiorphan; P6283; 2003
+Physostigmine; P1891; 1991
+Physostigmine hemisulfate; P4925; 2001
+Physostigmine salicylate; P1483; 1989
+Phα1β; Q5424; 2014
+PI-88; P5637; 2003
+Piclozotan; Q1555; 2010
+Picolinic acid; P1199; 1986
+Picrotoxin; P8662; 2006
+Piericidin A; Q4723; 2014
+Pigment epithelium-derived factor; Q3046; 2013
+Pilocarpine HCl; P2388; 1994
+Pindolol; P4963; 2000
+Pioglitazone; Q1088; 2010
+Pioglitazone hydrochloride; P7309; 2005
+Pioglitazone mononitrate, isosorbide mononitrate, isosorbide dinitrate, Nitroglycerin,; Q5048; 2014
+Pirbuterol; Procaterol; Isoproterenol; Terbutaline; P0833; 1986
+Pitavastatin; Wortmannin; Y-27632; P9421; 2009
+Pituitary adenylate cyclase activating polypeptide; Q3616; 2014
+Pituitary extract; P0368; 1983
+Pituitary glycoprotein fraction; P2165; 1992
+PJ-34; Q0045; 2009
+PKGi; ODQ; Q2500; 2012
+PL 017; P0381; 1983
+Placenta growth factor, recombinant human; antibody, interleukin-1B; Q5171; 2016
+Placental growth factor-1, recomb. human; P7114; 2001
+Placental growth factor-2, recombinant human; Q4908; 2016
+Placental growth factor, human; Q3967; 2015
+Placental protein 13; Q4827; 2016
+Placental protein 13; Placental protein 13, variant; Q3620; 2014
+Plasma protein, I125-labeled; Q4292; 2015
+Plasmid DNA-lipid complex; Q5673; 2014
+Plasmid, cathepsin B; Q2188; 2012
+Plasmid, miR-211-overexpressing; Plasmid, MMP-9; Q5350; 2012
+Plasmid, MMP-9; Q0966; 2011
+Plasmid, pCU; plasmid, SV; Q2557; 2013
+Plasmid, puPA; plasmid, upAR; plasmid, pU2; plasmid, vector; Q1958; 2011
+Plasmid, uPAR/cathepsin B; plasmid, scrambled vector; Q2224; 2011
+Plasminogen activator inhibitor-1; P6178; 2001
+Platelet activating factor; P1574; 1988
+Platelet factor-4; MMP-2 (hemopexin fragment); P5819; 2003
+Platelet-derived growth factor; Q0995; 2011
+Platelet-derived growth factor, human recombinant; Q3608; 2014
+Platelet-derived growth factor-AA; P8111; 2006
+Platelet-derived growth factor-BB; P7087; 2004
+Platinum chloride hydrosol, racem-26; R0313; 2009
+Plerixafor; Q5765; 2017
+PLP; P6532; 2003
+PMC; tocopherol, alpha; Q1590; 2010
+PMEA; P1963; 1991
+PMX53; Q5595; 2016
+PNC-27; Q3850; 2014
+PNC-28; P7694; 2006
+PNU83,836E; P6290; 1998
+PNU-288034; Q1572; 2010
+POL5551; Q4321; 2014
+POL6926; Q3810; 2014
+Poly(I:C); Q5658; 2012
+Polyacrylic acid; polyacrylic acid, biotinylated; P9310; 2008
+Polyanetholesulfonic Acid; Monocyte chemoattractant protein-1; P5787; 2003
+Polychlorinated biphenyl, hydroxylated; P9853; 2009
+Polyethylene; P7168; 2005
+Polyethylene particles; P4298; 1998
+Polyethylene particles; Q5823; 2017
+Polyethylene, ultra high molecular mass weight; R0322; 2014
+Polyinosinic/polycytidylic acid; Q2666; 2013
+PolyQ-binding peptide 1, Antp-; P9691; 2009
+Polysialic acid, mimetic; human natural killer cell-1, mimetic, cyclic; P9890; 2010
+Polystyrene particles, blue dyed; P9613; 2009
+Porphyrin, boronated; P7283; 2005
+Porphyrin, Mn; Q0510; 2010
+Potassium chloride; P4236; 1998
+Potassium lactate; P4644; 1999
+Potassium oxalate; P0432; 1983
+PP2; P6195; 2003
+PP2; PP3; P8118; 2006
+PPADS; Q1656; 2012
+PPPA; TCN 201; Ro 25-6981; Q5000; 2015
+PR39;; P4686; 2000
+PR-21; Q0450; 2009
+PRAM-1; P8979; 2008
+Pramipexole; P9907; 2009
+Pramipexole HCL; Mirtazapine; Q5373; 2016
+Pramlintide acetate; Q3400; 2014
+Pravastatin; Y-27632; Q1240; 2010
+Prazosin; Q2247; 2011
+Prednisolone; P0955; 1986
+Pregabalin; Q4705; 2014
+Pregnenolone sulfate; Q3194; 2014
+Preimplantation factor, synthetic analog; Q1748; 2011
+PreImplantation factor, synthetic; PreImplantation factor, scrambled; Q2544; 2013
+Prenalterol HCl; P1298; 1988
+Preproendothelin-1; Q1784; 2012
+PRL-2486; P5344; 2002
+PRO020; Q5925; 2017
+Proadifen; P5370; 2002
+Proangiotensin-12; angiotensin II; Q2084; 2012
+Procainamide HCl; P2360; 1992
+Procaine; Veratridine; Potassium; P2941; 1991
+Progesterone; P0146; 1981
+Progesterone acetate, medroxy-; progesterone; P6581; 2004
+Progesterone, 11a; Hydroxyprogesterone, 11b; RU-28318; Corticosterone; P4144; 1996
+Proglumide; P0733; 1985
+Prokineticin 2; Q2555; 2013
+Prolactin; P1889; 1991
+Prolactin, human recomb.; prolactin, S179D; P6603; 2003
+Prolactin, mouse, recomb; Q2449; 2012
+Prolactin, ovine; Q3045; 2013
+Prolactin, rat; P0808; 1986
+Prolactin, recomb; P8083; 2007
+Prolactin, recomb. mouse; P8425; 2007
+Prolactin, recomb.; prolactin, S179D; P7665; 2005
+Proline; P4226; 1998
+Proline, L-5-; P1737; 1988
+Propanoic acid, 2-amino-3-(methylamino)-; P1903; 1991
+Propanoic acid, amino-beta-methyl; Q4207; 2014
+Propanolol; esmolol; landiolol; Q0019; 2010
+Proparacaine; P0691; 1985
+Propentofylline; Q2207; 2011
+Propofol; P5351; 2002
+Propranolol; P0209; 1982
+Propranolol HCl; P2014; 1988
+Propranolol HCl, dl-; P2894; 1993
+Propranolol hydrochloride; Q2059; 2012
+Propyl pyrazole triol; diaryl propionitrile; P9655; 2009
+Propylthiouracil; P4282; 2000
+Prorenin decapeptide, rat; peptides, synthetic; P7850; 2006
+Prorenin receptor blocker; Q3297; 2014
+Prorenin, hand6 region decapeptide, rat; P9010; 2006
+Prorenin, receptor blocker; peptide, M30TRISAE36; P8642; 2007
+Prostaglandin A2; Vasopressin, arginine; P0076; 1980
+Prostaglandin analog (TPT); P0089; 1980
+Prostaglandin E1; P3311; 1992
+Prostaglandin E2; P0773; 1986
+Prostaglandin F2a; P0481; 1984
+Protein kinase C, delta; TAT; Q5184; 2016
+Protein, amyloid beta (40-1); protein, amyloid beta (42-1); buthionine sulfoximine; ferrous sulfate; Q1080; 2010
+Protein, NgR(OMNI)-Fc; Q5676; 2016
+Protein, receptor associated, endotoxin free; Q0284; 2009
+Protein, receptor binding domain; Q3209; 2013
+Protriptyline; reboxetine; sertraline; venlafaxine; P9879; 2009
+Prucalopride monohydrochloride; RS 67333 hydrochloride; P7205; 2005
+PS1145; CPT-157633; Q2674; 2013
+PSC 833; P4020; 1998
+Pseudosubstrate inhibitory peptide; Q6005; 2017
+Pterostilbene, Corticosterone; Q5320; 2016
+PTUPB; Q3646; 2014
+Pulmonary surfactant protein D, human, recomb.; Q2022; 2012
+Purvalanol A; Q4494; 2015
+Putrescine; Q5015; 2015
+Putrescine; spermidine; difluoromethylornithine; Q0663; 2009
+Pyr-3; ML204; SKF96365; Q2859; 2013
+Pyrazole 3; Q1172; 2011
+Pyrazole triol, propyl-; diarylpropionitrile; P9269; 2008
+Pyridine, 3,4-diamino; Q1123; 2011
+Pyridine; Pyridinium bromide; MPP+; MPTP; P0868; 1986
+Pyridostigmine; P1085; 1986
+Pyridostigmine bromide; P1982; 1992
+Pyridoxal-5'-phosphate; P6812; 2004
+Pyroglutamate, L-; P1526; 1984
+Pyrroloquinoline quinone; Q5218; 2015
+PZ09; Q5008; 2015
+
+
+Q
+
+Quercetin; Antibody, anti-HSP70; P2768; 1993
+Queuine; P0104; 1980
+Quinacrine; chloroquine; amphotericin B; E-64d; pentosan polysulfate; P6627; 2004
+Quinine; quinoline, Bi-; P6518; 2004
+Quinolinic acid; P1997; 1991
+Quinpirole; P1775; 1989
+Quinpirole hydrochloride; Q3844; 2014
+Quipazine; P5529; 2002
+Quisqualic acid; Glutamate; P2751; 1993
+QX-314; Q5815; 2016
+
+
+R
+
+R9-CBD3-A6K; Q5496; 2016
+R22E, B9:23; Q5948; 2017
+R126Q; Q5799; 2017
+R715; icatibant; Q1483; 2011
+R121919; Q1109; 2011
+R03201195; P7815; 2006
+R-568; P7967; 2006
+R-892; P6049; 2003
+R-95288; P3720; 1997
+RACK7, psi epsilon; V1–2,10, epsilon; TAT (47-57); Q0485; 2010
+Raclopride; P7479; 2005
+Raclopride tartrate; SCH-23390; P2318; 1992
+Ractopamine HCl; P2701; 1994
+Radio-isotopes; P0986; 1987
+Radio-isotopes; Thymidine; P0307; 1983
+Radio-isotopes; Thymidine, methyl; P1075; 1987
+Raloxifene; Q0715; 2010
+Raloxifene; Estradiol, 17B-; P6260; 2004
+Ramiprilat; HR 720; P3734; 1997
+Ranitidine; P3839; 1997
+RANKL; P8889; 2008
+Rapamycin; Q0461; 2009
+Rasagiline; P5436; 2002
+RC-160; RC-3095; P2460; 1993
+RC-3095; P1937; 1991
+R-DIOA; Q4690; 2015
+Reboxetine; Q2721; 2012
+Reboxetine hydrobromide; fluoxetine hydrobromide; moclobemide; P7543; 2005
+Reboxetine methanesulfonate; fluoxetine HCl; Venlafaxine HCl; Tranylcypromine HCl; P5193; 2002
+Reboxetine;; P4699; 2001
+Recombinant human H2-RLN; Q4774; 2014
+recombinant mouse Shh (Sonic Hedgehog); Q4771; 2013
+Reelin, recomb.; P9766; 2009
+Reg-2; Q5691; 2017
+Regeneration gene protein 2; ciliary neurotrophic factor; Q1062; 2011
+Relaxin; Q5939; 2017
+Relaxin-2; Q3866; 2015
+Relaxin-2, Recomb. human; Q5964; 2017
+Relaxin-3; Q5758; 2016
+Relaxin, analogue; Q2466; 2012
+Relaxin, H2; Q2450; 2012
+Relaxin, H3, synthetic; Q0918; 2011
+Relaxin, human H2 recombinant; Q3486; 2013
+Relaxin, human recombinant; Q5698; 2016
+Relaxin, human;; P4726; 2000
+Relaxin, porcine; Q3332; 2014
+Relaxin, recomb. H2; Q1552; 2010
+Relaxin, recomb. H2; P9172; 2008
+Relaxin, recomb. human; P7048; 2005
+Relaxin, recomb. human gene-2; P7273; 2005
+Remodulin; R0336; 2015
+Remoxipride HCl; P2736; 1994
+Renin, human recomb.; P3451; 1997
+Reo 3Y; ReoL; P6342; 2003
+Reparixin; P8924; 2007
+Reserpine; P8751; 2008
+Resiniferatoxin; Q1674; 2012
+Resistin; Q2569; 2013
+Resorcinolnaphthalein, A-779; Q3107; 2013
+Resveratrol; Q3733; 2014
+Retinoic acid, 13-cis-; P7250; 2005
+Retinol-binding protein, holo-; Q2686; 2012
+Reveromycin A; P9469; 2008
+RF amide related peptide-3; Q1875; 2012
+RG108; Q4320; 2015
+RGD Peptide, RAD hexapeptide; Q5878; 2017
+Rhamnose; Ouabain; Ouabagenin; P5016; 2001
+rhEPO; Q4958; 2013
+Rhodamine-dextran; protein, Ad5-green flourescent; Q2115; 2012
+Ribavirin; P5453; 2002
+Riboflavin; P9410; 2009
+Ribozyme, anti-Flt-1; ribozyme, anti-KDR; ribozyme, attenuated; P8575; 2000
+Rifampicin; P6385; 2004
+Rifampin; pravastatin; P9274; 2008
+rIL-1RA; Q5979; 2017
+Rilmenidine; P9686; 2009
+Riluzole; Q3393; 2014
+Rimonabant; MSX-3; Q4710; 2014
+Ringer's solution, lactated; P7941; 2007
+Risperidone; P8027; 2006
+Ritodrine hydrochloride; Q4213; 2014
+Rituximab; Q2577; 2013
+Rivastigmine; P9207; 2008
+RK peptide, biotinylated; Q2093; 2012
+RLX 75; Q5998; 2017
+RNA, Apoptosis signaling kinase 1-small interfering; Q3326; 2013
+RNA, ASK1-small interfering; Q4110; 2015
+RNA, double stranded; polyinosine-cytosine (poly IC) dsRNA; P7905; 2006
+RNA, micro; Q6007; 2017
+RNA, micro-133, anti; Q1482; 2011
+RNA, micro antisense inhibitors 2'-O-MOE-PO; Q4648; 2015
+RNA, precursor micro (premiR-29); Q3174; 2013
+RNA, short hairpin; RNA, short hairpin, mismatched; P8126; 2006
+RNA, small hairpin; Q1975; 2012
+RNA, small interfering; Q5555; 2010
+RNA, small interfering 13 antisense; Q4976; 2015
+RNA, small interfering (Neu4); Q6055; 2016
+RNA, small interfering CX3CR1; RNA, scrambled; Q3181; 2014
+RNA, small interfering Drd2-; RNA, small interfering DJ-1-; Q4386; 2015
+RNA, small interfering NLRP1; RNA, small interfering, NLRP3; RNA, small interfering caspase-1; Q4128; 2014
+RNA, small interfering p40; Q3360; 2014
+RNA, small interfering sestrin2; Q4200; 2014
+RNA, small interfering TREM2; Q3521; 2014
+RNA, small interfering TRPC6; Q5014; 2015
+RNA, small interfering TRPM inhibiting; Q3551; 2014
+RNA, small interfering, agrin; Q1609; 2010
+RNA, small interfering, Ask1; Q1467; 2011
+RNA, small interfering, ASK1; Nitropropanoic acid, 3-; Q3335; 2013
+RNA, small interfering, bone sialoprotein; RNA, small, interfering, osteopontin; Q2072; 2012
+RNA, small interfering, D2R; RNA, small interfering, PON2; Q2832; 2012
+RNA, small interfering, DJ-1; Q1903; 2012
+RNA, small interfering, Gastrin-specific; Q5844; 2017
+RNA, small interfering, HSP25; Q5837; 2017
+RNA, small interfering, MMP-2; Q1161; 2011
+RNA, small interfering, MMP-2; RNA, small interfering, MMP-9; Q2696; 2012
+RNA, small interfering, modified; RNA, small interfering; P8852; 2008
+RNA, small interfering, nNOS blocking; Q3169; 2013
+RNA, small interfering, single stranded; Q2731; 2012
+RNA, small interfering, unlocked nucleic acid modified; Q1194; 2010
+RNA, small interfering, uPAR; Q0795; 2010
+RNA, small interfering/EHCO; PEGylated EHCO; Q5158; 2016
+RNase1; Q3325; 2014
+RNH-6270; Q0220; 2009
+RO061606; Q1119; 2011
+Ro324032; P6428; 2003
+RO480500-002; Q4302; 2015
+Ro3303544; P8645; 2007
+RO-20-1724; P4704; 2001
+RO-23-7553; P3719; 1997
+RO-25-6760; P6967; 2005
+RO-26-2198; P8637; 2007
+RO 60-0175; mCPP; Fenfluramine, d-;; P5023; 2000
+Rolipram; Q2096; 2012
+Roneparstat; lapatinib; Q4678; 2015
+Ropinirole; Q5771; 2017
+Roscovitine; Q0755; 2011
+Roscovitine, S-; Q00356; 2010
+Rosiglitazone; Q4472; 2015
+Rosiglitazone Maleate; Q5322; 2016
+Rosuvastatin; Q3783; 2014
+Rotenone; Q5596; 2016
+Rotigaptide; P7439; 2005
+Rotigotine; Q0449; 2009
+Rotigotine hydrochloride; Q0075; 2010
+RP-001; W146; Q4083; 2014
+Rp-8-BrcGMP; P6035; 2003
+Rp-8-CL-cAMPS; P7426; 2001
+Rp-cAMPS; Q5487; 2016
+R-phenylisopropyladenosine; R0329; 2014
+RS67333; Q0158; 2010
+RS102895; Q3758; 2014
+RS127445; Q1799; 2012
+RS504393; P9366; 2009
+RS-33295; P4021; 1995
+RS-68439; P0548; 1984
+RS-127445; dexfenfluramine; P5548; 2002
+RS 67333; citalopram; P8670; 2007
+rSpeL; rSpeM; rSpeC; P6138; 2002
+RU38486; dexamethasone; P9106; 1996
+RU-28318; P6804; 2004
+RU-28362;; P4472; 1998
+RU 486; Q0204; 2009
+rucaparib; Q5247; 2015
+Ruxolitinib; Q2314; 2012
+RX-0047; oligonucleotide, phosphorothioate antisense; P8846; 2008
+RXP 470.1; Q4464; 2015
+Ryanodine; tetrodotoxin; potassium chloride; anisomycin; P9876; 2009
+
+
+S
+
+S100b, bovine; P8055; 2005
+S107; P9815; 2009
+S179D; P4931; 2001
+S247; P6426; 2004
+S961; Q4332; 2015
+S961 insulin receptor antagonist; Q5962; 2017
+S961 peptide; Q5349; 2016
+S961, Insulin receptor antagonist; Q5778; 2016
+S16118; P5630; 2003
+S26695; Q0883; 2010
+S-9; S-10; S-11; P7676; 2005
+S-0139; P4982; 2001
+S-20499; 8-OH-DPAT;; P4296; 1999
+SA-446; Captopril; MK-421; P0527; 1984
+SA 4503; P9477; 2008
+Safinamide; Q2999; 2013
+Salbutamol; P5089; 2002
+Salicylate, sodium; P1664; 1990
+Salmeterol; P8762; 2008
+Salmon pituitary extract; Q2599; 2013
+Salmon pituitary extract; gonadotrophin, human chorionic; gonadotropin-releasing hormone analogue; Q2691; 2013
+Salsolinol; Q4486; 2015
+Salsolinol, N-methyl-(R)-; R0170; 2002
+Salusin-alpha; salusin-beta; anti-salusin-alpha antiserum; anti-salusin-beta antiserum; Q00302; 2010
+Saralasin; P0038; 1979
+Sarcosin dithiocarbamate; diethyldithiocarbamate, N, N-; P9803; 2009
+SarLys[Hyp3, Igl5, DPhe8]desArg9-bradykinin; [Hyp(3),Thi(5),(N)Chg(7),Thi(8)]-bradykinin; Q4402; 2015
+SARM, s-1; SARM s-2; testosterone propionate; P6800; 2004
+Sarthran; Teprotide; P0969; 1987
+Satietin, human; P1194; 1987
+Sauvagine; Clenbuterol; P6013; 2003
+Sazetidine-A; Q2162; 2012
+Sazetidine-A; nicotine; varenicline; Q2384; 2012
+SB203580; Q0996; 2012
+SB204741; Q4905; 2016
+SB207266; P8282; 2007
+SB209670; P8656; 2007
+SB216763; Q3600; 2014
+SB222200; Q3545; 2014
+SB225002; CXCL1; Q4153; 2015
+SB239063; Q1525; 2011
+SB290157; Q3687; 2012
+SB431542; Q1136; 2009
+SB-30; SB-75; P1905; 1990
+SB-75; P2187; 1991
+SB-209670; P3095; 1994
+SB-217242; P5499; 2002
+SB-334867-A; SNAP-7941; SHU9119; Q0471; 2010
+SB 239063; P4620; 2000
+SB 242084; Q3730; 2014
+SC144; etanercept; Q5099; 2016
+SC358755; Q4163; 2014
+Sc-7; Q1845; 2012
+SC-37698; P2082; 1991
+SC-46275; L798106; SC-19220; AH6809; L-161982; SP6001125; PD98058; SP20358; Q5703; 2017
+SC-51089; Q3403; 2014
+SC-69000; SC-65811; P5303; 1999
+Scalaradial, 12-epi-; P8900; 2007
+Scavenger receptor class B, type I; Q3986; 2014
+SCH23390; Q2493; 2013
+SCH58261; Q1261; 2011
+SCH-23390; P5474; 2002
+Scopolamine; Q3274; 2014
+Scopolamine butylbromide; Q2214; 2011
+Scopolamine hydrobromide; P7259; 2005
+Scopolamine, N-methyl; P0678; 1985
+SDKP, Ac-; Q2149; 2012
+SDZ RAD; P8980; 2008
+SE-49059; SR-121463B; P5365; 2002
+SecinH3; Q5034; 2015
+Secreted frizzled-related protein 3, recombinant; Q3299; 2013
+Secretin; Q0913; 2011
+Secretin, porcine; Q0117; 2010
+Secretin, rat; Q3605; 2014
+Selectin binding peptide; P5317; 2002
+Selenate, sodium; Selenite, sodium; Selenomethionine, L-; P2263; 1990
+Selenide, phenyl-2-aminoethyl-; P1427; 1988
+Sema7A; PlexinC1; Q4695; 2015
+Semaphorin 3A; Q0914; 2011
+Semaphorin 3E; Q2262; 2012
+Semapimod; Q5163; 2015
+sEPOR; Q4559; 2015
+S-equol; Q4689; 2015
+SEr601; Q5724; 2016
+SER 100; Q5476; 2016
+Serelaxin; Q5947; 2017
+Serotonin; P9627; 2009
+Serotonin agonist; bay x3702; gepirone; R0214; 2003
+Serotonin creatinine sulfate; P0671; 1985
+Serotonin HCl; P0517; 1984
+Serotonin-HCl; P8714; 2007
+Serp-1; P6127; 2003
+Sertindole; P9374; 2009
+Sertraline; P5318; 2002
+Serum, complement proteins, guinea pig; Antibody, lgG GalC polyclonal; Antibody, IgM 04 polyclonal; P2805; 1995
+Serum, diluted, rat; Q1437; 2010
+Serum, fetal bovine; P5191; 2002
+Serum, human tourette; P9064; 2008
+Serum, human; dye trypan blue; P7302; 2005
+S-Farnesylthiosalicylic acid; Z-DEVD-FMK; candesartan; P9991; 2010
+sFlt-1, recomb; Q3275; 2014
+sFlt-1, sEndoglin, Orencia; Q5624; 2016
+Sgp130Fc; Q5093; 2016
+shRNA, NM_133534.1; antibody, CX3CR1; Q5892; 2017
+SHU9119; P9371; 2009
+Sialidase; P9954; 2010
+Sialidase, vibrio cholera; Q5261; 2015
+Sibutramine; Leptin; P4932; 2001
+SID 791; P3587; 1996
+Sildenafil; Q2954; 2013
+Silodisin; Q5541; 2013
+Silodosin; Q5873; 2017
+Simvastatin; P7913; 2006
+siRNA, PDI; DTNB; bactracin; Immunoglobulin, anti-PDI; tunicamycin ;; Q5674; 2017
+Sirolimus; Q4298; 2015
+SIRT1 inhibitor, EX527; UO126; Q5286; 2015
+SIS3; advanced glycation end products; Q0477; 2010
+SJG-136; P7052; 2004
+SK&F 86002; P3003; 1993
+SKF-10047; P2355; 1992
+SKF-82958; P3406; 1996
+SKF-100273; SKF-101485; SKF-101926; Vasopressin; P1942; 1991
+SKF-101926; P1447; 1989
+Sleep-inducing peptide, delta; P0889; 1986
+SLPI, recomb. human; Q2486; 2013
+SM16; P8293; 2007
+SM-216289; P8019; 2006
+Smad3 inhibitor; Q2850; 2013
+Smokeless tobacco extract; Nicotine; P1333; 1988
+SMSIARL, phage; P6973; 2002
+SMTC; Q2582; 2013
+SmTsF; P0475; 1984
+SN50, c-; Q0353; 2010
+SN50; SN50M; Q1458; 2011
+SNX-111; SNX-239; Morphine sulfate; P2887; 1995
+Sodium; Q0922; 2009
+Sodium alginate oligosaccharides; Q5610; 2013
+Sodium azide; Q4398; 2015
+Sodium fluoride; P3100; 1994
+Sodium fluoroacetate; Q0923; 2009
+Sodium hydrogen sulfide; Q1515; 2011
+Sodium hydrosulfide; Q4118; 2014
+Sodium iodide; Q0941; 1995
+Sodium nitrate; Q1428; 2011
+Sodium oxide dismutase, recomb. human (tempol); P2438; 1992
+Sodium phenylacetate; P3835; 1997
+Sodium propionate; P3182; 1995
+Sodium selenate; Q4587; 2015
+Sodium sulfate; P3655; 1996
+Sodium sulfide; Q0754; 2011
+Sodium sulfite; Q3602; 2013
+Sodium valproate; Q1177; 2010
+SOL1; Q2358; 2012
+Solasodine; Q1196; 2011
+Soluble factor, Neural stem cells; Q5661; 2007
+Soluble leptin receptor; leptin; Q00296; 2009
+Soluflazine; P2098; 1991
+SOM230; Q3727; 2014
+Somatomedin B; Growth hormone; P0196; 1981
+Somatomedin C; P2457; 1992
+Somatostatin; P0243; 1982
+Somatostatin-14-I; P8608; 2007
+Somatostatin analog; P1485; 1989
+Somatostatin antagonist; P4924; 2001
+Somatotropin, bovine; P2995; 1994
+Somatotropin, human; Somatotropin, rat; P2992; 1993
+Somatotropin, recomb. bovine; P8581; 1992
+Sonic hedgehog protein, recombinant mouse; Q3240; 2013
+Sorafenib; Q1442; 2011
+Sotalol; P0954; 1986
+Sotalol HCl; Propranolol HCl; P0952; 1986
+Soybean oil emulsion; olive oil emulsion; P9964; 2010
+SP600125; P9675; 2008
+Sp-8-pCPT isomer (nonhydrolyzable form of 8-pCPT); Q2942; 2012
+SP 600125; antibody, anti-FGF-L, goat; antibody, anti-mouse HGF, goat; P9475; 2009
+SPARC, purified; P9151; 2002
+S-PBN; P5975; 2003
+Spermidine; Putrescine; Ornithine, difluoromethyl-;; P4478; 1999
+Spermine nitric oxide complex; Q2848; 2013
+Sphingosine-1-phosphate; Q3548; 2014
+Sphingosine, D-erythro; Q5135; 2015
+Sphingosine, N-hexanoyl-D-; Q3845; 2014
+Spiperone; SCH-23390; P1288; 1988
+Spironolactone; P6084; 2003
+SQ29548; Angiotensin II; P1655; 1990
+SQ 14,225; P0015; 1978
+SR49059; Q3392; 2014
+SR59230A; Q0418; 2010
+SR140333; P8378; 2006
+SR141716; Q0052; 2008
+SR141716A; P8879; 2008
+SR-3306; Q5138; 2011
+SR 49059; SR 121463B; P9381; 2008
+SS-20; Q4599; 2015
+SS-31; Q3849; 2014
+SSR240612; Q5067; 2013
+ST1646; P7505; 2005
+Staphylococcal enterotoxin A; Q0965; 2010
+Staphylococcal enterotoxin B; Q2111; 2012
+Staurosporine; Q2032; 2012
+Stem cell factor; P9058; 2008
+Stem cell factor, human recomb.; P8036; 2006
+Stibogluconate, sodium; Interferon-gamma; P1718; 1990
+Streptococcal fractions (10-12) exotoxin B; P2943; 1993
+Streptococcal pyrogenic exotoxin C; Streptococcal pyrogenic exotoxin A; P1593; 1989
+Streptomycin; P5659; 2003
+Stromal cell-derived factor-1, alpha; Q5106; 2016
+Stromal cell-derived growth factor-1 alpha; Q1852; 2012
+Stromal derived factor-1, alpha; Q1356; 2010
+Stromal-cell-derived factor-1, alpha; bone morphogenic protein 2; transforming growth factor-1, beta; Q2327; 2012
+Strychnine; P3897; 1997
+StVOrth-2; StVOrth-3; Q2296; 2012
+SU1498; Q1817; 2012
+SU5402; P8872; 2007
+SU5416; Q1499; 2011
+SU6656; Q3686; 2014
+Substance P; Q1997; 2012
+Succinylacetone; P2265; 1993
+Succinylacetone; P1456; 1988
+Sucrose; Q3534; 2013
+Sufentanil; P4187; 1994
+Sufentanil citrate;; P1529; 1989
+Sulfasalazine; carboxyphenylglycine, (S)-4-; Q3676; 2014
+Sulfophenylxanthine,1,3-dipropyl-8-; P7775; 2006
+Sulfoximine, DL-buthionine-S,R-; P3757; 1984
+Sulfoximine, L,S-buthionine; P2913; 1994
+Sulfoximine, methionine; P3728; 1990
+Sulindac; Q1398; 2011
+Sumatriptan; P6487; 2004
+Sumatriptan; naratriptan hydrochloride; GR127935; P9936; 2010
+Sunitinib malate; Q4264; 2015
+Superoxide dismutase; Q4699; 2014
+Suramin; Q1105; 2010
+Swainsonine; P1639; 1990
+Swainsonine; castanospermine; calystegine B2; calystegine C1; P9854; 2008
+SYL-001, ARL67156 Trisodium Salt; Q5818; 2017
+Synstatin (82-130); synstatin (94-119); synstatin (92-119); cyclic RGDfv; cyclic RADfv; P9597; 2009
+Synstatin (IGF1R), Synstatin(IGF1R-T); Q5321; 2016
+
+
+T
+
+T1-11; Q1127; 2011
+T3; Q4760; 2013
+T140; Q0580; 2009
+T487; P9517; 2009
+T0070907; Q2275; 2011
+T-0681; Q0225; 2010
+T cell leukemia/lymphoma-1, TAT-; T cell leukemia/lymphoma-1G, TAT-; P8845; 2008
+TA-0201; P7858; 2006
+Tacrine; Q4434; 2015
+Tacrolimus; Q0331; 2010
+Tadalafil; Q4892; 2016
+TAK-044; P6813; 2004
+TAK-242; Q4050; 2014
+TAK-441; Q2574; 2013
+TAK-448; TAK-683; leuprolide; Q3996; 2014
+TAK-683; Q4750; 2014
+Tamoxifen; P7950; 2006
+Tamsulosin hydrochloride; Q2680; 2013
+Tandospirone; P2279; 1991
+Tandospirone; Imipramine; 1-PP; P2873; 1993
+Tannic acid; P3053; 1993
+TAS-102; Q5438; 2014
+TAT 47-57, beta IIV5-3, peptide; TAT 47-57, beta IV5-3, peptide; TAT 47-57, epsilon V1-2, peptide; Q2152; 2012
+TAT 47-57, peptide; TAT; TAT 47-57, delta conjugated, peptide; Q1288; 2011
+TAT 47–57-beta-IV5-3; Q1066; 2011
+TAT (47-57), dv1-1-; TAT (47-57); P8460; 2007
+Tat Peptide, DEETGE-CAL; Q5284; 2015
+TAT peptide; HV-3 peptide; Q5858; 2016
+TAT-Gap24; TAT-Gap19; Q5918; 2017
+TAT-GFP; TAT-Bcl-XL; P9209; 2008
+TAT-GILZ; Q0557; 2009
+TAT-NR2B9c; Q0598; 2010
+Tau, ASO-3; Oligonucleotides, antisense scrambled; Q3069; 2013
+Taurocholate, Sodium;; P4426; 1998
+Taurolidine; Q00104; 2009
+Tauroursodeoxycholic acid; angiotensin II; Q4470; 2015
+TC-2696; TI-10165; TC-8831; TC-10600; Q3012; 2013
+TDZD-8; P9006; 2007
+TE14011, 4F-benzoyl-; Q5402; 2004
+Tegaserod; Q3743; 2014
+Telmesartan; Q1411; 2010
+Telodendrimer nanoparticles, peptide-incorporated; Q5091; 2016
+Temocaprilat; olmesartan; hydralazine; P8612; 2007
+Temozolomide; Q2864; 2013
+Tempol; Q6024; 2017
+Temsirolimus; Q5022; 2015
+Tenovin-D3; Q4502; 2015
+Teprotide; P0082; 1980
+Teprotide; P0094; 1980
+Terbutaline HCl; Isoproterenol; Propranolol; P0583; 1985
+Terfenadine; Q0977; 2010
+Ternatin; Q2312; 2012
+Tertatolol; Propranolol; P3658; 1995
+Testosterone; R0253; 2008
+Testosterone propionate; P8443; 2007
+Testosterone, 7a-methyl-19-nor-; P3176; 1993
+Tetraethylammonium chloride; P6103; 2003
+Tetrahydro-B-carboline, 1-methyl-; Tetrahydro-B-carboline, 6-methoxy-; P0416; 1983
+Tetrahydrobiopertin dihydrochloride; Q2336; 2012
+Tetrahydrobiopterin; Q1146; 2011
+Tetraphenylporphyrin, boronated; Tetraphenylporphyrin sulfonate; P1545; 1990
+Tetrodotoxin; P2806; 1995
+Tezosentan; Q3196; 2014
+TFG-B1; Q4639; 2015
+TGX-221; AS605240; Propranolol; SR59230A; Q5463; 2015
+Thalidomide; P5358; 2002
+Theophylline; P6249; 2003
+Thiamine, thiazolone; Thiamine, thiazolone pyrophosphate; P1387; 1988
+Thiazolidinedione; R0299; 2010
+Thiazolindinone; R0334; 2015
+Thiazoloquinazoline, compound 54; P7807; 2006
+Thioglucose, 5-; P3983; 1998
+Thioredoxin; P3398; 1995
+Thioredoxin, human recomb.; P7999; 2006
+Thioredoxin-interacting protein DNAzyme; Q4605; 2015
+Thiorphan; Q0458; 2009
+Thiorphan, DL-; P8952; 2006
+Thiosulfate, sodium; P6793; 2004
+Thiourea; P6159; 2003
+Thrombin; P2783; 1994
+Thrombin, alpha -; protease-activated receptor 1 agonist peptide; P6219; 2003
+Thrombin; hirudin; P6789; 2004
+Thrombospondin-1; P6454; 2004
+Thromboxane A2, synthetic; P8959; 2006
+Thromboxane, synthetic analog; Q1736; 2011
+Thymidine; P2304; 1990
+Thymidine, 3'-azido-3'-deoxy-; cyclodextrin, methyl-b-; Q4884; 2016
+Thymidine, 3H-; Q3694; 2014
+Thymidine, 15N-; Q3943; 2014
+Thymidine, (methyl-3H)-; gastrin-17, synthetic rat; P6496; 2004
+Thymidine, [3H]; P7340; 2005
+Thymidine, [3H]-; Ara-C; P4369; 1999
+Thymidine, methyl; P3685; 1990
+Thymidine, N-; Q1802; 2012
+Thymosin fraction 5; Thymosin fraction a7; P0523; 1984
+Thymosin-B4; Q4043; 2014
+Thyroid stimulating hormone, bovine; Q3082; 2013
+Thyroid-rel. hormone; P4685; 2000
+Thyroid-stimulating hormone, bovine; P2675; 1993
+Thyrotrophin, bovine; Q0927; 2008
+Thyrotropin releasing hormone; P8220; 1982
+Thyrotropin-rel. factor; P1192; 1986
+Thyrotropin-releasing hormone; P8967; 2006
+Thyroxin, L-, Adenovirus vector; Gene, green fluorescent protein; Gene, AMP-activated protein kinase; Q5829; 2017
+Thyroxine; P2688; 1995
+Thyroxine sulfate; Triiodothyronine sulfate, 3,3',5'-; Triiodothyronine sulfate, reverse; P3088; 1995
+Thyroxine, L-; P8764; 2008
+Tiagabine; P3415; 1996
+Tianeptine; P3325; 1995
+Tiaprost; P0510; 1984
+Timolol; P1525; 1989
+TIMP-1; TIMP-2; P5373; 2002
+Tipifarnib; Q1745; 2011
+Tirofiban; Q1207; 2011
+Tissue extracts; Spinal cord extract; Cerebellum extract; Skeletal muscle extract; P5116; 2002
+Tissue plasminogen activator; P2085; 1991
+Tissue plasminogen activator inhibitor; P8411; 2007
+Tissue plasminogen activator, recomb. human; Plasminogen activator inhibitor type-1; P4029; 1996
+Tissue-type plasminogen activator; Desmoteplase; P5823; 2003
+TLQP-21; Q3466; 2014
+TLQP-21 peptide; Q1847; 2012
+TLQP-62; Q4139; 2014
+TLQP-62 C-terminal amidated peptide; Q0099; 2010
+TMD23; Q1457; 2011
+TN14003, 4F-benzoyl; P8441; 2007
+TNFa; Q5301; 2015
+TNF-alpha; Q5127; 2015
+TNFp55 receptor, soluble; Q1672; 2012
+TNP-470; P9107; 2001
+Tobramycin; P0820; 1983
+TOFA; Q4424; 2015
+Tofacitinib; Q5592; 2016
+Tolafentrine; iloprost; P6731; 2004
+Tolvaptan; Q5591; 2016
+Tolylguanidine, 1,3-di-ortho-; P2325; 1991
+Topotecan; Q2212; 2011
+Topotecan HCl; P8699; 2007
+Topotecan hydrochloride; Q1723; 2011
+Torbafylline; Q3728; 2014
+Toxic shock syndrome toxin-1; Q4629; 2015
+Toxin-1, TSS; P6022; 2003
+Toxin, pertussis; P2741; 1995
+Toxin, tetanus fragment C; tempol, toxin tetanus fragment C; P7099; 2005
+Toxin, transforming growth factor-a chimeric-; P3210; 1994
+TPFC; Q3780; 2015
+Tramadol; P4947; 2000
+Trametinib; Q4147; 2014
+Tranexamic acid; P8139; 2006
+Transforming growth factor; P9807; 2009
+Transforming growth factor beta-1, recomb. human; P9848; 2009
+Transforming growth factor, alpha; Q0790; 2009
+Transforming growth factor, beta; Q5879; 2016
+Transforming growth factor-B3, recombinant; P4254; 2000
+Tranylcypromine; Q0143; 2010
+Tranylcypromine, 4-fluoro-; Tranylcypromine, 4-methoxy-; Tranylcypromine; P2428; 1990
+Trapidil; Q0142; 2010
+Trazodone; Q1569; 2010
+Trenbolone; Q4407; 2015
+Treprostinil; Q2200; 2011
+TRI; P1217; 1988
+Triazolam; P2656; 1994
+Trichostatin A; Q5625; 2016
+Tricine; EDTA, copper; EDTA, zinc; EDPA; EDTA, calcium; P8422; 2007
+Triciribine; LY294002; Q4767; 2014
+Trifluoperazine; Amphetamine sulfate, d-; P0144; 1981
+Triglycerides, long-chain; triglycerides, medium chain; fish oil; Q3503; 2014
+Trihexyphenidyl HCl; P2837; 1995
+Triiodothyromine; thyroxine, L-; P7879; 2006
+Triiodothyronine analog (DIMIT); Thyroxine; Triiodothyronine; P0213; 1982
+Triiodothyronine, 2,3',5 L-; P8585; 2007
+Triiodothyronine, L-; P2310; 1992
+Triiodothyronine;; P4799; 2001
+Triodothyronine, 3,3',5'-;; P4533; 1997
+Tripeptidyl peptidase 1, recomb human; Q0036; 2008
+TrkB/Fc, recombinant human; Q4607; 2015
+TrkB-Fc, recomb., human chimera; Q1010; 2011
+TrkB-Fc; immunoglobulin G1-Fc, recomb. human; Q2158; 2012
+TrKB-IgG; immunoglobulin G, human; P7140; 2005
+Trolox; neomycin; ascorbic acid; P8402; 2007
+Tropisetron hydrochloride; donepezil; metamine; Q3361; 2014
+Troxacitabine; P6745; 2004
+Tryptamine, 5-hydroxy; R0298; 2012
+Tryptophan, I-; P2512; 1991
+TSST-1, native; G31S/S32P; H135A; Q136A; Q2722; 2012
+TT-232; P3588; 1996
+TTA-A2; Q3837; 2014
+TTA-I1; P9827; 2009
+TTX; CNQX; APV; Q0613; 2009
+Tubocurarine, d-; P2317; 1992
+Tubulin, beta; P5811; 2003
+Tuftsin; Q2150; 2012
+Tuftsin fragment 1-3; Q3149; 2013
+Tumor necrosis factor; P0909; 1987
+Tumor necrosis factor receptor 1; Q3740; 2014
+Tumor necrosis factor receptor peptide WP9QY; P7788; 2006
+Tumor necrosis factor receptor peptide WP9QY; peptides, synthetic; P7787; 2006
+Tumor necrosis factor related protein 3, C1q, recomb.; Q2333; 2012
+Tumor necrosis factor, alpha; Q2898; 2013
+Tumor necrosis factor, alpha human recombinant; Q5898; 2017
+Tumor necrosis factor, alpha, p55 receptor; Q1471; 2011
+Tumor necrosis factor, recomb. mouse; Q0768; 2010
+Tumor necrosis factor-a; P9000; 2006
+Tumor necrosis factor-a receptor 1, soluble; Q5036; 2015
+Tumor necrosis factor-a, recomb. mouse; P8369; 2006
+Tumor necrosis factor-a; Interleukin-1, beta; P3893; 1995
+Tumor necrosis factor-alpha; P9760; 2008
+Tumstatin, -5; P6291; 2001
+Tunicamycin; Q3396; 2014
+TVG167; TVS167; Q3795; 2014
+TWEAK; NBD; Q4299; 2015
+TXA3; Q4419; 2015
+TY-51469; Q2752; 2013
+Tyramine; tyramine, 14C-; P7512; 2005
+
+
+U
+
+U50, 488H methane sulfonate;; P4392; 1998
+U0126; Q3954; 2014
+U-50,488H; P1344; 1988
+U-0521 catechol; P0298; 1982
+U-46619; Q1773; 2011
+U-91356A; P3342; 1995
+Ubiquitin; albumin; P8394; 2006
+Ucf-101; P7194; 2005
+Ucn2; antisauvagine-30; Q5899; 2017
+UCN-01; P9774; 2009
+UE2316; Q3434; 2014
+UK-14,304 tartrate; Clonidine HCl; P2143; 1992
+Ulinastatin; Q2243; 2011
+Ultra-high molecular weight polyethylene particles; interleukin-4, mouse recombinant; Q5193; 2016
+Endotoxin, LPS; Q5395; 2016
+UM206; T0011; 2010
+unclustered ephrin A5 Fc, clustered (C) ephrin A5 Fc, antibody, IgG; Q5811; 2017
+UO126; Q2128; 2012
+U-prl; S179D; P7369; 2005
+Urantide; Q3437; 2014
+Urapidil, 5-methyl; tamsulosin; P6884; 2004
+Urease; P0974; 1986
+Urethan; P0596; 1981
+Uridine 5-triphosphate; P6224; 2002
+Uridine diphosphoglucose; glucose; P2273; 1992
+Uridine triphosphate; uridine; P9796; 2009
+Uridine, 5-bromo-2'-deoxy-; R0261; 2009
+Uridine, 5-ethyl-2-deoxy-; P0718; 1985
+Uridine, 5-ethynyl-2’-deoxy; Q5259; 2015
+Uridine, bromodeoxy; Q0337; 2010
+Uridine, chlorodeoxy; P7035; 2004
+Uridine, fluorodeoxy-; P2836; 1995
+Uridine, iododeoxy; P6790; 2004
+Urocortin; P4659; 2000
+Urocortin 3; Q2481; 2013
+Urogastrone; P1073; 1987
+Uroguanylin; P9600; 2009
+Urokinase-type plasminogen activator receptor, soluble; Q4708; 2014
+Urolithin B; Q5888; 2017
+Urotensin II; Q3546; 2014
+
+
+V
+
+V1-1, delta; RACK, delta omega; Q1166; 2011
+V-10,367 HCl;; P4278; 1997
+Valganciclovir; Q3811; 2014
+Valproate, sodium; P0681; 1985
+Valproic Acid; Q3024; 2012
+Valsartan; Q0380; 2009
+Vardenifil; Q0167; 2010
+Vascular endothelial growth factor; Q0400; 2010
+Vascular endothelial growth factor-15; vascular endothelial growth factor-165; QK; P9814; 2009
+Vascular endothelial growth factor-165-b, recomb.; P9198; 2008
+Vascular endothelial growth factor 121; Q2201; 2011
+Vascular endothelial growth factor 164, recomb. rat; P9443; 2008
+Vascular endothelial growth factor 165; P6564; 2004
+Vascular endothelial growth factor 165, recomb. human; vascular endothelial growth factor, receptor-2 selective; 
+Vascular endothelial growth factor (121); Q0354; 2010
+Vascular endothelial growth factor (164); SU5416; Q0514; 2009
+Vascular endothelial growth factor B; Q2593; 2013
+Vascular endothelial growth factor, alpha; R0287; 2010
+Vascular endothelial growth factor, aptamer; EMD472523; T2-TrpRS; P8366; 2007
+Vascular endothelial growth factor, recomb. rat; P6730; 2005
+Vascular endothelial growth factor-B; P7561; 2006
+Vascular endothelial growth factor-B186, recomb. mouse; P9248; 2008
+Vascular endothelial growth factor-inhibitor; P8799; 2008
+Vasoactive intestinal peptide; P5911; 2003
+Vasoactive intestinal polypeptide, p-chloro-D-Phe5Leu17-; P9398; 2009
+Vasopressin; P0832; 1986
+Vasopressin antagonist; P1592; 1990
+Vasopressin tannate; Vasopressin, 1-desamino-8-D arginine; Vasopressin, arginine; Vasopressin, lysine; P0258; 1982
+Vasopressin, 1-deamino-8-D arginine; Q2498; 2013
+Vasopressin, (Pmp1, Tyr (Me)2)-Arg8; P4073; 1996
+Vasopressin, arginine; P2600; 1993
+Vasopressin, arginine-8-; P5082; 2002
+Vasopressin, d(CH2)5Tyr(Me) Arginine; P9433; 2008
+Vasopressin, deamino-Pen1,O-Me-Tyr2,Arg8; Q4239; 2014
+Vasopressin, desamino- [D-Arg8]-; P3358; 1996
+Vasopressin, desglycinamide-arginine; Vasopressin, lysine; P0262; 1982
+Vasopressin, d-ethyl-lysine; Vasopressin, lysine; P0087; 1980
+Vasopressin, lysine; P1283; 1988
+Vasotocin, arginine; P6514; 2003
+VAVP, d(CH2)5-D-Tyr(Et)-;; P4314; 1999
+Vemurafenib; Q2184; 2012
+Venlafaxine; P2689; 1993
+Verapamil; P1035; 1986
+Verapamil HCl; P1374; 1988
+Verapamil, methoxy-; P2161; 1992
+Vessel dilator; kaliuretic peptide; atrial natriuretic factor; long-acting natriuretic peptide; Q1201; 2010
+VIA receptor anatogonist; Q2419; 2012
+Vigabatrin; P4249; 1994
+Vildagliptin; exenatide; chloroquine; Q4986; 2015
+Vimentin, recombinant human; Q5203; 2016
+Vinblastine; P1935; 1991
+Vinblastine sulfate; P8474; 2000
+Vincamine HCl; P0669; 1985
+Vincristine; Q5554; 2004
+Vincristine sulfate; P8148; 2006
+Vincristine sulfate; Q3517; 2014
+VIPER; Q3778; 2015
+Virus, adeno-associated, with bacterial gene seq; P3410; 1996
+Virus, sinbis suspension; P6905; 2005
+Virus, synthetic RNA; R0238; 2006
+Visfatin; Q4187; 2014
+Vitamin B12; P3776; 1997
+Vitamin B12 analog; P1825; 1990
+Vitamin D; P3992; 1999
+Vitamin D3; P8554; 2007
+Vitamin D3 metabolites; P2521; 1986
+Vitamin D3, 1,25-dihydroxy; Q2055; 2012
+Vitamin D3, 24,25-dihydroxy-; Vitamin D3, 25-dihydroxy-; Vitamin D3, 1,25-dihydroxy-; P0236; 1982
+Vitamin D3, 24,25-dihydroxy-; Vitamin D3, 25-hydroxy-; P5121; 2002
+Vitamin D3, 125-dihydroxy-; vitamin D3, 25-dihydroxy-; P5867; 2003
+Vitamin D, 1 alpha 25-dihydroxy; Vitamin D hybrid, 1 alpha 25-dihydroxy; Q1190; 2010
+Vitamin D, 1,25-dihydroxy-; P8175; 1987
+Vitamin E; P3759; 1997
+Vivo-morpholino; Q4862; 2016
+VIVT peptide; scrambled control peptide; Q00165; 2009
+Vortioxetine; escitalopram; Q4925; 2015
+Vortioxetine; fluoxetine; SR57227; Q4327; 2015
+V-PYRRO/NO; P6058; 2003
+VRP26, Fentanyl; Q5277; 2016
+VX; P9487; 2008
+VX-166; Q0442; 2009
+VX; dye, coomassie blue; P9438; 2008
+
+
+W
+
+W-7; Q1367; 2011
+Warfarin, S-; P3032; 1992
+WASP-1; Q3792; 2015
+Water, distilled; Q4440; 2015
+WAY-100,635; P5778; 2003
+WAY-132983; Xanomeline; Arecoline; P4666; 2000
+WEB 2086; Dexamethasone; P1865; 1990
+WF-536; P5945; 2003
+WI peptide; Q00221; 2009
+WIN-55,212-2; P9281; 2008
+Wnt1; brain-derived neurotrophic factor; Q1178; 2011
+Wnt3a; Q3354; 2013
+Worm extract -A.cantonensis; Worm secretions -A.cantonensis; P0963; 1986
+Wortmannin; P6045; 2003
+WR-2721; P0913; 1986
+Wy-14643; P7545; 2005
+Wy-40972; P9505; 2009
+
+
+X
+
+Xanthine, 8-cyclopentyl-1,3-dimethyl; Q1071; 2011
+Xanthohumol; Q2654; 2012
+XAV939; wnt3a, recombinant; Q3513; 2014
+Xenin; neurotensin; Q0038; 2009
+XENP345; P9816; 2009
+XHE-III-74EE; Q5352; 2016
+Xib13; Q5039; 2014
+XNT; A-779; P9406; 2009
+XPro1595; Q3052; 2013
+
+
+Y
+
+Y-27632; P8374; 2007
+YL-2-203; VMY-2-94; Q5886; 2017
+YM022;; P4286; 1999
+YM155; Q4337; 2015
+YM348; P6582; 2004
+YM992; P5369; 2002
+YM-155; Q2913; 2013
+Yohimbine HCl; P1863; 1991
+YS1332D; AG2006; P6135; 2003
+YVAD-CMK, Ac-; P8655; 2007
+
+
+Z
+
+Zabiciprilate; P2492; 1993
+Zaprinast; cyclic GMP; P7227; 2005
+zAsp-DCB; Q4489; 2015
+ZD6126; P5784; 2002
+ZD7349; P5007; 2000
+ZD9331; P4834; 2001
+Z-DEVD-FMK; Q3840; 2015
+Zebularine; Q3411; 2014
+Zeranol; P3799; 1995
+Zinc chloride; P5074; 2002
+ZK-36374; P0876; 1986
+ZnDTPA; P1415; 1988
+Zosyn, SC4; Q4922; 2013
+Z-VAD; Z-DEVD-FMK; Z-LEHD; Z-FA-FMK; P9690; 2008
+Z-VAD-FMK; Z-DEVD-FMK; Z-LEHD-FMK; Q3956; 2014
+
